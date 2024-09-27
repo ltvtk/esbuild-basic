@@ -1,0 +1,35 @@
+{
+    "default":{
+        "basic-code":[
+            {
+                "title":"learn code",
+                "link":"code.org"
+            },
+            {
+                "title":"microbits",
+                "link":"microbit.com"
+            }
+        ],
+        "programing":[
+            {
+                "title":"github",
+                "link":"github.com"
+            },
+            {
+                "title":"replit",
+                "link":"replit.com"
+            }
+        ]
+    },
+    "whitelist":[
+        "github.com",
+        "code.org",
+        "pbskids.org",
+        "apple.com",
+        "microbit.com"
+    ],
+    "blacklist":[
+        "google.com",
+        "scratch.mit.edu"
+    ]
+}
