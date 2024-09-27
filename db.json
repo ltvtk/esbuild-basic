@@ -1,37 +1,42 @@
 {
-    "default":{
-        "basic-code":[
-            {
-                "title":"learn code",
-                "link":"code.org"
-            },
-            {
-                "title":"microbits",
-                "link":"microbit.com"
-            }
-        ],
-        "programing":[
-            {
-                "title":"github",
-                "link":"github.com"
-            },
-            {
-                "title":"replit",
-                "link":"replit.com"
-            }
-        ]
+  "whitelist": [
+    {
+      "domain": "code.org",
+      "blacklistedPaths": ["/minecraft", "/hour-of-code"]
     },
-    "whitelist":[
-        "github.com",
-        "code.org",
-        "pbskids.org",
-        "apple.com",
-        "microbit.com",
-        "blank.org",
-        "youtube.com"
+    {
+      "domain": "example.com"
+    }
+  ],
+  "blacklist": [
+    {
+      "domain": "youtube.com",
+      "whitelistedPaths": ["/embed/"]
+    },
+    {
+      "domain": "facebook.com"
+    }
+  ],
+  "default": {
+    "Education": [
+      {
+        "title": "Code.org",
+        "link": "https://code.org"
+      },
+      {
+        "title": "Khan Academy",
+        "link": "https://www.khanacademy.org"
+      }
     ],
-    "blacklist":[
-        "google.com",
-        "scratch.mit.edu"
+    "News": [
+      {
+        "title": "Reuters",
+        "link": "https://www.reuters.com"
+      },
+      {
+        "title": "Associated Press",
+        "link": "https://apnews.com"
+      }
     ]
+  }
 }
