@@ -2,7 +2,8 @@
     "whitelist": [
       {
         "domain": "code.org",
-        "blacklistedPaths": ["/minecraft", "/projects","s/hero","/s/aquatic","/s/minecraft"]
+        "blacklistedPaths": ["/minecraft", "/projects","s/hero","/s/aquatic","/s/minecraft",
+      "s/*/lessons/15","s/*/lessons/18","s/*/lessons/21"]
       },
       {
         "domain": "github.com"
