@@ -1,42 +1,64 @@
 {
-  "whitelist": [
-    {
-      "domain": "code.org",
-      "blacklistedPaths": ["/minecraft", "/hour-of-code"]
-    },
-    {
-      "domain": "example.com"
-    }
-  ],
-  "blacklist": [
-    {
-      "domain": "youtube.com",
-      "whitelistedPaths": ["/embed/"]
-    },
-    {
-      "domain": "facebook.com"
-    }
-  ],
-  "default": {
-    "Education": [
+    "whitelist": [
       {
-        "title": "Code.org",
-        "link": "https://code.org"
+        "domain": "code.org",
+        "blacklistedPaths": ["/minecraft", "/projects","s/hero","/s/aquatic","/s/minecraft"]
       },
       {
-        "title": "Khan Academy",
-        "link": "https://www.khanacademy.org"
+        "domain": "github.com"
+      },
+      {
+        "domain": "github.io"
+      },
+      {
+        "domain": "replit.com"
+      },
+      {
+        "domain": "repl.it"
+      },
+      {
+        "domain": "tinhoctre.vn"
+      },
+      {
+        "domain": "vnoi.info"
+      },
+      {
+        "domain": "localhost"
+      },
+      {
+        "domain": "about:blank"
       }
     ],
-    "News": [
+    "blacklist": [
       {
-        "title": "Reuters",
-        "link": "https://www.reuters.com"
+        "domain": "youtube.com",
+        "whitelistedPaths": ["/embed/*?channel=@MollyofDenali"]
       },
       {
-        "title": "Associated Press",
-        "link": "https://apnews.com"
+        "domain": "pbskids.org",
+        "whitelistedPaths": ["/gardening","/md-canoeing-game"]
       }
-    ]
+    ],
+    "default": {
+      "1st code": [
+        {
+          "title": "Code.org",
+          "link": "https://code.org"
+        },
+        {
+          "title": "Khan Academy",
+          "link": "https://www.khanacademy.org"
+        }
+      ],
+      "English": [
+        {
+          "title": "Molly-gardening",
+          "link": "https://springroll-tc.pbskids.org/gardening/bf5a8be530b2b34bf4cedf90944f1bee2a12c924/release/index.html"
+        },
+        {
+          "title": "Molly-cano",
+          "link": "https://springroll-tc.pbskids.org/md-canoeing-game/d3d278118b03ac8b25fed4c542e450baced28850/release/index.html"
+        }
+      ]
+    }
   }
-}
