@@ -3,7 +3,7 @@
       {
         "domain": "code.org",
         "blacklistedPaths": ["/minecraft", "/projects","s/hero","/s/aquatic","/s/minecraft",
-      "s/*/lessons/15","s/*/lessons/18","s/*/lessons/21"]
+      "s/*/lessons/15/*","s/*/lessons/18/*","s/*/lessons/21"]
       },
       {
         "domain": "github.com"
@@ -33,11 +33,11 @@
     "blacklist": [
       {
         "domain": "youtube.com",
-        "whitelistedPaths": ["/embed/*?channel=@MollyofDenali"]
+        "whitelistedPaths": ["/embed/*?channel=@MollyofDenali*"]
       },
       {
         "domain": "pbskids.org",
-        "whitelistedPaths": ["/gardening","/md-canoeing-game"]
+        "whitelistedPaths": ["/gardening/*","/md-canoeing-game/*"]
       }
     ],
     "default": {
