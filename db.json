@@ -40,6 +40,9 @@
     },
     {
       "domain": "raspberrypi.org"
+    },
+    {
+      "domain": "blockly.games"
     }
     
   ],
@@ -123,12 +126,6 @@
                 "id": "hoc03",
                 "name": "Beaver Achive",
                 "url": "https://app.codemonkey.com/beaver-achiever/hour-of-code/1",
-                "editable": false
-              },
-              {
-                "id": "hoc03",
-                "name": "Super Mario",
-                "url": "https://code.hatchxr.com/super-mario?step=1",
                 "editable": false
               }
             ]
