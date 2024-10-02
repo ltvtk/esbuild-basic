@@ -59,6 +59,9 @@
     },
     {
       "domain": "kientaotam.com"
+    },
+    {
+      "domain": "wikipedia.org"
     }
   ],
   "blacklist": [
@@ -227,12 +230,11 @@
     ],
     "English": [
       {
-        "name": "PBS Kids Games",
+        "name": "PBS Kids",
         "isFolder": true,
         "editable": true,
         "children": [
           {
-            "id": "bookmark7",
             "name": "Molly-gardening",
             "url": "https://springroll-tc.pbskids.org/gardening/bf5a8be530b2b34bf4cedf90944f1bee2a12c924/release/index.html",
             "editable": false
@@ -245,12 +247,7 @@
         ]
       }
     ],
-    "Useful Tools": [
-      {
-        "name": "Google",
-        "url": "https://www.google.com",
-        "editable": true
-      },
+    "Useful Links": [
       {
         "name": "Wikipedia",
         "url": "https://www.wikipedia.org",
