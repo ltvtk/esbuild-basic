@@ -31,7 +31,17 @@
     },
     {
       "domain": "disney.io"
+    },
+    {
+      "domain": "hatchxr.com"
+    },
+    {
+      "domain": "codemonkey.com"
+    },
+    {
+      "domain": "raspberrypi.org"
     }
+    
   ],
   "blacklist": [
     {
@@ -63,8 +73,20 @@
             "children": [
               {
                 "id": "code01",
-                "name": "Code.org",
-                "url": "https://code.org",
+                "name": "Classic Maze",
+                "url": "https://studio.code.org/hoc/1",
+                "editable": false
+              },
+              {
+                "id": "code01",
+                "name": "Flappy Bird",
+                "url": "https://studio.code.org/flappy/1",
+                "editable": false
+              },
+              {
+                "id": "code01",
+                "name": "Star Wars",
+                "url": "https://studio.code.org/s/starwars/lessons/1/levels/1",
                 "editable": false
               }
             ]
@@ -85,6 +107,18 @@
                 "id": "hoc02",
                 "name": "Disney Moan",
                 "url": "https://e304920c.content.disney.io/index.html",
+                "editable": false
+              },
+              {
+                "id": "hoc03",
+                "name": "Beaver Achive",
+                "url": "https://app.codemonkey.com/beaver-achiever/hour-of-code/1",
+                "editable": false
+              },
+              {
+                "id": "hoc03",
+                "name": "Super Mario",
+                "url": "https://code.hatchxr.com/super-mario?step=1",
                 "editable": false
               }
             ]
