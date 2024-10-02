@@ -77,6 +77,66 @@
             "editable": false,
             "children": [
               {
+                "name": "01-sequence",
+                "url": "https://studio.code.org/s/express-2024/lessons/1/levels/2?section_id=5544519",
+                "editable": false
+              },
+              {
+                "name": "Ex-Harvester",
+                "url": "https://studio.code.org/s/courseb-2024/lessons/5/levels/2?section_id=5544519&viewAs=Instructor",
+                "editable": false
+              },
+              {
+                "name": "02-Loop",
+                "url": "https://studio.code.org/s/express-2024/lessons/11/levels/5?section_id=5544519",
+                "editable": false
+              },
+              {
+                "name": "Ex-Harvester-loop",
+                "url": "https://studio.code.org/s/coursec-2024/lessons/9/levels/2?section_id=5544519&viewAs=Instructor",
+                "editable": false
+              },
+              {
+                "name": "03-nested-loop",
+                "url": "https://studio.code.org/s/express-2024/lessons/13/levels/2?section_id=5544519",
+                "editable": false
+              },
+              {
+                "name": "Ex-Bee-loop-loop",
+                "url": "https://studio.code.org/s/express-2024/lessons/28/levels/1?section_id=5544519",
+                "editable": false
+              },
+              {
+                "name": "04-IF ELSE",
+                "url": "https://studio.code.org/s/express-2024/lessons/16/levels/1?section_id=5544519",
+                "editable": false
+              },
+              {
+                "name": "05-While",
+                "url": "https://studio.code.org/s/express-2024/lessons/17/levels/1?section_id=5544519",
+                "editable": false
+              },
+              {
+                "name": "06-Until-loop",
+                "url": "https://studio.code.org/s/express-2024/lessons/19/levels/1?section_id=5544519",
+                "editable": false
+              },
+              {
+                "name": "07-Conditional",
+                "url": "https://studio.code.org/s/express-2024/lessons/20/levels/2?section_id=5544519",
+                "editable": false
+              },
+              {
+                "name": "08-Function",
+                "url": "https://studio.code.org/s/express-2024/lessons/22/levels/2?section_id=5544519",
+                "editable": false
+              },
+              {
+                "name": "09-Variables",
+                "url": "https://studio.code.org/s/express-2024/lessons/27/levels/2?section_id=5544519",
+                "editable": false
+              },
+              {
                 "name": "Classic Maze",
                 "url": "https://studio.code.org/hoc/1",
                 "editable": false
@@ -140,7 +200,7 @@
         ]
       }
     ],
-    "Educational Games": [
+    "English": [
       {
         "name": "PBS Kids Games",
         "isFolder": true,
