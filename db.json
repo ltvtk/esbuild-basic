@@ -43,8 +43,23 @@
     },
     {
       "domain": "blockly.games"
+    },
+    {
+      "domain": "python.org"
     }
-    
+    ,
+    {
+      "domain": "trinket.io"
+    },
+    {
+      "domain": "raspberrypi.org"
+    },
+    {
+      "domain": "kiddle.co"
+    },
+    {
+      "domain": "kientaotam.com"
+    }
   ],
   "blacklist": [
     {
@@ -183,19 +198,29 @@
         ]
       },
       {
-        "name": "Documentation",
+        "name": "Docs",
         "isFolder": true,
         "editable": true,
         "children": [
           {
-            "name": "MDN Web Docs",
-            "url": "https://developer.mozilla.org",
+            "name": "Search ...",
+            "url": "https://www.kiddle.co/",
             "editable": true
           },
           {
-            "name": "Python Documentation",
-            "url": "https://docs.python.org",
-            "editable": false
+            "name": "Python turtle",
+            "url": "https://docs.python.org/3/library/turtle.html",
+            "editable": true
+          },
+          {
+            "name": "Pygame Zero tutorial",
+            "url": "https://aposteriori.trinket.io/game-development-with-pygame-zero#/gem-catcher/first-program",
+            "editable": true
+          },
+          {
+            "name": "Scratch tutorial",
+            "url": "https://projects.raspberrypi.org/en/collections/scratch",
+            "editable": true
           }
         ]
       }
