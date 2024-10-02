@@ -55,6 +55,10 @@
     {
       "domain": "numuki.com",
       "whitelistedPaths": ["/games/blaze/blaze-learn-to-code*"]
+    },
+    {
+      "domain": "tynker.com",
+      "whitelistedPaths": ["/ide/*puppy-adventure*"]
     }
   ],
   "default": {
@@ -101,6 +105,12 @@
                 "id": "hoc01",
                 "name": "Blaze robot",
                 "url": "https://files.numuki.com/games/blaze/blaze-learn-to-code/index.html",
+                "editable": false
+              },
+              {
+                "id": "hoc01b",
+                "name": "Puppy adventure",
+                "url": "https://www.tynker.com/ide/v3?type=course&slug=activity:puppy-adventure&chapter=0&lesson=0",
                 "editable": false
               },
               {
