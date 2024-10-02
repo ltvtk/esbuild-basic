@@ -59,7 +59,7 @@
             "id": "Elementry01",
             "name": "Code.org",
             "isFolder": true,
-            "editable": true,
+            "editable": false,
             "children": [
               {
                 "id": "code01",
