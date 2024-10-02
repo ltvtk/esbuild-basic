@@ -38,45 +38,37 @@
     {
       "domain": "pbskids.org",
       "whitelistedPaths": ["/gardening/*","/md-canoeing-game/*"]
+    },
+    {
+      "domain": "numuki.com",
+      "whitelistedPaths": ["/games/blaze/blaze-learn-to-code*"]
     }
   ],
   "default": {
-    "Programming": [
+    "Code": [
       {
-        "id": "folder1",
-        "name": "Learning Resources",
+        "id": "Code1",
+        "name": "Basic",
         "isFolder": true,
-        "editable": true,
+        "editable": false,
         "children": [
           {
-            "id": "bookmark1",
-            "name": "Code.org",
-            "url": "https://code.org",
-            "editable": false
-          },
-          {
-            "id": "bookmark2",
-            "name": "Khan Academy",
-            "url": "https://www.khanacademy.org",
-            "editable": true
-          },
-          {
-            "id": "folder2",
-            "name": "Advanced Topics",
+            "id": "CodeFolder1",
+            "name": "Elementry",
             "isFolder": true,
             "editable": true,
             "children": [
               {
-                "id": "bookmark3",
-                "name": "LeetCode",
-                "url": "https://leetcode.com",
-                "editable": true
+                "id": "basic01",
+                "name": "Code.org",
+                "url": "https://code.org",
+                "editable": false
               },
               {
-                "id": "bookmark4",
-                "name": "HackerRank",
-                "url": "https://www.hackerrank.com",
-                "editable": true
+                "id": "basic02",
+                "name": "Blaze robot",
+                "url": "https://files.numuki.com/games/blaze/blaze-learn-to-code/index.html",
+                "editable": false
               }
             ]
           }
