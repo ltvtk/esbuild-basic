@@ -1,65 +1,143 @@
 {
-    "whitelist": [
-      {
-        "domain": "code.org",
-        "blacklistedPaths": ["/minecraft", "/projects","/s/hero","/s/aquatic","/s/minecraft",
-      "/s/*/lessons/15/*","/s/*/lessons/18/*","/s/*/lessons/21"]
-      },
-      {
-        "domain": "github.com"
-      },
-      {
-        "domain": "github.io"
-      },
-      {
-        "domain": "replit.com"
-      },
-      {
-        "domain": "repl.it"
-      },
-      {
-        "domain": "tinhoctre.vn"
-      },
-      {
-        "domain": "vnoi.info"
-      },
-      {
-        "domain": "localhost"
-      },
-      {
-        "domain": "about:blank"
-      }
-    ],
-    "blacklist": [
-      {
-        "domain": "youtube.com",
-        "whitelistedPaths": ["/embed/*?channel=@MollyofDenali*"]
-      },
-      {
-        "domain": "pbskids.org",
-        "whitelistedPaths": ["/gardening/*","/md-canoeing-game/*"]
-      }
-    ],
-    "default": {
-      "1st code": [
-        {
-          "title": "Code.org",
-          "link": "https://code.org"
-        },
-        {
-          "title": "Khan Academy",
-          "link": "https://www.khanacademy.org"
-        }
-      ],
-      "English": [
-        {
-          "title": "Molly-gardening",
-          "link": "https://springroll-tc.pbskids.org/gardening/bf5a8be530b2b34bf4cedf90944f1bee2a12c924/release/index.html"
-        },
-        {
-          "title": "Molly-cano",
-          "link": "https://springroll-tc.pbskids.org/md-canoeing-game/d3d278118b03ac8b25fed4c542e450baced28850/release/index.html"
-        }
-      ]
+  "whitelist": [
+    {
+      "domain": "code.org",
+      "blacklistedPaths": ["/minecraft", "/projects","/s/hero","/s/aquatic","/s/minecraft",
+    "/s/*/lessons/15/*","/s/*/lessons/18/*","/s/*/lessons/21/*"]
+    },
+    {
+      "domain": "github.com"
+    },
+    {
+      "domain": "github.io"
+    },
+    {
+      "domain": "replit.com"
+    },
+    {
+      "domain": "repl.it"
+    },
+    {
+      "domain": "tinhoctre.vn"
+    },
+    {
+      "domain": "vnoi.info"
+    },
+    {
+      "domain": "localhost"
+    },
+    {
+      "domain": "about:blank"
     }
+  ],
+  "blacklist": [
+    {
+      "domain": "youtube.com",
+      "whitelistedPaths": ["/embed/*?channel=@MollyofDenali*"]
+    },
+    {
+      "domain": "pbskids.org",
+      "whitelistedPaths": ["/gardening/*","/md-canoeing-game/*"]
+    }
+  ],
+  "default": {
+    "Programming": [
+      {
+        "id": "folder1",
+        "name": "Learning Resources",
+        "isFolder": true,
+        "editable": true,
+        "children": [
+          {
+            "id": "bookmark1",
+            "name": "Code.org",
+            "url": "https://code.org",
+            "editable": false
+          },
+          {
+            "id": "bookmark2",
+            "name": "Khan Academy",
+            "url": "https://www.khanacademy.org",
+            "editable": true
+          },
+          {
+            "id": "folder2",
+            "name": "Advanced Topics",
+            "isFolder": true,
+            "editable": true,
+            "children": [
+              {
+                "id": "bookmark3",
+                "name": "LeetCode",
+                "url": "https://leetcode.com",
+                "editable": true
+              },
+              {
+                "id": "bookmark4",
+                "name": "HackerRank",
+                "url": "https://www.hackerrank.com",
+                "editable": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "folder3",
+        "name": "Documentation",
+        "isFolder": true,
+        "editable": true,
+        "children": [
+          {
+            "id": "bookmark5",
+            "name": "MDN Web Docs",
+            "url": "https://developer.mozilla.org",
+            "editable": true
+          },
+          {
+            "id": "bookmark6",
+            "name": "Python Documentation",
+            "url": "https://docs.python.org",
+            "editable": false
+          }
+        ]
+      }
+    ],
+    "Educational Games": [
+      {
+        "id": "folder4",
+        "name": "PBS Kids Games",
+        "isFolder": true,
+        "editable": true,
+        "children": [
+          {
+            "id": "bookmark7",
+            "name": "Molly-gardening",
+            "url": "https://springroll-tc.pbskids.org/gardening/bf5a8be530b2b34bf4cedf90944f1bee2a12c924/release/index.html",
+            "editable": false
+          },
+          {
+            "id": "bookmark8",
+            "name": "Molly-cano",
+            "url": "https://springroll-tc.pbskids.org/md-canoeing-game/d3d278118b03ac8b25fed4c542e450baced28850/release/index.html",
+            "editable": false
+          }
+        ]
+      }
+    ],
+    "Useful Tools": [
+      {
+        "id": "bookmark9",
+        "name": "Google",
+        "url": "https://www.google.com",
+        "editable": true
+      },
+      {
+        "id": "bookmark10",
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org",
+        "editable": true
+      }
+    ]
   }
+}
