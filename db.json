@@ -28,6 +28,9 @@
     },
     {
       "domain": "about:blank"
+    },
+    {
+      "domain": "disney.io"
     }
   ],
   "blacklist": [
@@ -48,26 +51,40 @@
     "Code": [
       {
         "id": "Code1",
-        "name": "Basic",
+        "name": "Elementry",
         "isFolder": true,
         "editable": false,
         "children": [
           {
-            "id": "CodeFolder1",
-            "name": "Elementry",
+            "id": "Elementry01",
+            "name": "Code.org",
             "isFolder": true,
             "editable": true,
             "children": [
               {
-                "id": "basic01",
+                "id": "code01",
                 "name": "Code.org",
                 "url": "https://code.org",
                 "editable": false
-              },
+              }
+            ]
+          },
+          {
+            "id": "Elementry02",
+            "name": "Hour-of-code",
+            "isFolder": true,
+            "editable": false,
+            "children": [
               {
-                "id": "basic02",
+                "id": "hoc01",
                 "name": "Blaze robot",
                 "url": "https://files.numuki.com/games/blaze/blaze-learn-to-code/index.html",
+                "editable": false
+              },
+              {
+                "id": "hoc02",
+                "name": "Disney Moan",
+                "url": "https://e304920c.content.disney.io/index.html",
                 "editable": false
               }
             ]
