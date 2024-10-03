@@ -755,7 +755,7 @@
       {
         "name": "Tutorials",
         "isFolder": true,
-        "editable": true,
+        "editable": false,
         "children": [
           {
             "name": "Scratch Basic",
