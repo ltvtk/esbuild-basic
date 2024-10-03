@@ -609,7 +609,7 @@
   "blacklist": [
     {
       "domain": "youtube.com",
-      "whitelistedPaths": ["/embed/*?channel=@MollyofDenali*"]
+      "whitelistedPaths": ["/embed/*?channel=@MollyofDenali*","/embed/*PLLhOnau-tupSS-eFNBOwqgfQHpOV3ASqN*"]
     },
     {
       "domain": "pbskids.org",
@@ -831,6 +831,18 @@
           ]
         }
           
+        ]
+      },
+      {
+        "name": "Youtube Kids",
+        "isFolder": true,
+        "editable": true,
+        "children": [
+          {
+            "name": "Molly of Daneli",
+            "url": "https://www.youtube.com/embed/vCqyUCv20GI?list=PLLhOnau-tupSS-eFNBOwqgfQHpOV3ASqN",
+            "editable": false
+          }
         ]
       }
     ],
