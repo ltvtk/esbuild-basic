@@ -71,8 +71,9 @@
     },
     {
       "domain": "pbskids.org",
-      "whitelistedPaths": ["/gardening/*","/md-canoeing-game/*","/designsquad/games/*"
-      ,"/molly/games/*","/plumlanding/games/*","/oddsquad/games/*","/readyjetgo/games/*","/catinthehat/games/*"]
+      "whitelistedPaths": ["/gardening/*","/md-canoeing-game/*","/designsquad/games*"
+      ,"/molly/games*","/plumlanding/games*","/oddsquad/games*","/catinthehat/games*",
+    "/curiousgeorge/busyday*","/space-scouts-home-base/*","/cith-bridge-builder/*"]
     },
     {
       "domain": "numuki.com",
@@ -241,36 +242,21 @@
             "children":[
               {
                 "name": "01-CG-busy day",
-                "url": "https://springroll-tc.pbskids.org/ribbit/09b1933196f44527a9e8d7c578d8bd2bdd9bae65/release/index.html",
+                "url": "https://pbskids.org/curiousgeorge/busyday/",
                 "editable": false
               },
               {
-                "name": "02-CG-10",
-                "url": "https://springroll-tc.pbskids.org/museum-of-tens/06261cff47d605a395ae88981d2285783d7ee6a0/release/index.html",
-                "editable": false
-              },
-              {
-                "name": "03-CG-Train Station",
-                "url": "https://springroll-tc.pbskids.org/train-station/8942b7605779c4b24f6f283ed51949c5cbab8855/release/index.html",
-                "editable": false
-              },
-              {
-                "name": "04-CG-Meatball launcher",
-                "url": "https://springroll-tc.pbskids.org/meatball-launcher/334db4006b55cbc10251c4d36a8e5aa2c9ed0744/release/index.html",
-                "editable": false
-              },
-              {
-                "name": "05-RJG-Space scouts",
+                "name": "02-RJG-Space scouts",
                 "url": "https://springroll-tc.pbskids.org/space-scouts-home-base/3afb9dc78b7e295dc7f47497f1d167a6b5bea849/release/index.html",
                 "editable": false
               },
               {
-                "name": "06-Bridge builder",
+                "name": "03-Bridge builder",
                 "url": "https://springroll-tc.pbskids.org/cith-bridge-builder/d57ff27195ad67af889bb053068fea992783ce33/release/index.html",
                 "editable": false
               },
               {
-                "name": "07-Design Squad",
+                "name": "04-Design Squad",
                 "url": "https://pbskids.org/designsquad/games/",
                 "editable": false
               }
@@ -298,11 +284,6 @@
             {
               "name": "The Cat in the hat",
               "url": "https://pbskids.org/catinthehat/games/",
-              "editable": false
-            },
-            {
-              "name": "Ready Jet Go",
-              "url": "https://pbskids.org/readyjetgo/games",
               "editable": false
             }
           ]
