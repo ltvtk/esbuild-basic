@@ -609,7 +609,15 @@
   "blacklist": [
     {
       "domain": "youtube.com",
-      "whitelistedPaths": ["/embed/*?channel=@MollyofDenali*","/embed/*PLLhOnau-tupSS-eFNBOwqgfQHpOV3ASqN*"]
+      "whitelistedPaths": ["/embed/*?channel=@MollyofDenali*",
+      "/embed/*PLLhOnau-tupSS-eFNBOwqgfQHpOV3ASqN*",
+      "/embed/*PLP4H73sp9PL9CbQD8m2Erc7FbZbPHMJZA*",
+      "/embed/*PLdkj6XH8GYPS6ArBvqavheM_7d705YD-s*",
+      "/embed/*PLpfxVARjkP-_f-E9IU6IHmy5ECj0HqiLB*",
+      "/embed/*PLrsH46EwyUzTVIeueQYFG6SFr9tZVJgEH*",
+      "/embed/*PLamcOkhpSCR2iBCxOico0oiYeMWnEkB_Y*",
+      "/embed/*PLS9qLR8VoFA56NWSswK2daQSovI9QCpQE*"
+    ]
     },
     {
       "domain": "pbskids.org",
@@ -745,17 +753,32 @@
         ]
       },
       {
-        "name": "Docs",
+        "name": "Tutorials",
         "isFolder": true,
         "editable": true,
         "children": [
           {
-            "name": "Search ...",
-            "url": "https://www.kiddle.co/",
-            "editable": true
+            "name": "Scratch Basic",
+            "url": "https://www.youtube.com/embed/videoseries?list=PLpfxVARjkP-_f-E9IU6IHmy5ECj0HqiLB",
+            "editable": false
           },
           {
-            "name": "Python turtle",
+            "name": "Platformer game",
+            "url": "https://www.youtube.com/embed/videoseries?list=PLrsH46EwyUzTVIeueQYFG6SFr9tZVJgEH",
+            "editable": false
+          },
+          {
+            "name": "Scratch intermedia",
+            "url": "https://www.youtube.com/embed/videoseries?list=PLamcOkhpSCR2iBCxOico0oiYeMWnEkB_Y",
+            "editable": false
+          },
+          {
+            "name": "Python turtle video tutorial",
+            "url": "https://www.youtube.com/embed/videoseries?list=PLS9qLR8VoFA56NWSswK2daQSovI9QCpQE",
+            "editable": false
+          },
+          {
+            "name": "Python turtle docs",
             "url": "https://docs.python.org/3/library/turtle.html",
             "editable": true
           },
@@ -765,8 +788,13 @@
             "editable": true
           },
           {
-            "name": "Scratch tutorial",
+            "name": "Scratch tutorial docs",
             "url": "https://projects.raspberrypi.org/en/collections/scratch",
+            "editable": true
+          },
+          {
+            "name": "Search ...",
+            "url": "https://www.kiddle.co/",
             "editable": true
           }
         ]
@@ -840,7 +868,17 @@
         "children": [
           {
             "name": "Molly of Daneli",
-            "url": "https://www.youtube.com/embed/vCqyUCv20GI?list=PLLhOnau-tupSS-eFNBOwqgfQHpOV3ASqN",
+            "url": "https://www.youtube.com/embed/videoseries?list=PLLhOnau-tupSS-eFNBOwqgfQHpOV3ASqN",
+            "editable": false
+          },
+          {
+            "name": "Wild Kratts",
+            "url": "https://www.youtube.com/embed/videoseries?list=PLP4H73sp9PL9CbQD8m2Erc7FbZbPHMJZA",
+            "editable": false
+          },
+          {
+            "name": "Super simple song",
+            "url": "https://www.youtube.com/embed/videoseries?list=PLdkj6XH8GYPS6ArBvqavheM_7d705YD-s",
             "editable": false
           }
         ]
