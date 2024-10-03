@@ -1,69 +1,611 @@
 {
   "whitelist": [
-    {
-      "domain": "code.org",
-      "blacklistedPaths": ["/minecraft", "/projects","/s/hero","/s/aquatic","/s/minecraft",
-    "/s/*/lessons/15/*","/s/*/lessons/18/*","/s/*/lessons/21/*"]
-    },
-    {
-      "domain": "github.com"
-    },
-    {
-      "domain": "github.io"
-    },
-    {
-      "domain": "replit.com"
-    },
-    {
-      "domain": "repl.it"
-    },
-    {
-      "domain": "tinhoctre.vn"
-    },
-    {
-      "domain": "vnoi.info"
-    },
-    {
-      "domain": "localhost"
-    },
-    {
-      "domain": "about:blank"
-    },
-    {
-      "domain": "disney.io"
-    },
-    {
-      "domain": "hatchxr.com"
-    },
-    {
-      "domain": "codemonkey.com"
-    },
-    {
-      "domain": "raspberrypi.org"
-    },
-    {
-      "domain": "blockly.games"
-    },
-    {
-      "domain": "python.org"
-    }
-    ,
-    {
-      "domain": "trinket.io"
-    },
-    {
-      "domain": "raspberrypi.org"
-    },
-    {
-      "domain": "kiddle.co"
-    },
-    {
-      "domain": "kientaotam.com"
-    },
-    {
-      "domain": "wikipedia.org"
-    }
-  ],
+        {
+            "domain": "code.org",
+            "blacklistedPaths": ["/minecraft", "/projects","/s/hero","/s/aquatic","/s/minecraft",
+            "/s/*/lessons/15/*","/s/*/lessons/18/*","/s/*/lessons/21/*"]
+        },
+        {
+            "domain": "github.com"
+        },
+        {
+            "domain": "github.io"
+        },
+        {
+            "domain": "replit.com"
+        },
+        {
+            "domain": "repl.it"
+        },
+        {
+            "domain": "tinhoctre.vn"
+        },
+        {
+            "domain": "vnoi.info"
+        },
+        {
+            "domain": "localhost"
+        },
+        {
+            "domain": "about:blank"
+        },
+        {
+            "domain": "disney.io"
+        },
+        {
+            "domain": "hatchxr.com"
+        },
+        {
+            "domain": "codemonkey.com"
+        },
+        {
+            "domain": "raspberrypi.org"
+        },
+        {
+            "domain": "blockly.games"
+        },
+        {
+            "domain": "python.org"
+        },
+        {
+            "domain": "trinket.io"
+        },
+        {
+            "domain": "kiddle.co"
+        },
+        {
+            "domain": "kientaotam.com"
+        },
+        {
+            "domain": "wikipedia.org"
+        },
+        {
+            "domain": "khanacademy.org"
+        },
+        {
+            "domain": "edx.org"
+        },
+        {
+            "domain": "coursera.org"
+        },
+        {
+            "domain": "udacity.com"
+        },
+        {
+            "domain": "ted.com"
+        },
+        {
+            "domain": "harvard.edu"
+        },
+        {
+            "domain": "stanford.edu"
+        },
+        {
+            "domain": "gov.sg"
+        },
+        {
+            "domain": "edu.au"
+        },
+        {
+            "domain": "go.jp"
+        },
+        {
+            "domain": "kmooc.kr"
+        },
+        {
+            "domain": "edu.vn"
+        },
+        {
+            "domain": "gov.vn"
+        },
+        {
+            "domain": "codecombat.com"
+        },
+        {
+            "domain": "codeforces.com"
+        },
+        {
+            "domain": "hackerrank.com"
+        },
+        {
+            "domain": "ocw.mit.edu"
+        },
+        {
+            "domain": "yale.edu"
+        },
+        {
+            "domain": "ac.in"
+        },
+        {
+            "domain": "mathisfun.com"
+        },
+        {
+            "domain": "brilliant.org"
+        },
+        {
+            "domain": "ixl.com"
+        },
+        {
+            "domain": "mathplayground.com"
+        },
+        {
+            "domain": "coolmath.com"
+        },
+        {
+            "domain": "mathway.com"
+        },
+        {
+            "domain": "symbolab.com"
+        },
+        {
+            "domain": "photomath.com"
+        },
+        {
+            "domain": "mathantics.com"
+        },
+        {
+            "domain": "artofproblemsolving.com"
+        },
+        {
+            "domain": "maths.org"
+        },
+        {
+            "domain": "nasa.gov"
+        },
+        {
+            "domain": "nationalgeographic.com"
+        },
+        {
+            "domain": "colorado.edu"
+        },
+        {
+            "domain": "scientificamerican.com"
+        },
+        {
+            "domain": "kidscodecs.com"
+        },
+        {
+            "domain": "sciencebuddies.org"
+        },
+        {
+            "domain": "exploratorium.edu"
+        },
+        {
+            "domain": "howstuffworks.com"
+        },
+        {
+            "domain": "space.com"
+        },
+        {
+            "domain": "sciencenewsforstudents.org"
+        },
+        {
+            "domain": "stevespanglerscience.com"
+        },
+        {
+            "domain": "chemcollective.org"
+        },
+        {
+            "domain": "physicsclassroom.com"
+        },
+        {
+            "domain": "biologycorner.com"
+        },
+        {
+            "domain": "labxchange.org"
+        },
+        {
+            "domain": "concord.org"
+        },
+        {
+            "domain": "asu.edu"
+        },
+        {
+            "domain": "brainpop.com"
+        },
+        {
+            "domain": "quizlet.com"
+        },
+        {
+            "domain": "studystack.com"
+        },
+        {
+            "domain": "memrise.com"
+        },
+        {
+            "domain": "goconqr.com"
+        },
+        {
+            "domain": "anki.net"
+        },
+        {
+            "domain": "cram.com"
+        },
+        {
+            "domain": "sporcle.com"
+        },
+        {
+            "domain": "edpuzzle.com"
+        },
+        {
+            "domain": "nearpod.com"
+        },
+        {
+            "domain": "kahoot.com"
+        },
+        {
+            "domain": "quizizz.com"
+        },
+        {
+            "domain": "socrative.com"
+        },
+        {
+            "domain": "classcraft.com"
+        },
+        {
+            "domain": "peardeck.com"
+        },
+        {
+            "domain": "explorelearning.com"
+        },
+        {
+            "domain": "prodigygame.com"
+        },
+        {
+            "domain": "readworks.org"
+        },
+        {
+            "domain": "newsela.com"
+        },
+        {
+            "domain": "commonlit.org"
+        },
+        {
+            "domain": "readtheory.org"
+        },
+        {
+            "domain": "grammarly.com"
+        },
+        {
+            "domain": "noredink.com"
+        },
+        {
+            "domain": "vocabulary.com"
+        },
+        {
+            "domain": "freerice.com"
+        },
+        {
+            "domain": "typing.com"
+        },
+        {
+            "domain": "nitrotype.com"
+        },
+        {
+            "domain": "typingclub.com"
+        },
+        {
+            "domain": "codecademy.com"
+        },
+        {
+            "domain": "freecodecamp.org"
+        },
+        {
+            "domain": "codewars.com"
+        },
+        {
+            "domain": "grasshopper.app"
+        },
+        {
+            "domain": "w3schools.com"
+        },
+        {
+            "domain": "geeksforgeeks.org"
+        },
+        {
+            "domain": "stackoverflow.com"
+        },
+        {
+            "domain": "leetcode.com"
+        },
+        {
+            "domain": "kaggle.com"
+        },
+        {
+            "domain": "datacamp.com"
+        },
+        {
+            "domain": "duolingo.com"
+        },
+        {
+            "domain": "futurelearn.com"
+        },
+        {
+            "domain": "openlearning.com"
+        },
+        {
+            "domain": "udemy.com"
+        },
+        {
+            "domain": "skillshare.com"
+        },
+        {
+            "domain": "pluralsight.com"
+        },
+        {
+            "domain": "educative.io"
+        },
+        {
+            "domain": "sololearn.com"
+        },
+        {
+            "domain": "mathworks.com"
+        },
+        {
+            "domain": "wolframalpha.com"
+        },
+        {
+            "domain": "desmos.com"
+        },
+        {
+            "domain": "geogebra.org"
+        },
+        {
+            "domain": "topcoder.com"
+        },
+        {
+            "domain": "hackerearth.com"
+        },
+        {
+            "domain": "projecteuler.net"
+        },
+        {
+            "domain": "codinggame.com"
+        },
+        {
+            "domain": "codingame.com"
+        },
+        {
+            "domain": "codechef.com"
+        },
+        {
+            "domain": "spoj.com"
+        },
+        {
+            "domain": "lightbot.com"
+        },
+        {
+            "domain": "alice.org"
+        },
+        {
+            "domain": "codeconquest.com"
+        },
+        {
+            "domain": "codeavengers.com"
+        },
+        {
+            "domain": "codingbat.com"
+        },
+        {
+            "domain": "codehs.com"
+        },
+        {
+            "domain": "codesignal.com"
+        },
+        {
+            "domain": "codingninjas.com"
+        },
+        {
+            "domain": "programiz.com"
+        },
+        {
+            "domain": "learnpython.org"
+        },
+        {
+            "domain": "py4e.com"
+        },
+        {
+            "domain": "pythonanywhere.com"
+        },
+        {
+            "domain": "reeborg.ca"
+        },
+        {
+            "domain": "checkio.org"
+        },
+        {
+            "domain": "edabit.com"
+        },
+        {
+            "domain": "edublocks.org"
+        },
+        {
+            "domain": "codecampkidz.com"
+        },
+        {
+            "domain": "atcoder.jp"
+        },
+        {
+            "domain": "onlinejudge.org"
+        },
+        {
+            "domain": "timus.ru"
+        },
+        {
+            "domain": "usaco.org"
+        },
+        {
+            "domain": "cpbook.net"
+        },
+        {
+            "domain": "olp.xyz"
+        },
+        {
+            "domain": "hocmai.vn"
+        },
+        {
+            "domain": "vietjack.com"
+        },
+        {
+            "domain": "violet.vn"
+        },
+        {
+            "domain": "loigiaihay.com"
+        },
+        {
+            "domain": "moon.vn"
+        },
+        {
+            "domain": "onluyen.vn"
+        },
+        {
+            "domain": "luyenthionline.vn"
+        },
+        {
+            "domain": "vndoc.com"
+        },
+        {
+            "domain": "tuhocit.com"
+        },
+        {
+            "domain": "tienganh123.com"
+        },
+        {
+            "domain": "tienganhmoingay.com"
+        },
+        {
+            "domain": "hoc247.net"
+        },
+        {
+            "domain": "luyenthi123.com"
+        },
+        {
+            "domain": "kenhtuyensinh.vn"
+        },
+        {
+            "domain": "thuvienkhoahoc.com"
+        },
+        {
+            "domain": "sachgiai.com"
+        },
+        {
+            "domain": "thuvienhoclieu.com"
+        },
+        {
+            "domain": "tailieu.vn"
+        },
+        {
+            "domain": "123doc.org"
+        },
+        {
+            "domain": "hochoadaikythuat.com"
+        },
+        {
+            "domain": "toanhoc.net"
+        },
+        {
+            "domain": "toanmath.com"
+        },
+        {
+            "domain": "matviet.net"
+        },
+        {
+            "domain": "khoahoc.tv"
+        },
+        {
+            "domain": "hoc10.vn"
+        },
+        {
+            "domain": "vted.vn"
+        },
+        {
+            "domain": "thichthuhoc.vn"
+        },
+        {
+            "domain": "codegym.vn"
+        },
+        {
+            "domain": "codelearn.io"
+        },
+        {
+            "domain": "eslbuzz.com"
+        },
+        {
+            "domain": "engvid.com"
+        },
+        {
+            "domain": "britishcouncil.org"
+        },
+        {
+            "domain": "eslgold.com"
+        },
+        {
+            "domain": "talkenglish.com"
+        },
+        {
+            "domain": "fluentu.com"
+        },
+        {
+            "domain": "oxfordonlineenglish.com"
+        },
+        {
+            "domain": "vietnamesepod101.com"
+        },
+        {
+            "domain": "learningvietnamese.com"
+        },
+        {
+            "domain": "viettri.com.vn"
+        },
+        {
+            "domain": "tiengvietonline.com.vn"
+        },
+        {
+            "domain": "viettolearnenglish.com"
+        },
+        {
+            "domain": "voca.vn"
+        },
+        {
+            "domain": "tflat.vn"
+        },
+        {
+            "domain": "elllo.org"
+        },
+        {
+            "domain": "lingodeer.com"
+        },
+        {
+            "domain": "hellotalk.com"
+        },
+        {
+            "domain": "busuu.com"
+        },
+        {
+            "domain": "italki.com"
+        },
+        {
+            "domain": "lang-8.com"
+        },
+        {
+            "domain": "umbalena.vn"
+        },
+        {
+            "domain": "tainangviet.vn"
+        },
+        {
+            "domain": "microbit.org"
+        },
+        {
+            "domain": "mindstorms.com"
+        },
+        {
+            "domain": "lego.com"
+        },
+        {
+            "domain": "javascript.info"
+        }
+    ],
   "blacklist": [
     {
       "domain": "youtube.com",
