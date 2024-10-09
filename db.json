@@ -6,6 +6,12 @@
             "/s/*/lessons/15/*","/s/*/lessons/18/*","/s/*/lessons/21/*"]
         },
         {
+            "domain": "chesskid.com"
+        },
+        {
+            "domain": "chess.com"
+        },
+        {
             "domain": "claude.ai"
         },
         {
@@ -19,6 +25,12 @@
         },
         {
             "domain": "gmail.com"
+        },
+        {
+            "domain": "docs.google.com"
+        },
+        {
+            "domain": "remotedesktop.google.com"
         },
         {
             "domain": "co.uk"
@@ -743,10 +755,6 @@
     {
       "domain": "tynker.com",
       "whitelistedPaths": ["/ide/*puppy-adventure*"]
-    },
-    {
-      "domain": "google.com",
-      "whitelistedPaths": ["*docs.google.com*","*mail.google.com*","*remotedesktop.google.com*"]
     }
   ],
   "default": {
@@ -1053,7 +1061,32 @@
         "editable": true
         },
         {
-        "name": "Google Docs",
+        "name": "Chess.com",
+        "url": "https://www.chess.com",
+        "editable": true
+        },
+        {
+        "name": "Chess kid",
+        "url": "https://www.chesskid.com",
+        "editable": true
+        },
+        {
+        "name": "ChatGPT",
+        "url": "https://chatgpt.com/",
+        "editable": true
+        },
+        {
+        "name": "Claude",
+        "url": "https://claude.ai/",
+        "editable": true
+        },
+        {
+        "name": "Gmail",
+        "url": "gmail.com",
+        "editable": true
+        },
+        {
+        "name": "Google docs",
         "url": "https://docs.google.com",
         "editable": true
         }
