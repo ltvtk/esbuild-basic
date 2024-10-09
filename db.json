@@ -6,6 +6,24 @@
             "/s/*/lessons/15/*","/s/*/lessons/18/*","/s/*/lessons/21/*"]
         },
         {
+            "domain": "claude.ai"
+        },
+        {
+            "domain": "chatgpt.com"
+        },
+        {
+            "domain": "quora.com"
+        },
+        {
+            "domain": "reddit.com"
+        },
+        {
+            "domain": "gmail.com"
+        },
+        {
+            "domain": "co.uk"
+        },
+        {
             "domain": "github.com"
         },
         {
@@ -604,6 +622,99 @@
         },
         {
             "domain": "javascript.info"
+        },
+        {
+            "domain": "robolink.com"
+        },
+        {
+            "domain": "makeblock.com"
+        },
+        {
+            "domain": "arduino.cc"
+        },
+        {
+            "domain": "tinkercad.com"
+        },
+        {
+            "domain": "easyeda.com"
+        },
+        {
+            "domain": "xilinx.com"
+        },
+        {
+            "domain": "intel.com"
+        },
+        {
+            "domain": "intel.vn"
+        },
+        {
+            "domain": "amd.com"
+        },
+        {
+            "domain": "nvidia.com"
+        },
+        {
+            "domain": "apple.com"
+        },
+        {
+            "domain": "microsoft.com"
+        },
+        {
+            "domain": "mozilla.org"
+        },
+        {
+            "domain": "amazon.com"
+        },
+        {
+            "domain": "ibm.com"
+        },
+        {
+            "domain": "digitalocean.com"
+        },
+        {
+            "domain": "godaddy.com"
+        },
+        {
+            "domain": "stackblitz.com"
+        },
+        {
+            "domain": "codesandbox.io"
+        },
+        {
+            "domain": "expo.dev"
+        },
+        {
+            "domain": "nativescript.com"
+        },
+        {
+            "domain": "godbolt.org"
+        },
+        {
+            "domain": "judge0.com"
+        },
+        {
+            "domain": "linux.org"
+        },
+        {
+            "domain": "tutorialspoint.com"
+        },
+        {
+            "domain": "ubuntu.com"
+        },
+        {
+            "domain": "geeksforgeeks.org"
+        },
+        {
+            "domain": "berbasoft.com"
+        },
+        {
+            "domain": "pbslearningmedia.org"
+        },
+        {
+            "domain": "Funbrain.com"
+        },
+        {
+            "domain": "mathsisfun.com"
         }
     ],
   "blacklist": [
@@ -632,6 +743,10 @@
     {
       "domain": "tynker.com",
       "whitelistedPaths": ["/ide/*puppy-adventure*"]
+    },
+    {
+      "domain": "google.com",
+      "whitelistedPaths": ["*docs.google.com*","*mail.google.com*","*remotedesktop.google.com*"]
     }
   ],
   "default": {
@@ -788,14 +903,51 @@
             "editable": true
           },
           {
-            "name": "Scratch tutorial docs",
-            "url": "https://projects.raspberrypi.org/en/collections/scratch",
+            "name": "Simple game tutorial",
+            "url": "https://berbasoft.com/simplegametutorials/pygamezero/",
             "editable": true
           },
           {
-            "name": "Search ...",
-            "url": "https://www.kiddle.co/",
+            "name": "Scratch tutorial docs",
+            "url": "https://projects.raspberrypi.org/en/collections/scratch",
             "editable": true
+          }
+        ]
+      },
+      {
+        "name": "Development",
+        "isFolder": true,
+        "editable": false,
+        "children": [
+          {
+            "name": "Codrone Blockly IDE",
+            "url": "https://codrone.robolink.com/edu/blockly",
+            "editable": false
+          },
+          {
+            "name": "Codrone Blockly Lessons",
+            "url": "https://learn.robolink.com/course/codrone-with-blockly/",
+            "editable": false
+          },
+          {
+            "name": "Codrone Python IDE",
+            "url": "https://codrone.robolink.com/edu/python/",
+            "editable": false
+          },
+          {
+            "name": "Codrone Python Lessons",
+            "url": "https://learn.robolink.com/course/codrone-with-python/",
+            "editable": false
+          },
+          {
+            "name": "ML Scratch 3 uk",
+            "url": "https://machinelearningforkids.co.uk/scratch",
+            "editable": false
+          },
+          {
+            "name": "Machine Learning For Kids",
+            "url": "https://machinelearningforkids.co.uk",
+            "editable": false
           }
         ]
       }
@@ -811,23 +963,33 @@
             "editable": false,
             "children":[
               {
-                "name": "01-CG-busy day",
+                "name": "Curious Georgle",
                 "url": "https://pbskids.org/curiousgeorge/busyday/",
                 "editable": false
               },
               {
-                "name": "02-RJG-Space scouts",
+                "name": "RJG-Space scouts",
                 "url": "https://springroll-tc.pbskids.org/space-scouts-home-base/3afb9dc78b7e295dc7f47497f1d167a6b5bea849/release/index.html",
                 "editable": false
               },
               {
-                "name": "03-Bridge builder",
+                "name": "Bridge builder",
                 "url": "https://springroll-tc.pbskids.org/cith-bridge-builder/d57ff27195ad67af889bb053068fea992783ce33/release/index.html",
                 "editable": false
               },
               {
-                "name": "04-Design Squad",
+                "name": "Design Squad",
                 "url": "https://pbskids.org/designsquad/games/",
+                "editable": false
+              },
+              {
+                "name": "Math Playground",
+                "url": "https://www.mathplayground.com/",
+                "editable": false
+              },
+              {
+                "name": "Math is fun",
+                "url": "https://www.mathsisfun.com/",
                 "editable": false
               }
             ]
@@ -852,7 +1014,7 @@
         ]
       },
       {
-        "name": "Youtube Kids",
+        "name": "Videos",
         "isFolder": true,
         "editable": true,
         "children": [
@@ -870,16 +1032,31 @@
             "name": "Super simple song",
             "url": "https://www.youtube.com/embed/videoseries?list=PLdkj6XH8GYPS6ArBvqavheM_7d705YD-s",
             "editable": false
+          },
+          {
+            "name": "PBS learning media",
+            "url": "https://www.pbslearningmedia.org",
+            "editable": false
           }
         ]
       }
     ],
     "Useful Links": [
-      {
+        {
+        "name": "Search ...",
+        "url": "https://www.kiddle.co/",
+        "editable": true
+        },
+        {
         "name": "Wikipedia",
         "url": "https://www.wikipedia.org",
         "editable": true
-      }
+        },
+        {
+        "name": "Google Docs",
+        "url": "https://docs.google.com",
+        "editable": true
+        }
     ]
   }
 }
