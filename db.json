@@ -156,9 +156,6 @@
             "domain": "ixl.com"
         },
         {
-            "domain": "mathplayground.com"
-        },
-        {
             "domain": "coolmath.com"
         },
         {
@@ -988,11 +985,6 @@
               {
                 "name": "Design Squad",
                 "url": "https://pbskids.org/designsquad/games/",
-                "editable": false
-              },
-              {
-                "name": "Math Playground",
-                "url": "https://www.mathplayground.com/",
                 "editable": false
               },
               {
