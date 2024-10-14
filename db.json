@@ -6,7 +6,13 @@
             "/s/*/lessons/15/*","/s/*/lessons/18/*","/s/*/lessons/21/*"]
         },
         {
+            "domain": "cuuduongthancong.com"
+        },
+        {
             "domain": "hoffmanacademy.com"
+        },
+        {
+            "domain": "masterclass.com"
         },
         {
             "domain": "egghead.io"
@@ -1220,6 +1226,11 @@
         {
         "name": "Genmini",
         "url": "https://gemini.google.com",
+        "editable": true
+        },
+        {
+        "name": "Tài Liệu",
+        "url": "https://cuuduongthancong.com",
         "editable": true
         }
     ]
