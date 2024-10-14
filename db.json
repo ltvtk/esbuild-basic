@@ -991,23 +991,18 @@
         "editable": false,
         "children": [
           {
-            "name": "Codrone Blockly IDE",
-            "url": "https://codrone.robolink.com/edu/blockly",
+            "name": "JS game",
+            "url": "https://thaysang.github.io/game",
             "editable": false
           },
           {
-            "name": "Codrone Blockly Lessons",
-            "url": "https://learn.robolink.com/course/codrone-with-blockly/",
+            "name": "React-native Kids",
+            "url": "https://rnkids.github.io",
             "editable": false
           },
           {
-            "name": "Codrone Python IDE",
-            "url": "https://codrone.robolink.com/edu/python/",
-            "editable": false
-          },
-          {
-            "name": "Codrone Python Lessons",
-            "url": "https://learn.robolink.com/course/codrone-with-python/",
+            "name": "Expo dev",
+            "url": "https://expo.dev",
             "editable": false
           },
           {
@@ -1114,6 +1109,16 @@
         "editable": true
         },
         {
+        "name": "Tin Học Trẻ",
+        "url": "https://tinhoctre.vn/",
+        "editable": true
+        },
+        {
+        "name": "Tin học VNOJ",
+        "url": "https://oj.vnoi.info/",
+        "editable": true
+        },
+        {
         "name": "Wikipedia",
         "url": "https://www.wikipedia.org",
         "editable": true
@@ -1129,6 +1134,16 @@
         "editable": true
         },
         {
+        "name": "Gmail",
+        "url": "gmail.com",
+        "editable": true
+        },
+        {
+        "name": "Google docs",
+        "url": "https://docs.google.com",
+        "editable": true
+        },
+        {
         "name": "ChatGPT",
         "url": "https://chatgpt.com/",
         "editable": true
@@ -1139,13 +1154,8 @@
         "editable": true
         },
         {
-        "name": "Gmail",
-        "url": "gmail.com",
-        "editable": true
-        },
-        {
-        "name": "Google docs",
-        "url": "https://docs.google.com",
+        "name": "Genmini",
+        "url": "https://gemini.google.com",
         "editable": true
         }
     ]
