@@ -6,6 +6,15 @@
             "/s/*/lessons/15/*","/s/*/lessons/18/*","/s/*/lessons/21/*"]
         },
         {
+            "domain": "hoffmanacademy.com"
+        },
+        {
+            "domain": "egghead.io"
+        },
+        {
+            "domain": "linkedin.com"
+        },
+        {
             "domain": "chesskid.com"
         },
         {
@@ -1097,6 +1106,61 @@
           {
             "name": "PBS learning media",
             "url": "https://www.pbslearningmedia.org",
+            "editable": false
+          },
+          {
+            "name": "TED ed",
+            "url": "https://ed.ted.com",
+            "editable": false
+          },
+          {
+            "name": "Khan academy",
+            "url": "https://www.khanacademy.org/",
+            "editable": false
+          },
+          {
+            "name": "Courses",
+            "url": "coursera.org",
+            "editable": false
+          },
+          {
+            "name": "EDX",
+            "url": "edx.org",
+            "editable": false
+          },
+          {
+            "name": "Udacity",
+            "url": "udacity.com",
+            "editable": false
+          },
+          {
+            "name": "Linkin Learning",
+            "url": "https://www.linkedin.com/learning",
+            "editable": false
+          },
+          {
+            "name": "Skillshare",
+            "url": "skillshare.com",
+            "editable": false
+          },
+          {
+            "name": "Udemy",
+            "url": "udemy.com",
+            "editable": false
+          },
+          {
+            "name": "Egg head",
+            "url": "egghead.io",
+            "editable": false
+          },
+          {
+            "name": "Master class",
+            "url": "masterclass.com",
+            "editable": false
+          },
+          {
+            "name": "Hoffman Piano",
+            "url": "hoffmanacademy.com",
             "editable": false
           }
         ]
