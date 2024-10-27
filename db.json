@@ -6,6 +6,10 @@
             "/s/*/lessons/15/*","/s/*/lessons/18/*","/s/*/lessons/21/*"]
         },
         {
+            "domain": "mathisfun.com",
+            "blacklistedPaths": ["/games"]
+        },
+        {
             "domain": "cuuduongthancong.com"
         },
         {
@@ -226,9 +230,6 @@
         },
         {
             "domain": "ac.in"
-        },
-        {
-            "domain": "mathisfun.com"
         },
         {
             "domain": "brilliant.org"
