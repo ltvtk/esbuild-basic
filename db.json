@@ -6,10 +6,6 @@
             "/s/*/lessons/15/*","/s/*/lessons/18/*","/s/*/lessons/21/*"]
         },
         {
-            "domain": "mathisfun.com",
-            "blacklistedPaths": ["/games*"]
-        },
-        {
             "domain": "poe.com"
         },
         {
@@ -1071,11 +1067,6 @@
               {
                 "name": "Design Squad",
                 "url": "https://pbskids.org/designsquad/games/",
-                "editable": false
-              },
-              {
-                "name": "Math is fun",
-                "url": "https://www.mathsisfun.com/",
                 "editable": false
               }
             ]
