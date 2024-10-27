@@ -10,6 +10,12 @@
             "blacklistedPaths": ["/games"]
         },
         {
+            "domain": "openai.com"
+        },
+        {
+            "domain": "gstatic.com"
+        },
+        {
             "domain": "cuuduongthancong.com"
         },
         {
