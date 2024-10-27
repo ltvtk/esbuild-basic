@@ -10,6 +10,9 @@
             "blacklistedPaths": ["/games"]
         },
         {
+            "domain": "poe.com"
+        },
+        {
             "domain": "openai.com"
         },
         {
@@ -1226,8 +1229,8 @@
         "editable": true
         },
         {
-        "name": "Claude",
-        "url": "https://claude.ai/",
+        "name": "POE AI",
+        "url": "https://poe.com",
         "editable": true
         },
         {
