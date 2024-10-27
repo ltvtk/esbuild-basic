@@ -7,7 +7,7 @@
         },
         {
             "domain": "mathisfun.com",
-            "blacklistedPaths": ["/games","/games/*"]
+            "blacklistedPaths": ["/games*"]
         },
         {
             "domain": "poe.com"
