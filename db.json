@@ -6,126 +6,6 @@
             "/s/*/lessons/15/*","/s/*/lessons/18/*","/s/*/lessons/21/*"]
         },
         {
-            "domain": "poe.com"
-        },
-        {
-            "domain": "openai.com"
-        },
-        {
-            "domain": "gstatic.com"
-        },
-        {
-            "domain": "cuuduongthancong.com"
-        },
-        {
-            "domain": "hoffmanacademy.com"
-        },
-        {
-            "domain": "masterclass.com"
-        },
-        {
-            "domain": "egghead.io"
-        },
-        {
-            "domain": "linkedin.com"
-        },
-        {
-            "domain": "chesskid.com"
-        },
-        {
-            "domain": "chess.com"
-        },
-        {
-            "domain": "claude.ai"
-        },
-        {
-            "domain": "chatgpt.com"
-        },
-        {
-            "domain": "quora.com"
-        },
-        {
-            "domain": "reddit.com"
-        },
-        {
-            "domain": "gmail.com"
-        },
-        {
-            "domain": "csfirst.withgoogle.com"
-        },
-        {
-            "domain": "zoom.com"
-        },
-        {
-            "domain": "jit.si"
-        },
-        {
-            "domain": "element.io"
-        },
-        {
-            "domain": "meet.google.com"
-        },
-        {
-            "domain": "meet.google.com"
-        },
-        {
-            "domain": "firebase.google.com"
-        },
-        {
-            "domain": "mail.google.com"
-        },
-        {
-            "domain": "edu.google.com"
-        },
-        {
-            "domain": "gemini.google.com"
-        },
-        {
-            "domain": "drive.google.com"
-        },
-        {
-            "domain": "design.google.com"
-        },
-        {
-            "domain": "contacts.google.com"
-        },
-        {
-            "domain": "code.google.com"
-        },
-        {
-            "domain": "classroom.google.com"
-        },
-        {
-            "domain": "workspace.google.com"
-        },
-        {
-            "domain": "cloud.google.com"
-        },
-        {
-            "domain": "ads.google.com"
-        },
-        {
-            "domain": "adsense.google.com"
-        },
-        {
-            "domain": "developers.google.com"
-        },
-        {
-            "domain": "myaccount.google.com"
-        },
-        {
-            "domain": "accounts.google.com"
-        },
-        {
-            "domain": "docs.google.com"
-        },
-        {
-            "domain": "remotedesktop.google.com"
-        },
-        {
-            "domain": "co.uk"
-        },
-        {
             "domain": "github.com"
         },
         {
@@ -237,10 +117,16 @@
             "domain": "ac.in"
         },
         {
+            "domain": "mathisfun.com"
+        },
+        {
             "domain": "brilliant.org"
         },
         {
             "domain": "ixl.com"
+        },
+        {
+            "domain": "mathplayground.com"
         },
         {
             "domain": "coolmath.com"
@@ -718,113 +604,35 @@
         },
         {
             "domain": "javascript.info"
-        },
-        {
-            "domain": "robolink.com"
-        },
-        {
-            "domain": "makeblock.com"
-        },
-        {
-            "domain": "arduino.cc"
-        },
-        {
-            "domain": "tinkercad.com"
-        },
-        {
-            "domain": "easyeda.com"
-        },
-        {
-            "domain": "xilinx.com"
-        },
-        {
-            "domain": "intel.com"
-        },
-        {
-            "domain": "intel.vn"
-        },
-        {
-            "domain": "amd.com"
-        },
-        {
-            "domain": "nvidia.com"
-        },
-        {
-            "domain": "apple.com"
-        },
-        {
-            "domain": "microsoft.com"
-        },
-        {
-            "domain": "mozilla.org"
-        },
-        {
-            "domain": "amazon.com"
-        },
-        {
-            "domain": "ibm.com"
-        },
-        {
-            "domain": "digitalocean.com"
-        },
-        {
-            "domain": "godaddy.com"
-        },
-        {
-            "domain": "stackblitz.com"
-        },
-        {
-            "domain": "codesandbox.io"
-        },
-        {
-            "domain": "expo.dev"
-        },
-        {
-            "domain": "nativescript.com"
-        },
-        {
-            "domain": "godbolt.org"
-        },
-        {
-            "domain": "judge0.com"
-        },
-        {
-            "domain": "linux.org"
-        },
-        {
-            "domain": "tutorialspoint.com"
-        },
-        {
-            "domain": "ubuntu.com"
-        },
-        {
-            "domain": "geeksforgeeks.org"
-        },
-        {
-            "domain": "berbasoft.com"
-        },
-        {
-            "domain": "pbslearningmedia.org"
-        },
-        {
-            "domain": "Funbrain.com"
-        },
-        {
-            "domain": "mathsisfun.com"
         }
     ],
   "blacklist": [
     {
       "domain": "youtube.com",
-      "whitelistedPaths": ["/embed/*?channel=@MollyofDenali*",
-      "/embed/*PLLhOnau-tupSS-eFNBOwqgfQHpOV3ASqN*",
-      "/embed/*PLP4H73sp9PL9CbQD8m2Erc7FbZbPHMJZA*",
-      "/embed/*PLdkj6XH8GYPS6ArBvqavheM_7d705YD-s*",
-      "/embed/*PLpfxVARjkP-_f-E9IU6IHmy5ECj0HqiLB*",
-      "/embed/*PLrsH46EwyUzTVIeueQYFG6SFr9tZVJgEH*",
-      "/embed/*PLamcOkhpSCR2iBCxOico0oiYeMWnEkB_Y*",
-      "/embed/*PLS9qLR8VoFA56NWSswK2daQSovI9QCpQE*"
-    ]
+      "whitelistedPaths": [
+       "/embed/*?channel=@MollyofDenali*",
+       "/embed/*PLLhOnau-tupSS-eFNBOwqgfQHpOV3ASqN*",
+       "/embed/*PLP4H73sp9PL9CbQD8m2Erc7FbZbPHMJZA*", 
+       "/embed/*PLdkj6XH8GYPS6ArBvqavheM_7d705YD-s*",
+       "/embed/*PLpfxVARjkP-_f-E9IU6IHmy5ECj0HqiLB*",
+       "/embed/*PLrsH46EwyUzTVIeueQYFG6SFr9tZVJgEH*",
+       "/embed/*PLamcOkhpSCR2iBCxOico0oiYeMWnEkB_Y*",
+       "/embed/*PLS9qLR8VoFA56NWSswK2daQSovI9QCpQE*",
+       "/embed/*PLrTlfwZnk4QNi7G5gf5Tvk4EpoqwHm7gR*",
+       "/embed/*PLQKw_soo5o7LvvSzpBAULEb6-7UVd3iX4*",
+       "/embed/*PLLhOnau-tupSfk-0UCN_iDHEuDzQEgpAg*",
+       "/embed/*PLMrvyQzqrd1fZrUnlcbLHUI6vl-N9f29W*",
+       "/embed/*PLMrvyQzqrd1dZGBqBL3cd0-yjNaZ4PyAW*",
+       "/embed/*PLP4H73sp9PL-Z0GkskcNOAyG0Z40bXuOR*",
+       "/embed/*PLLhOnau-tupQ2k1dq1VVUpURqxqY5BhKM*",
+       "/embed/*PLa8HWWMcQEGQSBZzckwagCZMOZJhC2di9*",
+       "/embed/*PLWP-BeymnCEgk8Hkn0maWq0mI-cHdjnCI*",
+       "/embed/*PLV_39XpFpSPQjeR50vbCW7sfjgppBfZQK*",
+       "/embed/*PLMrvyQzqrd1c4Bmb9kHjoJmTc5kPNtWRv*",
+       "/embed/*PLUQergn5dlD-a_d1ItZHqs5FIA6KxnQr1*",
+       "/embed/*PLBjm8YVOgHK3BgEvworO4HH37Q-PCETw5*",
+       "/embed/*PLLhOnau-tupTFvctEmhIHa3ftTArupPPi*"
+     ]
     },
     {
       "domain": "pbskids.org",
@@ -995,46 +803,14 @@
             "editable": true
           },
           {
-            "name": "Simple game tutorial",
-            "url": "https://berbasoft.com/simplegametutorials/pygamezero/",
-            "editable": true
-          },
-          {
             "name": "Scratch tutorial docs",
             "url": "https://projects.raspberrypi.org/en/collections/scratch",
             "editable": true
-          }
-        ]
-      },
-      {
-        "name": "Development",
-        "isFolder": true,
-        "editable": false,
-        "children": [
-          {
-            "name": "JS game",
-            "url": "https://thaysang.github.io/game",
-            "editable": false
           },
           {
-            "name": "React-native Kids",
-            "url": "https://rnkids.github.io",
-            "editable": false
-          },
-          {
-            "name": "Expo dev",
-            "url": "https://expo.dev",
-            "editable": false
-          },
-          {
-            "name": "ML Scratch 3 uk",
-            "url": "https://machinelearningforkids.co.uk/scratch",
-            "editable": false
-          },
-          {
-            "name": "Machine Learning For Kids",
-            "url": "https://machinelearningforkids.co.uk",
-            "editable": false
+            "name": "Search ...",
+            "url": "https://www.kiddle.co/",
+            "editable": true
           }
         ]
       }
@@ -1050,22 +826,22 @@
             "editable": false,
             "children":[
               {
-                "name": "Curious Georgle",
+                "name": "01-CG-busy day",
                 "url": "https://pbskids.org/curiousgeorge/busyday/",
                 "editable": false
               },
               {
-                "name": "RJG-Space scouts",
+                "name": "02-RJG-Space scouts",
                 "url": "https://springroll-tc.pbskids.org/space-scouts-home-base/3afb9dc78b7e295dc7f47497f1d167a6b5bea849/release/index.html",
                 "editable": false
               },
               {
-                "name": "Bridge builder",
+                "name": "03-Bridge builder",
                 "url": "https://springroll-tc.pbskids.org/cith-bridge-builder/d57ff27195ad67af889bb053068fea992783ce33/release/index.html",
                 "editable": false
               },
               {
-                "name": "Design Squad",
+                "name": "04-Design Squad",
                 "url": "https://pbskids.org/designsquad/games/",
                 "editable": false
               }
@@ -1091,149 +867,99 @@
         ]
       },
       {
-        "name": "Videos",
+        "name": "Youtube Kids",
         "isFolder": true,
         "editable": true,
         "children": [
-          {
-            "name": "Molly of Daneli",
-            "url": "https://www.youtube.com/embed/videoseries?list=PLLhOnau-tupSS-eFNBOwqgfQHpOV3ASqN",
-            "editable": false
-          },
-          {
-            "name": "Wild Kratts",
-            "url": "https://www.youtube.com/embed/videoseries?list=PLP4H73sp9PL9CbQD8m2Erc7FbZbPHMJZA",
-            "editable": false
-          },
           {
             "name": "Super simple song",
             "url": "https://www.youtube.com/embed/videoseries?list=PLdkj6XH8GYPS6ArBvqavheM_7d705YD-s",
             "editable": false
           },
           {
-            "name": "PBS learning media",
-            "url": "https://www.pbslearningmedia.org",
+            "name": "Daniel Tiger's Neighborhood",
+            "url": "https://www.youtube.com/embed/videoseries?list=PLrTlfwZnk4QNi7G5gf5Tvk4EpoqwHm7gR",
             "editable": false
           },
           {
-            "name": "TED ed",
-            "url": "https://ed.ted.com",
+            "name": "Super Why!",
+            "url": "https://www.youtube.com/embed/videoseries?list=PLQKw_soo5o7LvvSzpBAULEb6-7UVd3iX4",
             "editable": false
           },
           {
-            "name": "Khan academy",
-            "url": "https://www.khanacademy.org/",
+            "name": "Dinosaur Train",
+            "url": "https://www.youtube.com/embed/videoseries?list=PLLhOnau-tupSfk-0UCN_iDHEuDzQEgpAg",
             "editable": false
           },
           {
-            "name": "Courses",
-            "url": "coursera.org",
+            "name": "Let's Go Luna!",
+            "url": "https://www.youtube.com/embed/videoseries?list=PLMrvyQzqrd1fZrUnlcbLHUI6vl-N9f29W",
             "editable": false
           },
           {
-            "name": "EDX",
-            "url": "edx.org",
+            "name": "The Cat in the Hat Knows a Lot About That!",
+            "url": "https://www.youtube.com/embed/videoseries?list=PLMrvyQzqrd1dZGBqBL3cd0-yjNaZ4PyAW",
             "editable": false
           },
           {
-            "name": "Udacity",
-            "url": "udacity.com",
+            "name": "Wild Kratts",
+            "url": "https://www.youtube.com/embed/videoseries?list=PLP4H73sp9PL-Z0GkskcNOAyG0Z40bXuOR",
             "editable": false
           },
           {
-            "name": "Linkin Learning",
-            "url": "https://www.linkedin.com/learning",
+            "name": "Ready Jet Go!",
+            "url": "https://www.youtube.com/embed/videoseries?list=PLLhOnau-tupQ2k1dq1VVUpURqxqY5BhKM",
             "editable": false
           },
           {
-            "name": "Skillshare",
-            "url": "skillshare.com",
+            "name": "Pinkalicious & Peterrific",
+            "url": "https://www.youtube.com/embed/videoseries?list=PLa8HWWMcQEGQSBZzckwagCZMOZJhC2di9",
             "editable": false
           },
           {
-            "name": "Udemy",
-            "url": "udemy.com",
+            "name": "Nature Cat",
+            "url": "https://www.youtube.com/embed/videoseries?list=PLWP-BeymnCEgk8Hkn0maWq0mI-cHdjnCI",
             "editable": false
           },
           {
-            "name": "Egg head",
-            "url": "egghead.io",
+            "name": "Arthur",
+            "url": "https://www.youtube.com/embed/videoseries?list=PLV_39XpFpSPQjeR50vbCW7sfjgppBfZQK",
             "editable": false
           },
           {
-            "name": "Master class",
-            "url": "masterclass.com",
+            "name": "Molly of Denali",
+            "url": "https://www.youtube.com/embed/videoseries?list=PLLhOnau-tupSS-eFNBOwqgfQHpOV3ASqN",
             "editable": false
           },
           {
-            "name": "Hoffman Piano",
-            "url": "hoffmanacademy.com",
+            "name": "Xavier Riddle and the Secret Museum",
+            "url": "https://www.youtube.com/embed/videoseries?list=PLMrvyQzqrd1c4Bmb9kHjoJmTc5kPNtWRv",
+            "editable": false
+          },
+          {
+            "name": "Odd Squad",
+            "url": "https://www.youtube.com/embed/videoseries?list=PLUQergn5dlD-a_d1ItZHqs5FIA6KxnQr1",
+            "editable": false
+          },
+          {
+            "name": "WordGirl",
+            "url": "https://www.youtube.com/embed/videoseries?list=PLBjm8YVOgHK3BgEvworO4HH37Q-PCETw5",
+            "editable": false
+          },
+          {
+            "name": "Cyberchase",
+            "url": "https://www.youtube.com/embed/videoseries?list=PLLhOnau-tupTFvctEmhIHa3ftTArupPPi",
             "editable": false
           }
         ]
       }
     ],
     "Useful Links": [
-        {
-        "name": "Search ...",
-        "url": "https://www.kiddle.co/",
-        "editable": true
-        },
-        {
-        "name": "Tin Học Trẻ",
-        "url": "https://tinhoctre.vn/",
-        "editable": true
-        },
-        {
-        "name": "Tin học VNOJ",
-        "url": "https://oj.vnoi.info/",
-        "editable": true
-        },
-        {
+      {
         "name": "Wikipedia",
         "url": "https://www.wikipedia.org",
         "editable": true
-        },
-        {
-        "name": "Chess.com",
-        "url": "https://www.chess.com",
-        "editable": true
-        },
-        {
-        "name": "Chess kid",
-        "url": "https://www.chesskid.com",
-        "editable": true
-        },
-        {
-        "name": "Gmail",
-        "url": "gmail.com",
-        "editable": true
-        },
-        {
-        "name": "Google docs",
-        "url": "https://docs.google.com",
-        "editable": true
-        },
-        {
-        "name": "ChatGPT",
-        "url": "https://chatgpt.com/",
-        "editable": true
-        },
-        {
-        "name": "POE AI",
-        "url": "https://poe.com",
-        "editable": true
-        },
-        {
-        "name": "Genmini",
-        "url": "https://gemini.google.com",
-        "editable": true
-        },
-        {
-        "name": "Tài Liệu",
-        "url": "https://cuuduongthancong.com",
-        "editable": true
-        }
+      }
     ]
   }
 }
