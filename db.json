@@ -6,6 +6,9 @@
             "/s/*/lessons/15/*","/s/*/lessons/18/*","/s/*/lessons/21/*"]
         },
         {
+            "domain": "storylineonline.net"
+        },
+        {
             "domain": "id.vn"
         },
         {
@@ -1124,6 +1127,11 @@
         "isFolder": true,
         "editable": true,
         "children": [
+            {
+                "name": "Storyline online",
+                "url": "https://storylineonline.net",
+                "editable": false
+            },
             {
               "name": "Super simple song",
               "url": "https://www.youtube.com/embed/videoseries?list=PLdkj6XH8GYPS6ArBvqavheM_7d705YD-s",
