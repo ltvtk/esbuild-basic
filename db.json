@@ -6,6 +6,9 @@
             "/s/*/lessons/15/*","/s/*/lessons/18/*","/s/*/lessons/21/*"]
         },
         {
+            "domain": "sarahandduck.com"
+        },
+        {
             "domain": "poe.com"
         },
         {
@@ -843,7 +846,7 @@
     },
     {
       "domain": "pbskids.org",
-      "whitelistedPaths": ["/gardening/*","/md-canoeing-game/*","/designsquad/games*"
+      "whitelistedPaths": ["/gardening/*","/md-canoeing-game/*","/peg/games*"
       ,"/molly/games*","/plumlanding/games*","/oddsquad/games*","/catinthehat/games*",
     "/curiousgeorge/busyday*","/space-scouts-home-base/*","/cith-bridge-builder/*"]
     },
@@ -1078,11 +1081,6 @@
                 "name": "Bridge builder",
                 "url": "https://springroll-tc.pbskids.org/cith-bridge-builder/d57ff27195ad67af889bb053068fea992783ce33/release/index.html",
                 "editable": false
-              },
-              {
-                "name": "Design Squad",
-                "url": "https://pbskids.org/designsquad/games/",
-                "editable": false
               }
             ]
           },
@@ -1098,6 +1096,16 @@
             {
               "name": "The Cat in the hat",
               "url": "https://pbskids.org/catinthehat/games/",
+              "editable": false
+            },
+            {
+              "name": "Sarah and Duck",
+              "url": "https://www.sarahandduck.com/",
+              "editable": false
+            },
+            {
+              "name": "Peg and Cat",
+              "url": "https://pbskids.org/peg/games/",
               "editable": false
             }
           ]
@@ -1121,16 +1129,6 @@
               "editable": false
             },
             {
-              "name": "Super Why!",
-              "url": "https://www.youtube.com/embed/videoseries?list=PLQKw_soo5o7LvvSzpBAULEb6-7UVd3iX4",
-              "editable": false
-            },
-            {
-              "name": "Dinosaur Train",
-              "url": "https://www.youtube.com/embed/videoseries?list=PLLhOnau-tupSfk-0UCN_iDHEuDzQEgpAg",
-              "editable": false
-            },
-            {
               "name": "Let's Go Luna!",
               "url": "https://www.youtube.com/embed/videoseries?list=PLMrvyQzqrd1fZrUnlcbLHUI6vl-N9f29W",
               "editable": false
@@ -1138,16 +1136,6 @@
             {
               "name": "The Cat in the Hat Knows a Lot About That!",
               "url": "https://www.youtube.com/embed/videoseries?list=PLMrvyQzqrd1dZGBqBL3cd0-yjNaZ4PyAW",
-              "editable": false
-            },
-            {
-              "name": "Wild Kratts",
-              "url": "https://www.youtube.com/embed/videoseries?list=PLP4H73sp9PL-Z0GkskcNOAyG0Z40bXuOR",
-              "editable": false
-            },
-            {
-              "name": "Ready Jet Go!",
-              "url": "https://www.youtube.com/embed/videoseries?list=PLLhOnau-tupQ2k1dq1VVUpURqxqY5BhKM",
               "editable": false
             },
             {
