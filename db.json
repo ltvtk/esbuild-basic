@@ -1030,6 +1030,16 @@
             "name": "Scratch tutorial docs",
             "url": "https://projects.raspberrypi.org/en/collections/scratch",
             "editable": true
+          },
+          {
+            "name": "Python silent teacher",
+            "url": "https://silentteacher.toxicode.fr/hour_of_code.html?theme=basic_python",
+            "editable": true
+          },
+          {
+            "name": "JavaScript silent teacher",
+            "url": "https://silentteacher.toxicode.fr/hour_of_code.html?theme=javascript",
+            "editable": true
           }
         ]
       },
