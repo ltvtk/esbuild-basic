@@ -6,6 +6,12 @@
             "/s/*/lessons/15/*","/s/*/lessons/18/*","/s/*/lessons/21/*"]
         },
         {
+            "domain": "id.vn"
+        },
+        {
+            "domain": "toxicode.fr"
+        },
+        {
             "domain": "sarahandduck.com"
         },
         {
@@ -1185,6 +1191,11 @@
         {
         "name": "Search ...",
         "url": "https://www.kiddle.co/",
+        "editable": true
+        },
+        {
+        "name": "ABK English",
+        "url": "https://hoctructuyen.id.vn/index.php",
         "editable": true
         },
         {
