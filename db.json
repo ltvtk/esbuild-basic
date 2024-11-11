@@ -1095,17 +1095,17 @@
             },
             {
               "name": "The Cat in the hat",
-              "url": "https://pbskids.org/catinthehat/games/",
+              "url": "https://pbskids.org/catinthehat/games",
               "editable": false
             },
             {
               "name": "Sarah and Duck",
-              "url": "https://www.sarahandduck.com/",
+              "url": "https://www.sarahandduck.com",
               "editable": false
             },
             {
               "name": "Peg and Cat",
-              "url": "https://pbskids.org/peg/games/",
+              "url": "https://pbskids.org/peg/games",
               "editable": false
             }
           ]
