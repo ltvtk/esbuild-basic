@@ -6,6 +6,24 @@
             "/s/*/lessons/15/*","/s/*/lessons/18/*","/s/*/lessons/21/*"]
         },
         {
+            "domain": "pinterest.com"
+        },
+        {
+            "domain": "pixabay.com"
+        },
+        {
+            "domain": "stickpng.com"
+        },
+        {
+            "domain": "opengameart.org"
+        },
+        {
+            "domain": "freepik.com"
+        },
+        {
+            "domain": "duckduckgo.com"
+        },
+        {
             "domain": "storylineonline.net"
         },
         {
@@ -1064,13 +1082,23 @@
             "editable": false
           },
           {
-            "name": "ML Scratch 3 uk",
-            "url": "https://machinelearningforkids.co.uk/scratch",
+            "name": "Free PIK",
+            "url": "https://www.freepik.com/",
             "editable": false
           },
           {
-            "name": "Machine Learning For Kids",
-            "url": "https://machinelearningforkids.co.uk",
+            "name": "Open Games Art",
+            "url": "https://opengameart.org/",
+            "editable": false
+          },
+          {
+            "name": "Stick PNG",
+            "url": "https://www.stickpng.com/",
+            "editable": false
+          },
+          {
+            "name": "Pixabay PNG",
+            "url": "https://pixabay.com/",
             "editable": false
           }
         ]
@@ -1208,7 +1236,7 @@
     "Useful Links": [
         {
         "name": "Search ...",
-        "url": "https://www.kiddle.co/",
+        "url": "https://duckduckgo.com/",
         "editable": true
         },
         {
@@ -1264,6 +1292,11 @@
         {
         "name": "Genmini",
         "url": "https://gemini.google.com",
+        "editable": true
+        },
+        {
+        "name": "Pinterest",
+        "url": "https://www.pinterest.com/",
         "editable": true
         },
         {
