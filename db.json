@@ -21,9 +21,6 @@
             "domain": "freepik.com"
         },
         {
-            "domain": "duckduckgo.com"
-        },
-        {
             "domain": "storylineonline.net"
         },
         {
@@ -1236,7 +1233,7 @@
     "Useful Links": [
         {
         "name": "Search ...",
-        "url": "https://duckduckgo.com/",
+        "url": "https://www.kiddle.co/",
         "editable": true
         },
         {
