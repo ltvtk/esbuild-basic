@@ -6,6 +6,9 @@
             "/s/*/lessons/15/*","/s/*/lessons/18/*","/s/*/lessons/21/*"]
         },
         {
+            "domain": "englishpracticetest.net"
+        },
+        {
             "domain": "duckdns.org"
         },
         {
@@ -1111,10 +1114,30 @@
       }
     ],
     "English": [
-        {"name": "E-learning resources",
+        {"name": "E-learning...",
         "isFolder": true,
         "editable": false,
         "children":[
+            {
+                "name": "Tra từ điển",
+                "url": "https://tratu.coviet.vn",
+                "editable": false
+            },
+            {
+                "name": "Edupia VN",
+                "url": "https://edupia.vn",
+                "editable": false
+              },
+          {
+            "name": "Memrise",
+            "url": "https://www.memrise.com",
+            "editable": false
+          },
+          {
+            "name": "English practice tests",
+            "url": "https://englishpracticetest.net/",
+            "editable": false
+          },
           {
             "name": "Molly",
             "url": "https://pbskids.org/molly/games",
@@ -1133,21 +1156,6 @@
           {
             "name": "Peg and Cat",
             "url": "https://pbskids.org/peg/games",
-            "editable": false
-          },
-          {
-            "name": "Memrise",
-            "url": "https://www.memrise.com",
-            "editable": false
-          },
-          {
-            "name": "Edupia VN",
-            "url": "https://edupia.vn",
-            "editable": false
-          },
-          {
-            "name": "Tra từ điển",
-            "url": "https://tratu.coviet.vn",
             "editable": false
           }
         ]
