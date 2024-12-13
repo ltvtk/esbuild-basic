@@ -1137,7 +1137,13 @@
             "name": "English tests",
             "url": "https://englishpracticetest.net",
             "editable": false
-          },
+          }
+        ]
+      },
+      {"name": "Play & Learn",
+          "isFolder": true,
+          "editable": false,
+          "children":[
           {
             "name": "Molly",
             "url": "https://pbskids.org/molly/games",
@@ -1157,13 +1163,7 @@
             "name": "Peg and Cat",
             "url": "https://pbskids.org/peg/games",
             "editable": false
-          }
-        ]
-      },
-      {"name": "Maths...",
-          "isFolder": true,
-          "editable": false,
-          "children":[
+          },
             {
               "name": "Curious Georgle",
               "url": "https://pbskids.org/curiousgeorge/busyday/",
