@@ -6,6 +6,15 @@
             "/s/*/lessons/15/*","/s/*/lessons/18/*","/s/*/lessons/21/*"]
         },
         {
+            "domain": "duckdns.org"
+        },
+        {
+            "domain": "edupia.vn"
+        },
+        {
+            "domain": "coviet.vn"
+        },
+        {
             "domain": "pinterest.com"
         },
         {
@@ -978,11 +987,6 @@
             "editable": false,
             "children": [
               {
-                "name": "Blaze robot",
-                "url": "https://files.numuki.com/games/blaze/blaze-learn-to-code/index.html",
-                "editable": false
-              },
-              {
                 "name": "Puppy adventure",
                 "url": "https://www.tynker.com/ide/v3?type=course&slug=activity:puppy-adventure&chapter=0&lesson=0",
                 "editable": false
@@ -1063,6 +1067,11 @@
         "isFolder": true,
         "editable": false,
         "children": [
+            {
+            "name": "CLB Lập Trình Vui",
+            "url": "https://laptrinhvui.duckdns.org",
+            "editable": false
+            },
           {
             "name": "JS game",
             "url": "https://thaysang.github.io/game",
@@ -1107,28 +1116,7 @@
         "isFolder": true,
         "editable": true,
         "children": [
-          {"name": "Maths",
-            "isFolder": true,
-            "editable": false,
-            "children":[
-              {
-                "name": "Curious Georgle",
-                "url": "https://pbskids.org/curiousgeorge/busyday/",
-                "editable": false
-              },
-              {
-                "name": "RJG-Space scouts",
-                "url": "https://springroll-tc.pbskids.org/space-scouts-home-base/3afb9dc78b7e295dc7f47497f1d167a6b5bea849/release/index.html",
-                "editable": false
-              },
-              {
-                "name": "Bridge builder",
-                "url": "https://springroll-tc.pbskids.org/cith-bridge-builder/d57ff27195ad67af889bb053068fea992783ce33/release/index.html",
-                "editable": false
-              }
-            ]
-          },
-          {"name": "Science",
+          {"name": "Common links",
           "isFolder": true,
           "editable": false,
           "children":[
@@ -1151,9 +1139,45 @@
               "name": "Peg and Cat",
               "url": "https://pbskids.org/peg/games",
               "editable": false
+            },
+            {
+              "name": "Memrise",
+              "url": "https://www.memrise.com",
+              "editable": false
+            },
+            {
+              "name": "Edupia VN",
+              "url": "https://edupia.vn",
+              "editable": false
+            },
+            {
+              "name": "Tra từ điển",
+              "url": "https://tratu.coviet.vn",
+              "editable": false
             }
           ]
-        }
+        },
+        {"name": "Math games",
+            "isFolder": true,
+            "editable": false,
+            "children":[
+              {
+                "name": "Curious Georgle",
+                "url": "https://pbskids.org/curiousgeorge/busyday/",
+                "editable": false
+              },
+              {
+                "name": "RJG-Space scouts",
+                "url": "https://springroll-tc.pbskids.org/space-scouts-home-base/3afb9dc78b7e295dc7f47497f1d167a6b5bea849/release/index.html",
+                "editable": false
+              },
+              {
+                "name": "Bridge builder",
+                "url": "https://springroll-tc.pbskids.org/cith-bridge-builder/d57ff27195ad67af889bb053068fea992783ce33/release/index.html",
+                "editable": false
+              }
+            ]
+          }
           
         ]
       },
@@ -1237,11 +1261,6 @@
         "editable": true
         },
         {
-        "name": "ABK English",
-        "url": "https://hoctructuyen.id.vn/index.php",
-        "editable": true
-        },
-        {
         "name": "Tin Học Trẻ",
         "url": "https://tinhoctre.vn/",
         "editable": true
@@ -1277,6 +1296,11 @@
         "editable": true
         },
         {
+        "name": "Claude AI",
+        "url": "https://claude.ai",
+        "editable": true
+        },
+        {
         "name": "ChatGPT",
         "url": "https://chatgpt.com/",
         "editable": true
@@ -1287,7 +1311,7 @@
         "editable": true
         },
         {
-        "name": "Genmini",
+        "name": "Genmini AI",
         "url": "https://gemini.google.com",
         "editable": true
         },
