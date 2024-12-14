@@ -1075,6 +1075,16 @@
             "url": "https://laptrinhvui.duckdns.org",
             "editable": false
             },
+            {
+                "name": "Tin Học Trẻ",
+                "url": "https://tinhoctre.vn/",
+                "editable": true
+            },
+            {
+                "name": "Tin học VNOJ",
+                "url": "https://oj.vnoi.info/",
+                "editable": true
+            },
           {
             "name": "JS game",
             "url": "https://thaysang.github.io/game",
@@ -1256,18 +1266,13 @@
     ],
     "Useful Links": [
         {
-        "name": "Search ...",
-        "url": "https://www.kiddle.co/",
-        "editable": true
-        },
+            "name": "Search ...",
+            "url": "https://www.kiddle.co/",
+            "editable": true
+            },
         {
-        "name": "Tin Học Trẻ",
-        "url": "https://tinhoctre.vn/",
-        "editable": true
-        },
-        {
-        "name": "Tin học VNOJ",
-        "url": "https://oj.vnoi.info/",
+        "name": "Kiến Tạo Tâm",
+        "url": "https://kientaotam.com",
         "editable": true
         },
         {
