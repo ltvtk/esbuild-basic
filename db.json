@@ -1101,6 +1101,11 @@
             "editable": false
           },
           {
+            "name": "Repl IT",
+            "url": "https://replit.com",
+            "editable": false
+          },
+          {
             "name": "Free PIK",
             "url": "https://www.freepik.com/",
             "editable": false
@@ -1119,6 +1124,21 @@
             "name": "Pixabay PNG",
             "url": "https://pixabay.com/",
             "editable": false
+          },
+          {
+            "name": "Game Sprites",
+            "url": "https://thaysang.github.io/game/sp",
+            "editable": true
+          },
+          {
+            "name": "Game Background",
+            "url": "https://thaysang.github.io/game/bg",
+            "editable": true
+          },
+          {
+            "name": "Py0 github",
+            "url": "https://github.com/ltvtk/py0/releases/tag/1.0",
+            "editable": true
           }
         ]
       }
@@ -1268,11 +1288,6 @@
         {
             "name": "Search ...",
             "url": "https://www.kiddle.co/",
-            "editable": true
-        },
-        {
-            "name": "Py0 github",
-            "url": "https://github.com/ltvtk/py0/releases/tag/1.0",
             "editable": true
         },
         {
