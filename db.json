@@ -1269,12 +1269,12 @@
             "name": "Search ...",
             "url": "https://www.kiddle.co/",
             "editable": true
-            },
-            {
-                "name": "Py0 github",
-                "url": "https://github.com/ltvtk/py0/releases/tag/1.0",
-                "editable": true
-                },
+        },
+        {
+            "name": "Py0 github",
+            "url": "https://github.com/ltvtk/py0/releases/tag/1.0",
+            "editable": true
+        },
         {
         "name": "Kiến Tạo Tâm",
         "url": "https://kientaotam.com",
