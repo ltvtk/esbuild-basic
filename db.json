@@ -6,6 +6,12 @@
             "/s/*/lessons/15/*","/s/*/lessons/18/*","/s/*/lessons/21/*"]
         },
         {
+            "domain": "babilala.vn"
+        },
+        {
+            "domain": "edupiasecondary.vn"
+        },
+        {
             "domain": "englishpracticetest.net"
         },
         {
@@ -1157,7 +1163,7 @@
                 "name": "Edupia VN",
                 "url": "https://edupia.vn",
                 "editable": false
-              },
+            },
           {
             "name": "Memrise",
             "url": "https://www.memrise.com",
