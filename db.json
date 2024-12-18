@@ -6,6 +6,9 @@
             "/s/*/lessons/15/*","/s/*/lessons/18/*","/s/*/lessons/21/*"]
         },
         {
+            "domain": "pixlr.com"
+        },
+        {
             "domain": "babilala.vn"
         },
         {
@@ -1144,6 +1147,11 @@
           {
             "name": "Py0 github",
             "url": "https://github.com/ltvtk/py0/releases/tag/1.0",
+            "editable": true
+          },
+          {
+            "name": "Photo editor",
+            "url": "https://pixlr.com/editor/",
             "editable": true
           }
         ]
