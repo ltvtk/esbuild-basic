@@ -6,6 +6,9 @@
             "/s/*/lessons/15/*","/s/*/lessons/18/*","/s/*/lessons/21/*"]
         },
         {
+            "domain": "temp-mail.org"
+        },
+        {
             "domain": "pixlr.com"
         },
         {
@@ -1094,6 +1097,11 @@
                 "url": "https://oj.vnoi.info/",
                 "editable": true
             },
+            {
+                "name": "LQDOJ",
+                "url": "https://lqdoj.edu.vn/",
+                "editable": true
+            },
           {
             "name": "JS game",
             "url": "https://thaysang.github.io/game",
@@ -1265,14 +1273,10 @@
               "url": "https://www.youtube.com/embed/videoseries?list=PLWP-BeymnCEgk8Hkn0maWq0mI-cHdjnCI",
               "editable": false
             },
-            {
-              "name": "Arthur",
-              "url": "https://www.youtube.com/embed/videoseries?list=PLV_39XpFpSPQjeR50vbCW7sfjgppBfZQK",
-              "editable": false
-            },
+
             {
               "name": "Molly of Denali",
-              "url": "https://www.youtube.com/embed/videoseries?list=PLLhOnau-tupSS-eFNBOwqgfQHpOV3ASqN",
+              "url": "https://www.youtube.com/embed/videoseries?list=PLa8HWWMcQEGRhqI2vfh30TPvRO1m4FLWS",
               "editable": false
             },
             {
@@ -1288,11 +1292,6 @@
             {
               "name": "WordGirl",
               "url": "https://www.youtube.com/embed/videoseries?list=PLBjm8YVOgHK3BgEvworO4HH37Q-PCETw5",
-              "editable": false
-            },
-            {
-              "name": "Cyberchase",
-              "url": "https://www.youtube.com/embed/videoseries?list=PLLhOnau-tupTFvctEmhIHa3ftTArupPPi",
               "editable": false
             }
           ]
@@ -1323,6 +1322,11 @@
         "name": "Chess kid",
         "url": "https://www.chesskid.com",
         "editable": true
+        },
+        {
+            "name": "TempMail",
+            "url": "https://temp-mail.org/en/",
+            "editable": true
         },
         {
         "name": "Gmail",
