@@ -9,6 +9,9 @@
             "domain": "temp-mail.org"
         },
         {
+            "domain": "copy.sh"
+        },
+        {
             "domain": "cpp.sh"
         },
         {
@@ -1156,6 +1159,16 @@
           {
             "name": "Expo dev",
             "url": "https://expo.dev",
+            "editable": false
+          },
+          {
+            "name": "Windows 98 OS",
+            "url": "https://copy.sh/v86/?profile=reactos",
+            "editable": false
+          },
+          {
+            "name": "Linux OS",
+            "url": "https://copy.sh/v86/?profile=serenity",
             "editable": false
           },
           {
