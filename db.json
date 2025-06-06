@@ -9,6 +9,12 @@
             "domain": "temp-mail.org"
         },
         {
+            "domain": "cpp.sh"
+        },
+        {
+            "domain": "onlinegdb.com"
+        },
+        {
             "domain": "toancap2.net"
         },
         {
@@ -1132,6 +1138,11 @@
                 "url": "https://lqdoj.edu.vn/",
                 "editable": true
             },
+            {
+            "name": "C++ online",
+            "url": "https://www.onlinegdb.com/online_c++_compiler",
+            "editable": false
+          },
           {
             "name": "JS game",
             "url": "https://thaysang.github.io/game",
