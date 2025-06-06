@@ -9,7 +9,28 @@
             "domain": "temp-mail.org"
         },
         {
+            "domain": "toancap2.net"
+        },
+        {
+            "domain": "perplexity.ai"
+        },
+        {
+            "domain": "grok.com"
+        },
+        {
+            "domain": "edclub.com"
+        },
+        {
+            "domain": "zalo.me"
+        },
+        {
+            "domain": "live.com"
+        },
+        {
             "domain": "pixlr.com"
+        },
+        {
+            "domain": "kynaenglish.vn"
         },
         {
             "domain": "babilala.vn"
@@ -892,7 +913,8 @@
        "/embed/*PLMrvyQzqrd1c4Bmb9kHjoJmTc5kPNtWRv*",
        "/embed/*PLUQergn5dlD-a_d1ItZHqs5FIA6KxnQr1*",
        "/embed/*PLBjm8YVOgHK3BgEvworO4HH37Q-PCETw5*",
-       "/embed/*PLLhOnau-tupTFvctEmhIHa3ftTArupPPi*"
+       "/embed/*PLLhOnau-tupTFvctEmhIHa3ftTArupPPi*",
+       "/embed/*PLJOUQWZHQRPv5dH9qAOrtsqMKXsRLjWoY*"
      ]
     },
     {
@@ -1029,6 +1051,11 @@
         "editable": false,
         "children": [
           {
+            "name": "Typing",
+            "url": "https://www.edclub.com/sportal/program-3.game",
+            "editable": false
+          },
+          {
             "name": "Scratch Basic",
             "url": "https://www.youtube.com/embed/videoseries?list=PLpfxVARjkP-_f-E9IU6IHmy5ECj0HqiLB",
             "editable": false
@@ -1080,6 +1107,11 @@
         "isFolder": true,
         "editable": false,
         "children": [
+            {
+            "name": "Blockly-Python",
+            "url": "https://laptrinhvui.duckdns.org/blockly",
+            "editable": false
+            },
             {
             "name": "CLB Lập Trình Vui",
             "url": "https://laptrinhvui.duckdns.org",
@@ -1200,11 +1232,6 @@
             "editable": false
           },
           {
-            "name": "The Cat in the hat",
-            "url": "https://pbskids.org/catinthehat/games",
-            "editable": false
-          },
-          {
             "name": "Sarah and Duck",
             "url": "https://www.sarahandduck.com",
             "editable": false
@@ -1274,7 +1301,7 @@
 
             {
               "name": "Molly of Denali",
-              "url": "https://www.youtube.com/embed/videoseries?list=PLa8HWWMcQEGRhqI2vfh30TPvRO1m4FLWS",
+              "url": "https://www.youtube.com/embed/videoseries?list=PLJOUQWZHQRPv5dH9qAOrtsqMKXsRLjWoY",
               "editable": false
             },
             {
@@ -1352,8 +1379,8 @@
         "editable": true
         },
         {
-        "name": "POE AI",
-        "url": "https://poe.com",
+        "name": "Grok AI",
+        "url": "https://grok.com",
         "editable": true
         },
         {
