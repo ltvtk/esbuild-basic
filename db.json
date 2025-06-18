@@ -1118,7 +1118,7 @@
         "children": [
             {
             "name": "Blockly-Python",
-            "url": "https://laptrinhvui.duckdns.org/blockly",
+            "url": "https://ltvtk.github.io/",
             "editable": false
             },
             {
@@ -1147,11 +1147,6 @@
             "editable": false
           },
           {
-            "name": "JS game",
-            "url": "https://thaysang.github.io/game",
-            "editable": false
-          },
-          {
             "name": "React-native Kids",
             "url": "https://rnkids.github.io",
             "editable": false
@@ -1162,18 +1157,8 @@
             "editable": false
           },
           {
-            "name": "Windows 98 OS",
-            "url": "https://copy.sh/v86/?profile=reactos",
-            "editable": false
-          },
-          {
             "name": "Linux OS",
             "url": "https://copy.sh/v86/?profile=serenity",
-            "editable": false
-          },
-          {
-            "name": "Repl IT",
-            "url": "https://replit.com",
             "editable": false
           },
           {
