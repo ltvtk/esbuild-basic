@@ -6,6 +6,21 @@
             "/s/*/lessons/15/*","/s/*/lessons/18/*","/s/*/lessons/21/*"]
         },
         {
+            "domain": "delightex.com"
+        },
+        {
+            "domain": "recraft.ai"
+        },
+        {
+            "domain": "pngmaker.io"
+        },
+        {
+            "domain": "base64.guru"
+        },
+        {
+            "domain": "imgur.com"
+        },
+        {
             "domain": "temp-mail.org"
         },
         {
@@ -953,6 +968,11 @@
             "isFolder": true,
             "editable": false,
             "children": [
+             {
+                "name": "00-Pre-reader Express",
+                "url": "https://studio.code.org/courses/pre-express-2024/units/1",
+                "editable": false
+              },
               {
                 "name": "01-sequence",
                 "url": "https://studio.code.org/s/express-2024/lessons/1/levels/2?section_id=5544519",
@@ -1012,6 +1032,38 @@
                 "name": "09-Variables",
                 "url": "https://studio.code.org/s/express-2024/lessons/27/levels/2?section_id=5544519",
                 "editable": false
+              }
+            ]
+          },
+          {
+            "name": "Hour-of-code",
+            "isFolder": true,
+            "editable": false,
+            "children": [
+                {
+                "name": "CodeMonkey Jr",
+                "url": "https://app.codemonkey.com/junior/chapters/sequencing/challenges/1",
+                "editable": false
+              },
+            {
+                "name": "Beaver Achive",
+                "url": "https://app.codemonkey.com/beaver-achiever/hour-of-code/1",
+                "editable": false
+              },
+              {
+                "name": "Disney Moan",
+                "url": "https://e304920c.content.disney.io/index.html",
+                "editable": false
+              },
+               {
+                "name": "Pirate Plunder",
+                "url": "https://www.delightex.com/pirate-plunder",
+                "editable": false
+              },
+              {
+                "name": "AI for Oceans",
+                "url": "https://studio.code.org/courses/oceans/units/1/lessons/1/levels/1",
+                "editable": false
               },
               {
                 "name": "Classic Maze",
@@ -1027,30 +1079,118 @@
                 "name": "Star Wars",
                 "url": "https://studio.code.org/s/starwars/lessons/1/levels/1",
                 "editable": false
+              },
+              {
+                "name": "Blocks Jumper",
+                "url": "https://app.codemonkey.com/courses/blocks-hour-of-code#1",
+                "editable": false
+              },
+              {
+                "name": "Super Mario",
+                "url": "https://code.hatchxr.com/super-mario",
+                "editable": false
               }
             ]
+          }
+        ]
+      },
+      {
+        "name": "Code IDE",
+        "isFolder": true,
+        "editable": false,
+        "children": [
+            {
+            "name": "Blockly-Python",
+            "url": "https://ltvtk.github.io/",
+            "editable": false
+            },
+            {
+            "name": "C++ online",
+            "url": "https://www.onlinegdb.com/online_c++_compiler",
+            "editable": false
           },
           {
-            "name": "Hour-of-code",
-            "isFolder": true,
-            "editable": false,
-            "children": [
-              {
-                "name": "Puppy adventure",
-                "url": "https://www.tynker.com/ide/v3?type=course&slug=activity:puppy-adventure&chapter=0&lesson=0",
-                "editable": false
-              },
-              {
-                "name": "Disney Moan",
-                "url": "https://e304920c.content.disney.io/index.html",
-                "editable": false
-              },
-              {
-                "name": "Beaver Achive",
-                "url": "https://app.codemonkey.com/beaver-achiever/hour-of-code/1",
-                "editable": false
-              }
-            ]
+            "name": "React-native Kids",
+            "url": "https://rnkids.github.io",
+            "editable": false
+          },
+          {
+            "name": "Expo dev",
+            "url": "https://expo.dev",
+            "editable": false
+          },
+          {
+            "name": "Linux OS",
+            "url": "https://copy.sh/v86/?profile=serenity",
+            "editable": false
+          }
+        ]
+      },
+      {
+        "name": "Images and Asserts",
+        "isFolder": true,
+        "editable": false,
+        "children": [
+            {
+            "name": "Game Sprites",
+            "url": "https://thaysang.github.io/game/sp",
+            "editable": true
+          },
+          {
+            "name": "Game Background",
+            "url": "https://thaysang.github.io/game/bg",
+            "editable": true
+          },
+          {
+            "name": "Pixabay PNG",
+            "url": "https://pixabay.com/",
+            "editable": false
+          },
+          {
+            "name": "PNG gamming",
+            "url": "https://pngmaker.io/tag/gaming",
+            "editable": false
+          },
+          {
+            "name": "AI Images",
+            "url": "https://www.recraft.ai/community",
+            "editable": false
+          },
+          {
+            "name": "Imgur",
+            "url": "https://imgur.com/",
+            "editable": false
+          },
+          {
+            "name": "Free PIK",
+            "url": "https://www.freepik.com/",
+            "editable": false
+          },
+          {
+            "name": "Open Games Art",
+            "url": "https://opengameart.org/",
+            "editable": false
+          },
+          {
+            "name": "Stick PNG",
+            "url": "https://www.stickpng.com/",
+            "editable": false
+          },
+          
+          {
+            "name": "Image to base64",
+            "url": "https://base64.guru/converter/encode/image",
+            "editable": true
+          },
+          {
+            "name": "Photo editor",
+            "url": "https://pixlr.com/editor",
+            "editable": true
+          },
+          {
+            "name": "Py0 github",
+            "url": "https://github.com/ltvtk/py0/releases/tag/1.0",
+            "editable": true
           }
         ]
       },
@@ -1107,98 +1247,6 @@
           {
             "name": "JavaScript silent teacher",
             "url": "https://silentteacher.toxicode.fr/hour_of_code.html?theme=javascript",
-            "editable": true
-          }
-        ]
-      },
-      {
-        "name": "Development",
-        "isFolder": true,
-        "editable": false,
-        "children": [
-            {
-            "name": "Blockly-Python",
-            "url": "https://ltvtk.github.io/",
-            "editable": false
-            },
-            {
-            "name": "CLB Lập Trình Vui",
-            "url": "https://laptrinhvui.duckdns.org",
-            "editable": false
-            },
-            {
-                "name": "Tin Học Trẻ",
-                "url": "https://tinhoctre.vn/",
-                "editable": true
-            },
-            {
-                "name": "Tin học VNOJ",
-                "url": "https://oj.vnoi.info/",
-                "editable": true
-            },
-            {
-                "name": "LQDOJ",
-                "url": "https://lqdoj.edu.vn/",
-                "editable": true
-            },
-            {
-            "name": "C++ online",
-            "url": "https://www.onlinegdb.com/online_c++_compiler",
-            "editable": false
-          },
-          {
-            "name": "React-native Kids",
-            "url": "https://rnkids.github.io",
-            "editable": false
-          },
-          {
-            "name": "Expo dev",
-            "url": "https://expo.dev",
-            "editable": false
-          },
-          {
-            "name": "Linux OS",
-            "url": "https://copy.sh/v86/?profile=serenity",
-            "editable": false
-          },
-          {
-            "name": "Free PIK",
-            "url": "https://www.freepik.com/",
-            "editable": false
-          },
-          {
-            "name": "Open Games Art",
-            "url": "https://opengameart.org/",
-            "editable": false
-          },
-          {
-            "name": "Stick PNG",
-            "url": "https://www.stickpng.com/",
-            "editable": false
-          },
-          {
-            "name": "Pixabay PNG",
-            "url": "https://pixabay.com/",
-            "editable": false
-          },
-          {
-            "name": "Game Sprites",
-            "url": "https://thaysang.github.io/game/sp",
-            "editable": true
-          },
-          {
-            "name": "Game Background",
-            "url": "https://thaysang.github.io/game/bg",
-            "editable": true
-          },
-          {
-            "name": "Py0 github",
-            "url": "https://github.com/ltvtk/py0/releases/tag/1.0",
-            "editable": true
-          },
-          {
-            "name": "Photo editor",
-            "url": "https://pixlr.com/editor",
             "editable": true
           }
         ]
