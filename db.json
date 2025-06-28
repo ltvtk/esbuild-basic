@@ -6,6 +6,9 @@
             "/s/*/lessons/15/*","/s/*/lessons/18/*","/s/*/lessons/21/*"]
         },
         {
+            "domain": "usaco.guide"
+        },
+        {
             "domain": "delightex.com"
         },
         {
@@ -1195,6 +1198,43 @@
         ]
       },
       {
+        "name": "Web ICPC",
+        "isFolder": true,
+        "editable": false,
+        "children": [
+            {
+            "name": "CLB Lập Trình Vui",
+            "url": "https://laptrinhvui.duckdns.org",
+            "editable": false
+            },
+            {
+                "name": "Tin Học Trẻ",
+                "url": "https://tinhoctre.vn/",
+                "editable": true
+            },
+            {
+                "name": "Tin học VNOJ",
+                "url": "https://oj.vnoi.info/",
+                "editable": true
+            },
+            {
+                "name": "LQDOJ",
+                "url": "https://lqdoj.edu.vn/",
+                "editable": true
+            },
+            {
+                "name": "Vjudge",
+                "url": "https://vjudge.net/",
+                "editable": true
+            },
+            {
+                "name": "Codeforces",
+                "url": "https://codeforces.com/",
+                "editable": true
+            }
+        ]
+      },
+      {
         "name": "Tutorials",
         "isFolder": true,
         "editable": false,
@@ -1247,6 +1287,16 @@
           {
             "name": "JavaScript silent teacher",
             "url": "https://silentteacher.toxicode.fr/hour_of_code.html?theme=javascript",
+            "editable": true
+          },
+          {
+            "name": "VNOJ wiki",
+            "url": "https://wiki.vnoi.info/",
+            "editable": true
+          },
+          {
+            "name": "Usaco guide",
+            "url": "https://usaco.guide/",
             "editable": true
           }
         ]
