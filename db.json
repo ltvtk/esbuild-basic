@@ -1168,6 +1168,11 @@
               "editable": false
             },
             {
+                "name": "Bing Images Search",
+                "url": "https://www.bing.com/images?FORM=HDRSC3",
+                "editable": false
+              },
+            {
               "name": "PNG gamming",
               "url": "https://pngmaker.io/tag/gaming",
               "editable": false
