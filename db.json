@@ -6,7 +6,7 @@
               "/s/*/lessons/15/*","/s/*/lessons/18/*","/s/*/lessons/21/*"]
           },
           {
-            "domain": "onlineide.pro"
+            "domain": "programiz.pro"
         },
           {
             "domain": "duckduckgo.com"
@@ -1122,12 +1122,12 @@
               },
               {
               "name": "C++ online",
-              "url": "https://www.onlineide.pro/playground/cpp",
+              "url": "https://programiz.pro/ide/cpp",
               "editable": false
             },
             {
                 "name": "python online",
-                "url": "https://www.onlineide.pro/playground/python",
+                "url": "https://programiz.pro/ide/python",
                 "editable": false
               },
             {
