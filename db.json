@@ -6,10 +6,34 @@
               "/s/*/lessons/15/*","/s/*/lessons/18/*","/s/*/lessons/21/*"]
           },
           {
+            "domain": "edu.sg"
+        },
+          {
+            "domain": "ac.jp"
+        },
+          {
+            "domain": "edu.cn"
+        },
+          {
+            "domain": "ac.kr"
+        },
+          {
+            "domain": "edu.au"
+        },
+          {
+            "domain": "ac.uk"
+        },
+          {
+            "domain": "beastacademy.org"
+        },
+          {
+            "domain": "thonny.org"
+        },
+          {
             "domain": "programiz.pro"
         },
           {
-            "domain": "duckduckgo.com"
+            "domain": "search.yahoo.com"
         },
           {
               "domain": "usaco.guide"
@@ -986,67 +1010,67 @@
               "children": [
                {
                   "name": "00-Pre-reader Express",
-                  "url": "https://studio.code.org/courses/pre-express-2024/units/1",
+                  "url": "https://studio.code.org/courses/pre-express-2025/units/1",
                   "editable": false
                 },
                 {
                   "name": "01-sequence",
-                  "url": "https://studio.code.org/s/express-2024/lessons/1/levels/2?section_id=5544519",
+                  "url": "https://studio.code.org/s/express-2025/lessons/1/levels/2?section_id=5544519",
                   "editable": false
                 },
                 {
                   "name": "Ex-Harvester",
-                  "url": "https://studio.code.org/s/courseb-2024/lessons/5/levels/2?section_id=5544519&viewAs=Instructor",
+                  "url": "https://studio.code.org/s/courseb-2025/lessons/5/levels/2?section_id=5544519&viewAs=Instructor",
                   "editable": false
                 },
                 {
                   "name": "02-Loop",
-                  "url": "https://studio.code.org/s/express-2024/lessons/11/levels/5?section_id=5544519",
+                  "url": "https://studio.code.org/s/express-2025/lessons/11/levels/5?section_id=5544519",
                   "editable": false
                 },
                 {
                   "name": "Ex-Harvester-loop",
-                  "url": "https://studio.code.org/s/coursec-2024/lessons/9/levels/2?section_id=5544519&viewAs=Instructor",
+                  "url": "https://studio.code.org/s/coursec-2025/lessons/9/levels/2?section_id=5544519&viewAs=Instructor",
                   "editable": false
                 },
                 {
                   "name": "03-nested-loop",
-                  "url": "https://studio.code.org/s/express-2024/lessons/13/levels/2?section_id=5544519",
+                  "url": "https://studio.code.org/s/express-2025/lessons/13/levels/2?section_id=5544519",
                   "editable": false
                 },
                 {
                   "name": "Ex-Bee-loop-loop",
-                  "url": "https://studio.code.org/s/express-2024/lessons/28/levels/1?section_id=5544519",
+                  "url": "https://studio.code.org/s/express-2025/lessons/28/levels/1?section_id=5544519",
                   "editable": false
                 },
                 {
                   "name": "04-IF ELSE",
-                  "url": "https://studio.code.org/s/express-2024/lessons/16/levels/1?section_id=5544519",
+                  "url": "https://studio.code.org/s/express-2025/lessons/16/levels/1?section_id=5544519",
                   "editable": false
                 },
                 {
                   "name": "05-While",
-                  "url": "https://studio.code.org/s/express-2024/lessons/17/levels/1?section_id=5544519",
+                  "url": "https://studio.code.org/s/express-2025/lessons/17/levels/1?section_id=5544519",
                   "editable": false
                 },
                 {
                   "name": "06-Until-loop",
-                  "url": "https://studio.code.org/s/express-2024/lessons/19/levels/1?section_id=5544519",
+                  "url": "https://studio.code.org/s/express-2025/lessons/19/levels/1?section_id=5544519",
                   "editable": false
                 },
                 {
                   "name": "07-Conditional",
-                  "url": "https://studio.code.org/s/express-2024/lessons/20/levels/2?section_id=5544519",
+                  "url": "https://studio.code.org/s/express-2025/lessons/20/levels/2?section_id=5544519",
                   "editable": false
                 },
                 {
                   "name": "08-Function",
-                  "url": "https://studio.code.org/s/express-2024/lessons/22/levels/2?section_id=5544519",
+                  "url": "https://studio.code.org/s/express-2025/lessons/22/levels/2?section_id=5544519",
                   "editable": false
                 },
                 {
                   "name": "09-Variables",
-                  "url": "https://studio.code.org/s/express-2024/lessons/27/levels/2?section_id=5544519",
+                  "url": "https://studio.code.org/s/express-2025/lessons/27/levels/2?section_id=5544519",
                   "editable": false
                 }
               ]
@@ -1454,7 +1478,7 @@
       "Useful Links": [
           {
               "name": "Search ...",
-              "url": "https://duckduckgo.com/",
+              "url": "https://search.yahoo.com/",
               "editable": true
           },
           {
