@@ -977,6 +977,9 @@
          "/embed/*PLUQergn5dlD-a_d1ItZHqs5FIA6KxnQr1*",
          "/embed/*PLBjm8YVOgHK3BgEvworO4HH37Q-PCETw5*",
          "/embed/*PLLhOnau-tupTFvctEmhIHa3ftTArupPPi*",
+         "/embed/*PLVdi11Co3pjrjrg89b1f2TchrQR48s7gL*",
+         "/embed/*PL4LtXF3mNzp4OzP2AfFdVNiLVSVy6DNGx*",
+         "/embed/*PLSEA1ZLX1qyRaT7rpRupFJP_R-B1NCIOM*",
          "/embed/*PLJOUQWZHQRPv5dH9qAOrtsqMKXsRLjWoY*"
        ]
       },
@@ -1313,6 +1316,28 @@
               "name": "Usaco guide",
               "url": "https://usaco.guide/",
               "editable": true
+            }
+          ]
+        },
+        {
+          "name": "Wedo 2 video",
+          "isFolder": true,
+          "editable": false,
+          "children": [
+            {
+              "name": "1",
+              "url": "https://www.youtube.com/embed/videoseries?list=PLVdi11Co3pjrjrg89b1f2TchrQR48s7gL",
+              "editable": false
+            },
+            {
+              "name": "2",
+              "url": "https://www.youtube.com/embed/videoseries?list=PL4LtXF3mNzp4OzP2AfFdVNiLVSVy6DNGx",
+              "editable": false
+            },
+            {
+              "name": "3",
+              "url": "https://www.youtube.com/embed/videoseries?list=PLSEA1ZLX1qyRaT7rpRupFJP_R-B1NCIOM",
+              "editable": false
             }
           ]
         }
