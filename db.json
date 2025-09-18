@@ -6,6 +6,9 @@
               "/s/*/lessons/15/*","/s/*/lessons/18/*","/s/*/lessons/21/*"]
           },
           {
+            "domain": "create-learn.us"
+        },
+          {
             "domain": "edu.sg"
         },
           {
@@ -1008,70 +1011,40 @@
               "isFolder": true,
               "editable": false,
               "children": [
-               {
-                  "name": "00-Pre-reader Express",
-                  "url": "https://studio.code.org/courses/pre-express-2025/units/1",
-                  "editable": false
+                {
+                    "name": "A",
+                    "url": "https://studio.code.org/courses/coursea",
+                    "editable": false
                 },
                 {
-                  "name": "01-sequence",
-                  "url": "https://studio.code.org/s/express-2025/lessons/1/levels/2?section_id=5544519",
-                  "editable": false
+                    "name": "B",
+                    "url": "https://studio.code.org/courses/courseb",
+                    "editable": false
                 },
                 {
-                  "name": "Ex-Harvester",
-                  "url": "https://studio.code.org/s/courseb-2025/lessons/5/levels/2?section_id=5544519&viewAs=Instructor",
-                  "editable": false
+                    "name": "C",
+                    "url": "https://studio.code.org/courses/coursec",
+                    "editable": false
                 },
                 {
-                  "name": "02-Loop",
-                  "url": "https://studio.code.org/s/express-2025/lessons/11/levels/5?section_id=5544519",
-                  "editable": false
+                    "name": "D",
+                    "url": "https://studio.code.org/courses/coursed",
+                    "editable": false
                 },
                 {
-                  "name": "Ex-Harvester-loop",
-                  "url": "https://studio.code.org/s/coursec-2025/lessons/9/levels/2?section_id=5544519&viewAs=Instructor",
-                  "editable": false
+                    "name": "E",
+                    "url": "https://studio.code.org/courses/coursee",
+                    "editable": false
                 },
                 {
-                  "name": "03-nested-loop",
-                  "url": "https://studio.code.org/s/express-2025/lessons/13/levels/2?section_id=5544519",
-                  "editable": false
+                    "name": "F",
+                    "url": "https://studio.code.org/courses/coursef",
+                    "editable": false
                 },
                 {
-                  "name": "Ex-Bee-loop-loop",
-                  "url": "https://studio.code.org/s/express-2025/lessons/28/levels/1?section_id=5544519",
-                  "editable": false
-                },
-                {
-                  "name": "04-IF ELSE",
-                  "url": "https://studio.code.org/s/express-2025/lessons/16/levels/1?section_id=5544519",
-                  "editable": false
-                },
-                {
-                  "name": "05-While",
-                  "url": "https://studio.code.org/s/express-2025/lessons/17/levels/1?section_id=5544519",
-                  "editable": false
-                },
-                {
-                  "name": "06-Until-loop",
-                  "url": "https://studio.code.org/s/express-2025/lessons/19/levels/1?section_id=5544519",
-                  "editable": false
-                },
-                {
-                  "name": "07-Conditional",
-                  "url": "https://studio.code.org/s/express-2025/lessons/20/levels/2?section_id=5544519",
-                  "editable": false
-                },
-                {
-                  "name": "08-Function",
-                  "url": "https://studio.code.org/s/express-2025/lessons/22/levels/2?section_id=5544519",
-                  "editable": false
-                },
-                {
-                  "name": "09-Variables",
-                  "url": "https://studio.code.org/s/express-2025/lessons/27/levels/2?section_id=5544519",
-                  "editable": false
+                    "name": "Practice",
+                    "url": "https://studio.code.org/courses/express",
+                    "editable": false
                 }
               ]
             },
@@ -1080,6 +1053,16 @@
               "isFolder": true,
               "editable": false,
               "children": [
+                {
+                    "name": "Robot Rider",
+                    "url": "https://www.numuki.com/game/robot-riders-learn-to-code",
+                    "editable": false
+                  },
+                  {
+                    "name": "AI for Oceans",
+                    "url": "https://studio.code.org/courses/oceans/units/1/lessons/1/levels/1",
+                    "editable": false
+                  },
                   {
                   "name": "CodeMonkey Jr",
                   "url": "https://app.codemonkey.com/junior/chapters/sequencing/challenges/1",
@@ -1093,16 +1076,6 @@
                 {
                   "name": "Disney Moan",
                   "url": "https://e304920c.content.disney.io/index.html",
-                  "editable": false
-                },
-                 {
-                  "name": "Pirate Plunder",
-                  "url": "https://www.delightex.com/pirate-plunder",
-                  "editable": false
-                },
-                {
-                  "name": "AI for Oceans",
-                  "url": "https://studio.code.org/courses/oceans/units/1/lessons/1/levels/1",
                   "editable": false
                 },
                 {
@@ -1123,11 +1096,6 @@
                 {
                   "name": "Blocks Jumper",
                   "url": "https://app.codemonkey.com/courses/blocks-hour-of-code#1",
-                  "editable": false
-                },
-                {
-                  "name": "Super Mario",
-                  "url": "https://code.hatchxr.com/super-mario",
                   "editable": false
                 }
               ]
@@ -1486,6 +1454,11 @@
           "url": "https://kientaotam.com",
           "editable": true
           },
+          {
+            "name": "Color Names",
+            "url": "https://www.w3schools.com/tags/ref_colornames.asp",
+            "editable": true
+            },
           {
           "name": "Wikipedia",
           "url": "https://www.wikipedia.org",
