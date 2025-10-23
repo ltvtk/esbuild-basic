@@ -36,7 +36,7 @@
             "domain": "programiz.pro"
         },
           {
-            "domain": "search.yahoo.com"
+            "domain": "sweetsearch.com"
         },
           {
               "domain": "usaco.guide"
@@ -1471,7 +1471,7 @@
       "Useful Links": [
           {
               "name": "Search ...",
-              "url": "https://search.yahoo.com/",
+              "url": "https://sweetsearch.com/",
               "editable": true
           },
           {
