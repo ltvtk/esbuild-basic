@@ -996,7 +996,7 @@
       },
       {
         "domain": "toxicode.fr",
-        "whitelistedPaths": ["silentteacher.toxicode.fr/hour_of_code.html*"]
+        "whitelistedPaths": ["/hour_of_code*"]
       },
       {
         "domain": "bing.com",
