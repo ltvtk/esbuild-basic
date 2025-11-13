@@ -138,9 +138,6 @@
               "domain": "id.vn"
           },
           {
-              "domain": "toxicode.fr"
-          },
-          {
               "domain": "sarahandduck.com"
           },
           {
@@ -996,6 +993,10 @@
       {
         "domain": "tynker.com",
         "whitelistedPaths": ["/ide/*puppy-adventure*"]
+      },
+      {
+        "domain": "toxicode.fr",
+        "whitelistedPaths": ["silentteacher.toxicode.fr/hour_of_code.html*"]
       },
       {
         "domain": "bing.com",
