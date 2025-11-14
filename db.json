@@ -949,39 +949,7 @@
           }
       ],
     "blacklist": [
-      {
-        "domain": "youtube.com",
-        "whitelistedPaths": [
-        "/watch?*PLlJvqLZ3J6oj5zmVSmV6bFHDvAgRc9PdU*",
-        "/watch?*PLlJvqLZ3J6oj0_9h4mdw_lu8EeyDZshtY*",
-        "/watch?*PLa8HWWMcQEGRhqI2vfh30TPvRO1m4FLWS*",
-        "/watch?*PLLhOnau-tupSS-eFNBOwqgfQHpOV3ASqN*",
-         "/watch?*PLP4H73sp9PL9CbQD8m2Erc7FbZbPHMJZA*", 
-         "/watch?*PLdkj6XH8GYPS6ArBvqavheM_7d705YD-s*",
-         "/watch?*PLpfxVARjkP-_f-E9IU6IHmy5ECj0HqiLB*",
-         "/watch?*PLrsH46EwyUzTVIeueQYFG6SFr9tZVJgEH*",
-         "/watch?*PLamcOkhpSCR2iBCxOico0oiYeMWnEkB_Y*",
-         "/watch?*PLS9qLR8VoFA56NWSswK2daQSovI9QCpQE*",
-         "/watch?*PLrTlfwZnk4QNi7G5gf5Tvk4EpoqwHm7gR*",
-         "/watch?*PLQKw_soo5o7LvvSzpBAULEb6-7UVd3iX4*",
-         "/watch?*PLLhOnau-tupSfk-0UCN_iDHEuDzQEgpAg*",
-         "/watch?*PLMrvyQzqrd1fZrUnlcbLHUI6vl-N9f29W*",
-         "/watch?*PLMrvyQzqrd1dZGBqBL3cd0-yjNaZ4PyAW*",
-         "/watch?*PLP4H73sp9PL-Z0GkskcNOAyG0Z40bXuOR*",
-         "/watch?*PLLhOnau-tupQ2k1dq1VVUpURqxqY5BhKM*",
-         "/watch?*PLa8HWWMcQEGQSBZzckwagCZMOZJhC2di9*",
-         "/watch?*PLWP-BeymnCEgk8Hkn0maWq0mI-cHdjnCI*",
-         "/watch?*PLV_39XpFpSPQjeR50vbCW7sfjgppBfZQK*",
-         "/watch?*PLMrvyQzqrd1c4Bmb9kHjoJmTc5kPNtWRv*",
-         "/watch?*PLUQergn5dlD-a_d1ItZHqs5FIA6KxnQr1*",
-         "/watch?*PLBjm8YVOgHK3BgEvworO4HH37Q-PCETw5*",
-         "/watch?*PLLhOnau-tupTFvctEmhIHa3ftTArupPPi*",
-         "/watch?*PLVdi11Co3pjrjrg89b1f2TchrQR48s7gL*",
-         "/watch?*PL4LtXF3mNzp4OzP2AfFdVNiLVSVy6DNGx*",
-         "/watch?*PLSEA1ZLX1qyRaT7rpRupFJP_R-B1NCIOM*",
-         "/watch?*PLJOUQWZHQRPv5dH9qAOrtsqMKXsRLjWoY*"
-       ]
-      },
+      
       {
         "domain": "pbskids.org",
         "whitelistedPaths": [
