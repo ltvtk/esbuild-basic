@@ -984,9 +984,50 @@
       },
       {
         "domain": "pbskids.org",
-        "whitelistedPaths": ["/gardening/*","/md-canoeing-game/*","/peg/games*"
-        ,"/molly/games*","/plumlanding/games*","/oddsquad/games*","/catinthehat/games*",
-      "/curiousgeorge/busyday*","/space-scouts-home-base/*","/cith-bridge-builder/*"]
+        "whitelistedPaths": [
+            "/molly",
+            "/molly*",
+            "/games*mollys*",
+            "/games*gathering*",
+            "/games*carving*",
+            "/games*beading*",
+            "/games*gardening*",
+            "/games*dog-sled*",
+            "/games*fishing*",
+            "/games*trading-post*",
+            "/games*animal-adventure*",
+            "/games*snowboarding*",
+            "/games*canoe-quest*",
+            "/peg",
+            "/peg*",
+            "/games*music-maker*",
+            "/games*peg*",
+            "/games*dont-go-bananas*",
+            "/games*mega-mall*",
+            "/games*make-the-cake*",
+            "/games*baby-fox-machine*",
+            "/games*symmetry-painte*",
+            "/games*hungry-pirates*",
+            "/curiousgeorge",
+            "/curiousgeorge*",
+            "/games*flower-garden*",
+            "/games*train-station*",
+            "/games*apple-picking*",
+            "/games*count-with-allie*",
+            "/games*high-five*",
+            "/games*ribbit*",
+            "/games*bug-catcher*",
+            "/games*bubble-pop*",
+            "/games*fair-shares*",
+            "/games*bunny-ride*",
+            "/games*monkey-jump*",
+            "/games*blast-off*",
+            "/games*hat-grab*",
+            "/games*meatball-launcher*",
+            "/games*museum-of-tens*",
+            "/games*hide-and-seek*",
+            "/catinthehat/games*",
+            "/space-scouts-home-base/*"]
       },
       {
         "domain": "numuki.com",
@@ -1383,7 +1424,7 @@
             "children":[
             {
               "name": "Molly",
-              "url": "https://pbskids.org/molly/games",
+              "url": "https://pbskids.org/molly",
               "editable": false
             },
             {
@@ -1393,12 +1434,12 @@
             },
             {
               "name": "Peg and Cat",
-              "url": "https://pbskids.org/peg/games",
+              "url": "https://pbskids.org/peg",
               "editable": false
             },
               {
                 "name": "Curious Georgle",
-                "url": "https://pbskids.org/curiousgeorge/busyday/",
+                "url": "https://pbskids.org/curiousgeorge",
                 "editable": false
               },
               {
