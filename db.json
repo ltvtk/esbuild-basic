@@ -952,32 +952,34 @@
       {
         "domain": "youtube.com",
         "whitelistedPaths": [
-         "/embed/*?channel=@MollyofDenali*",
-         "/embed/*PLLhOnau-tupSS-eFNBOwqgfQHpOV3ASqN*",
-         "/embed/*PLP4H73sp9PL9CbQD8m2Erc7FbZbPHMJZA*", 
-         "/embed/*PLdkj6XH8GYPS6ArBvqavheM_7d705YD-s*",
-         "/embed/*PLpfxVARjkP-_f-E9IU6IHmy5ECj0HqiLB*",
-         "/embed/*PLrsH46EwyUzTVIeueQYFG6SFr9tZVJgEH*",
-         "/embed/*PLamcOkhpSCR2iBCxOico0oiYeMWnEkB_Y*",
-         "/embed/*PLS9qLR8VoFA56NWSswK2daQSovI9QCpQE*",
-         "/embed/*PLrTlfwZnk4QNi7G5gf5Tvk4EpoqwHm7gR*",
-         "/embed/*PLQKw_soo5o7LvvSzpBAULEb6-7UVd3iX4*",
-         "/embed/*PLLhOnau-tupSfk-0UCN_iDHEuDzQEgpAg*",
-         "/embed/*PLMrvyQzqrd1fZrUnlcbLHUI6vl-N9f29W*",
-         "/embed/*PLMrvyQzqrd1dZGBqBL3cd0-yjNaZ4PyAW*",
-         "/embed/*PLP4H73sp9PL-Z0GkskcNOAyG0Z40bXuOR*",
-         "/embed/*PLLhOnau-tupQ2k1dq1VVUpURqxqY5BhKM*",
-         "/embed/*PLa8HWWMcQEGQSBZzckwagCZMOZJhC2di9*",
-         "/embed/*PLWP-BeymnCEgk8Hkn0maWq0mI-cHdjnCI*",
-         "/embed/*PLV_39XpFpSPQjeR50vbCW7sfjgppBfZQK*",
-         "/embed/*PLMrvyQzqrd1c4Bmb9kHjoJmTc5kPNtWRv*",
-         "/embed/*PLUQergn5dlD-a_d1ItZHqs5FIA6KxnQr1*",
-         "/embed/*PLBjm8YVOgHK3BgEvworO4HH37Q-PCETw5*",
-         "/embed/*PLLhOnau-tupTFvctEmhIHa3ftTArupPPi*",
-         "/embed/*PLVdi11Co3pjrjrg89b1f2TchrQR48s7gL*",
-         "/embed/*PL4LtXF3mNzp4OzP2AfFdVNiLVSVy6DNGx*",
-         "/embed/*PLSEA1ZLX1qyRaT7rpRupFJP_R-B1NCIOM*",
-         "/embed/*PLJOUQWZHQRPv5dH9qAOrtsqMKXsRLjWoY*"
+        "/watch?*PLlJvqLZ3J6oj5zmVSmV6bFHDvAgRc9PdU*",
+        "/watch?*PLlJvqLZ3J6oj0_9h4mdw_lu8EeyDZshtY*",
+        "/watch?*PLa8HWWMcQEGRhqI2vfh30TPvRO1m4FLWS*",
+        "/watch?*PLLhOnau-tupSS-eFNBOwqgfQHpOV3ASqN*",
+         "/watch?*PLP4H73sp9PL9CbQD8m2Erc7FbZbPHMJZA*", 
+         "/watch?*PLdkj6XH8GYPS6ArBvqavheM_7d705YD-s*",
+         "/watch?*PLpfxVARjkP-_f-E9IU6IHmy5ECj0HqiLB*",
+         "/watch?*PLrsH46EwyUzTVIeueQYFG6SFr9tZVJgEH*",
+         "/watch?*PLamcOkhpSCR2iBCxOico0oiYeMWnEkB_Y*",
+         "/watch?*PLS9qLR8VoFA56NWSswK2daQSovI9QCpQE*",
+         "/watch?*PLrTlfwZnk4QNi7G5gf5Tvk4EpoqwHm7gR*",
+         "/watch?*PLQKw_soo5o7LvvSzpBAULEb6-7UVd3iX4*",
+         "/watch?*PLLhOnau-tupSfk-0UCN_iDHEuDzQEgpAg*",
+         "/watch?*PLMrvyQzqrd1fZrUnlcbLHUI6vl-N9f29W*",
+         "/watch?*PLMrvyQzqrd1dZGBqBL3cd0-yjNaZ4PyAW*",
+         "/watch?*PLP4H73sp9PL-Z0GkskcNOAyG0Z40bXuOR*",
+         "/watch?*PLLhOnau-tupQ2k1dq1VVUpURqxqY5BhKM*",
+         "/watch?*PLa8HWWMcQEGQSBZzckwagCZMOZJhC2di9*",
+         "/watch?*PLWP-BeymnCEgk8Hkn0maWq0mI-cHdjnCI*",
+         "/watch?*PLV_39XpFpSPQjeR50vbCW7sfjgppBfZQK*",
+         "/watch?*PLMrvyQzqrd1c4Bmb9kHjoJmTc5kPNtWRv*",
+         "/watch?*PLUQergn5dlD-a_d1ItZHqs5FIA6KxnQr1*",
+         "/watch?*PLBjm8YVOgHK3BgEvworO4HH37Q-PCETw5*",
+         "/watch?*PLLhOnau-tupTFvctEmhIHa3ftTArupPPi*",
+         "/watch?*PLVdi11Co3pjrjrg89b1f2TchrQR48s7gL*",
+         "/watch?*PL4LtXF3mNzp4OzP2AfFdVNiLVSVy6DNGx*",
+         "/watch?*PLSEA1ZLX1qyRaT7rpRupFJP_R-B1NCIOM*",
+         "/watch?*PLJOUQWZHQRPv5dH9qAOrtsqMKXsRLjWoY*"
        ]
       },
       {
@@ -1265,24 +1267,29 @@
             },
             {
               "name": "Scratch Basic",
-              "url": "https://www.youtube.com/embed/videoseries?list=PLpfxVARjkP-_f-E9IU6IHmy5ECj0HqiLB",
+              "url": "https://www.youtube.com/watch?v=9jTPZfhuVro&list=PLpfxVARjkP-_f-E9IU6IHmy5ECj0HqiLB",
               "editable": false
             },
             {
               "name": "Platformer game",
-              "url": "https://www.youtube.com/embed/videoseries?list=PLrsH46EwyUzTVIeueQYFG6SFr9tZVJgEH",
+              "url": "https://www.youtube.com/watch?v=IbhLyRRH-4Q&list=PLrsH46EwyUzTVIeueQYFG6SFr9tZVJgEH&index=1",
               "editable": false
             },
             {
               "name": "Scratch intermedia",
-              "url": "https://www.youtube.com/embed/videoseries?list=PLamcOkhpSCR2iBCxOico0oiYeMWnEkB_Y",
+              "url": "https://www.youtube.com/watch?v=jBXTCPv0V5k&list=PLamcOkhpSCR2iBCxOico0oiYeMWnEkB_Y&index=1",
               "editable": false
             },
             {
               "name": "Python turtle video tutorial",
-              "url": "https://www.youtube.com/embed/videoseries?list=PLS9qLR8VoFA56NWSswK2daQSovI9QCpQE",
+              "url": "https://www.youtube.com/watch?v=Tk2Dhp876UY&list=PLS9qLR8VoFA56NWSswK2daQSovI9QCpQE&index=1",
               "editable": false
             },
+            {
+                "name": "Phần mềm di động cho trẻ em",
+                "url": "https://www.youtube.com/watch?v=xUOxR6ekg1c&list=PLlJvqLZ3J6oj0_9h4mdw_lu8EeyDZshtY&index=1",
+                "editable": false
+              },
             {
               "name": "Python turtle docs",
               "url": "https://docs.python.org/3/library/turtle.html",
@@ -1327,17 +1334,17 @@
           "children": [
             {
               "name": "1",
-              "url": "https://www.youtube.com/embed/videoseries?list=PLVdi11Co3pjrjrg89b1f2TchrQR48s7gL",
+              "url": "https://www.youtube.com/watch?v=3V8GpFjc7zc&list=PLVdi11Co3pjrjrg89b1f2TchrQR48s7gL&index=1",
               "editable": false
             },
             {
               "name": "2",
-              "url": "https://www.youtube.com/embed/videoseries?list=PL4LtXF3mNzp4OzP2AfFdVNiLVSVy6DNGx",
+              "url": "https://www.youtube.com/watch?v=eyJ08WmVMjM&list=PL4LtXF3mNzp4OzP2AfFdVNiLVSVy6DNGx&index=1",
               "editable": false
             },
             {
               "name": "3",
-              "url": "https://www.youtube.com/embed/videoseries?list=PLSEA1ZLX1qyRaT7rpRupFJP_R-B1NCIOM",
+              "url": "https://www.youtube.com/watch?v=GehetS80X6c&list=PLSEA1ZLX1qyRaT7rpRupFJP_R-B1NCIOM&index=1",
               "editable": false
             }
           ]
@@ -1418,52 +1425,47 @@
               },
               {
                 "name": "Super simple song",
-                "url": "https://www.youtube.com/embed/videoseries?list=PLdkj6XH8GYPS6ArBvqavheM_7d705YD-s",
+                "url": "https://www.youtube.com/watch?v=0DqkEfKXT5Y&list=PLdkj6XH8GYPS6ArBvqavheM_7d705YD-s&index=1",
                 "editable": false
               },
               {
                 "name": "Daniel Tiger's Neighborhood",
-                "url": "https://www.youtube.com/embed/videoseries?list=PLrTlfwZnk4QNi7G5gf5Tvk4EpoqwHm7gR",
+                "url": "https://www.youtube.com/watch?v=mz0QNiHDdF8&list=PLrTlfwZnk4QNi7G5gf5Tvk4EpoqwHm7gR&index=1",
                 "editable": false
               },
               {
                 "name": "Let's Go Luna!",
-                "url": "https://www.youtube.com/embed/videoseries?list=PLMrvyQzqrd1fZrUnlcbLHUI6vl-N9f29W",
+                "url": "https://www.youtube.com/watch?v=T1I5kaw0s3g&list=PLMrvyQzqrd1fZrUnlcbLHUI6vl-N9f29W&index=1",
                 "editable": false
               },
               {
                 "name": "The Cat in the Hat Knows a Lot About That!",
-                "url": "https://www.youtube.com/embed/videoseries?list=PLMrvyQzqrd1dZGBqBL3cd0-yjNaZ4PyAW",
+                "url": "https://www.youtube.com/watch?v=ux_4yNMnSo0&list=PLMrvyQzqrd1dZGBqBL3cd0-yjNaZ4PyAW&index=1",
                 "editable": false
               },
               {
                 "name": "Pinkalicious & Peterrific",
-                "url": "https://www.youtube.com/embed/videoseries?list=PLa8HWWMcQEGQSBZzckwagCZMOZJhC2di9",
-                "editable": false
-              },
-              {
-                "name": "Nature Cat",
-                "url": "https://www.youtube.com/embed/videoseries?list=PLWP-BeymnCEgk8Hkn0maWq0mI-cHdjnCI",
+                "url": "https://www.youtube.com/watch?v=GR3_Uuap0Uk&list=PLa8HWWMcQEGQSBZzckwagCZMOZJhC2di9&index=1",
                 "editable": false
               },
               {
                 "name": "Molly of Denali",
-                "url": "https://www.youtube.com/embed/videoseries?list=PLJOUQWZHQRPv5dH9qAOrtsqMKXsRLjWoY",
+                "url": "https://www.youtube.com/watch?v=XWDHBrkYsgA&list=PLa8HWWMcQEGRhqI2vfh30TPvRO1m4FLWS",
                 "editable": false
               },
               {
                 "name": "Xavier Riddle and the Secret Museum",
-                "url": "https://www.youtube.com/embed/videoseries?list=PLMrvyQzqrd1c4Bmb9kHjoJmTc5kPNtWRv",
+                "url": "https://www.youtube.com/watch?v=h23mIlAP2Fw&list=PLMrvyQzqrd1c4Bmb9kHjoJmTc5kPNtWRv&index=1",
                 "editable": false
               },
               {
                 "name": "Odd Squad",
-                "url": "https://www.youtube.com/embed/videoseries?list=PLUQergn5dlD-a_d1ItZHqs5FIA6KxnQr1",
+                "url": "https://www.youtube.com/watch?v=12V58tzOsQg&list=PLUQergn5dlD-a_d1ItZHqs5FIA6KxnQr1&index=1",
                 "editable": false
               },
               {
                 "name": "WordGirl",
-                "url": "https://www.youtube.com/embed/videoseries?list=PLBjm8YVOgHK3BgEvworO4HH37Q-PCETw5",
+                "url": "https://www.youtube.com/watch?v=olW02w0OyKM&list=PLBjm8YVOgHK3BgEvworO4HH37Q-PCETw5&index=1",
                 "editable": false
               }
             ]
@@ -1474,11 +1476,6 @@
               "name": "Search ...",
               "url": "https://sweetsearch.com/",
               "editable": true
-          },
-          {
-          "name": "Kiến Tạo Tâm",
-          "url": "https://kientaotam.com",
-          "editable": true
           },
           {
             "name": "Color Names",
@@ -1539,7 +1536,12 @@
           "name": "Pinterest",
           "url": "https://www.pinterest.com/",
           "editable": true
-          }
+          },
+          {
+            "name": "Kiến Tạo Tâm",
+            "url": "https://www.youtube.com/watch?v=31Ovxy3Y2Oc&list=PLlJvqLZ3J6oj5zmVSmV6bFHDvAgRc9PdU&index=1",
+            "editable": true
+        }
       ]
     }
   }
