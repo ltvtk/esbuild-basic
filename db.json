@@ -1012,6 +1012,10 @@
       {
         "domain": "bing.com",
         "whitelistedPaths": ["/images*"]
+      },
+      {
+        "domain": "turbowarp.org",
+        "whitelistedPaths": ["/editor","/editor*"]
       }
     ],
     "default": {
