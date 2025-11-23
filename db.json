@@ -213,9 +213,6 @@
               "domain": "edu.google.com"
           },
           {
-              "domain": "gemini.google.com"
-          },
-          {
               "domain": "drive.google.com"
           },
           {
@@ -995,7 +992,9 @@
             "/games*museum-of-tens*",
             "/games*hide-and-seek*",
             "/catinthehat/games*",
-            "/space-scouts-home-base/*"]
+            "/space-scouts-home-base/*",
+            "/cith-bridge-builder/*"
+        ]
       },
       {
         "domain": "numuki.com",
@@ -1538,11 +1537,6 @@
           {
           "name": "Grok AI",
           "url": "https://grok.com",
-          "editable": true
-          },
-          {
-          "name": "Genmini AI",
-          "url": "https://gemini.google.com",
           "editable": true
           },
           {
