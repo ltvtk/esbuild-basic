@@ -224,6 +224,9 @@
             "domain": "mail.google.com"
         },
         {
+            "domain": "scholar.google.com"
+        },
+        {
             "domain": "edu.google.com"
         },
         {
@@ -231,6 +234,12 @@
         },
         {
             "domain": "drive.google.com"
+        },
+        {
+            "domain": "earth.google.com"
+        },
+        {
+            "domain": "gds.google.com"
         },
         {
             "domain": "design.google.com"
@@ -246,6 +255,9 @@
         },
         {
             "domain": "workspace.google.com"
+        },
+        {
+            "domain": "books.google.com"
         },
         {
             "domain": "cloud.google.com"
@@ -266,10 +278,16 @@
             "domain": "accounts.google.com"
         },
         {
+            "domain": "conttacts.google.com"
+        },
+        {
             "domain": "docs.google.com"
         },
         {
             "domain": "remotedesktop.google.com"
+        },
+        {
+            "domain": "keep.google.com"
         },
         {
             "domain": "co.uk"
@@ -279,6 +297,9 @@
         },
         {
             "domain": "github.io"
+        },
+        {
+            "domain": "githubusercontent.com"
         },
         {
             "domain": "replit.com"
