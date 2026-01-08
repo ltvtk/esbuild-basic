@@ -1164,43 +1164,147 @@
                 "editable": false,
                 "children": [
                     {
-                        "name": "Code.org",
+                        "name": "01 - Sequencing",
                         "isFolder": true,
                         "editable": false,
                         "children": [
                             {
-                                "name": "A",
-                                "url": "https://studio.code.org/courses/coursea",
+                                "name": "Learn to Drag and Drop",
+                                "url": "https://studio.code.org/courses/coursea-2025/units/1/lessons/2/levels/1?viewAs=Instructor",
                                 "editable": false
                             },
                             {
-                                "name": "B",
-                                "url": "https://studio.code.org/courses/courseb",
+                                "name": "Sequencing with Scrat",
+                                "url": "https://studio.code.org/courses/coursea-2025/units/1/lessons/4/levels/1",
                                 "editable": false
                             },
                             {
-                                "name": "C",
-                                "url": "https://studio.code.org/courses/coursec",
+                                "name": "Programming with Scrat",
+                                "url": "https://studio.code.org/courses/coursea-2025/units/1/lessons/5/levels/1",
                                 "editable": false
                             },
                             {
-                                "name": "D",
-                                "url": "https://studio.code.org/courses/coursed",
+                                "name": "Rey and BB-8",
+                                "url": "https://studio.code.org/courses/coursea-2025/units/1/lessons/6/levels/1",
                                 "editable": false
                             },
                             {
-                                "name": "E",
-                                "url": "https://studio.code.org/courses/coursee",
+                                "name": "Angry Birds",
+                                "url": "https://studio.code.org/courses/courseb-2025/units/1/lessons/3/levels/1",
                                 "editable": false
                             },
                             {
-                                "name": "F",
-                                "url": "https://studio.code.org/courses/coursef",
+                                "name": "Programming with Angry Birds",
+                                "url": "https://studio.code.org/courses/courseb-2025/units/1/lessons/4/levels/1",
                                 "editable": false
                             },
                             {
-                                "name": "Practice",
-                                "url": "https://studio.code.org/courses/express",
+                                "name": "Programming with Harvester",
+                                "url": "https://studio.code.org/courses/courseb-2025/units/1/lessons/5/levels/1",
+                                "editable": false
+                            },
+                            {
+                                "name": "Debugging in Maze",
+                                "url": "https://studio.code.org/courses/coursec-2025/units/1/lessons/4/levels/1",
+                                "editable": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "02 - Basic loop",
+                        "isFolder": true,
+                        "editable": false,
+                        "children": [
+                            {
+                                "name": "Loops with Scrat",
+                                "url": "https://studio.code.org/courses/coursea-2025/units/1/lessons/8/levels/1?viewAs=Instructor",
+                                "editable": false
+                            },
+                            {
+                                "name": "Loops with Laurel",
+                                "url": "https://studio.code.org/courses/coursea-2025/units/1/lessons/9/levels/1",
+                                "editable": false
+                            },
+                            {
+                                "name": "Loops with Harvester",
+                                "url": "https://studio.code.org/courses/courseb-2025/units/1/lessons/7/levels/1?viewAs=Instructor",
+                                "editable": false
+                            },
+                            {
+                                "name": "Loops with Laurel",
+                                "url": "https://studio.code.org/courses/courseb-2025/units/1/lessons/8/levels/1",
+                                "editable": false
+                            },
+                            {
+                                "name": "rogramming with Angry Birds",
+                                "url": "https://studio.code.org/courses/coursec-2025/units/1/lessons/3/levels/1",
+                                "editable": false
+                            },
+                            {
+                                "name": "Collecting Treasure with Laurel",
+                                "url": "https://studio.code.org/courses/coursec-2025/units/1/lessons/5/levels/1",
+                                "editable": false
+                            },
+                            {
+                                "name": "Loops with Rey and BB-8",
+                                "url": "https://studio.code.org/courses/coursec-2025/units/1/lessons/8/levels/1",
+                                "editable": false
+                            },
+                            {
+                                "name": "Harvesting Crops with Loops",
+                                "url": "https://studio.code.org/courses/coursec-2025/units/1/lessons/9/levels/1",
+                                "editable": false
+                            },
+                            {
+                                "name": " Debugging with Laurel",
+                                "url": "https://studio.code.org/courses/coursed-2025/units/1/lessons/4/levels/1",
+                                "editable": false
+                            },
+                            {
+                                "name": "Nested Loops in Maze",
+                                "url": "https://studio.code.org/courses/coursed-2025/units/1/lessons/13/levels/1?viewAs=Instructor",
+                                "editable": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "03 - Conditional +",
+                        "isFolder": true,
+                        "editable": false,
+                        "children": [
+                            {
+                                "name": "If/Else with Bee",
+                                "url": "https://studio.code.org/courses/coursed-2025/units/1/lessons/16/levels/1",
+                                "editable": false
+                            },
+                            {
+                                "name": "While Loops in Farmer",
+                                "url": "https://studio.code.org/courses/coursed-2025/units/1/lessons/17/levels/1?viewAs=Instructor",
+                                "editable": false
+                            },
+                            {
+                                "name": "Until Loops in Maze",
+                                "url": "https://studio.code.org/courses/coursed-2025/units/1/lessons/18/levels/1",
+                                "editable": false
+                            },
+                            {
+                                "name": "Harvesting with Conditionals",
+                                "url": "https://studio.code.org/courses/express-2025/units/1/lessons/21/levels/1",
+                                "editable": false
+                            },
+                            {
+                                "name": "Variables with the Bee",
+                                "url": "https://studio.code.org/courses/express-2025/units/1/lessons/28/levels/1?viewAs=Instructor",
+                                "editable": false
+                            },
+                            {
+                                "name": "For Loops with Bee",
+                                "url": "https://studio.code.org/courses/express-2025/units/1/lessons/29/levels/1?viewAs=Instructor",
+                                "editable": false
+                            },
+                            {
+                                "name": "Conditionals with the Farmer",
+                                "url": "https://studio.code.org/courses/coursee-2025/units/1/lessons/16/levels/1?viewAs=Instructor",
                                 "editable": false
                             }
                         ]
@@ -1249,10 +1353,46 @@
                                 "name": "Star Wars",
                                 "url": "https://studio.code.org/s/starwars/lessons/1/levels/1",
                                 "editable": false
+                            }
+                        ]
+                    },{
+                        "name": "More Code.org",
+                        "isFolder": true,
+                        "editable": false,
+                        "children": [
+                            {
+                                "name": "A",
+                                "url": "https://studio.code.org/courses/coursea",
+                                "editable": false
                             },
                             {
-                                "name": "Blocks Jumper",
-                                "url": "https://app.codemonkey.com/courses/blocks-hour-of-code#1",
+                                "name": "B",
+                                "url": "https://studio.code.org/courses/courseb",
+                                "editable": false
+                            },
+                            {
+                                "name": "C",
+                                "url": "https://studio.code.org/courses/coursec",
+                                "editable": false
+                            },
+                            {
+                                "name": "D",
+                                "url": "https://studio.code.org/courses/coursed",
+                                "editable": false
+                            },
+                            {
+                                "name": "E",
+                                "url": "https://studio.code.org/courses/coursee",
+                                "editable": false
+                            },
+                            {
+                                "name": "F",
+                                "url": "https://studio.code.org/courses/coursef",
+                                "editable": false
+                            },
+                            {
+                                "name": "Practice",
+                                "url": "https://studio.code.org/courses/express",
                                 "editable": false
                             }
                         ]
