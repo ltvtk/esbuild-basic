@@ -14,6 +14,27 @@
             ]
         },
         {
+            "domain": "edu.eu.org"
+        },
+         {
+            "domain": "2tech.vn"
+        },
+         {
+            "domain": "homeschool.homes"
+        },
+         {
+            "domain": "chithongoc.com"
+        },
+         {
+            "domain": "sachnoitienganh.com"
+        },
+         {
+            "domain": "o9o.net"
+        },
+         {
+            "domain": "tienganhchotreem.com"
+        },
+        {
             "domain": "innovid.com"
         },
         {
@@ -1490,6 +1511,38 @@
             }
         ],
         "English": [
+            {
+                "name": "English for kids",
+                "isFolder": true,
+                "editable": false,
+                "children": [
+                    {
+                        "name": "Little Fox",
+                        "url": "https://www.tienganhchotreem.com/little-fox/",
+                        "editable": false
+                    },
+                    {
+                        "name": "Acellus",
+                        "url": "https://homeschool.homes/category/acellus/",
+                        "editable": false
+                    },
+                    {
+                        "name": "Heinemann",
+                        "url": "https://hocta.2tech.vn/play?l=Heinemann%20GK%20120&f=&s=rclone",
+                        "editable": false
+                    },
+                    {
+                        "name": "Raz-kids",
+                        "url": "https://fb4kids.edu.eu.org/razkids",
+                        "editable": false
+                    },
+                    {
+                        "name": "ABKs",
+                        "url": "https://www.o9o.net/k4/",
+                        "editable": false
+                    }
+                ]
+            },
             {
                 "name": "E-learning...",
                 "isFolder": true,
