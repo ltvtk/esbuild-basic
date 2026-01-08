@@ -1355,47 +1355,6 @@
                                 "editable": false
                             }
                         ]
-                    },{
-                        "name": "More Code.org",
-                        "isFolder": true,
-                        "editable": false,
-                        "children": [
-                            {
-                                "name": "A",
-                                "url": "https://studio.code.org/courses/coursea",
-                                "editable": false
-                            },
-                            {
-                                "name": "B",
-                                "url": "https://studio.code.org/courses/courseb",
-                                "editable": false
-                            },
-                            {
-                                "name": "C",
-                                "url": "https://studio.code.org/courses/coursec",
-                                "editable": false
-                            },
-                            {
-                                "name": "D",
-                                "url": "https://studio.code.org/courses/coursed",
-                                "editable": false
-                            },
-                            {
-                                "name": "E",
-                                "url": "https://studio.code.org/courses/coursee",
-                                "editable": false
-                            },
-                            {
-                                "name": "F",
-                                "url": "https://studio.code.org/courses/coursef",
-                                "editable": false
-                            },
-                            {
-                                "name": "Practice",
-                                "url": "https://studio.code.org/courses/express",
-                                "editable": false
-                            }
-                        ]
                     }
                 ]
             },
