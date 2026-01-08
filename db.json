@@ -1216,17 +1216,17 @@
                         "editable": false,
                         "children": [
                             {
-                                "name": "Loops with Scrat",
+                                "name": "Scrat",
                                 "url": "https://studio.code.org/courses/coursea-2025/units/1/lessons/8/levels/1?viewAs=Instructor",
                                 "editable": false
                             },
                             {
-                                "name": "Loops with Laurel",
+                                "name": "Laurel",
                                 "url": "https://studio.code.org/courses/coursea-2025/units/1/lessons/9/levels/1",
                                 "editable": false
                             },
                             {
-                                "name": "Loops with Harvester",
+                                "name": "Harvester",
                                 "url": "https://studio.code.org/courses/courseb-2025/units/1/lessons/7/levels/1?viewAs=Instructor",
                                 "editable": false
                             },
@@ -1236,7 +1236,7 @@
                                 "editable": false
                             },
                             {
-                                "name": "rogramming with Angry Birds",
+                                "name": "Programming with Angry Birds",
                                 "url": "https://studio.code.org/courses/coursec-2025/units/1/lessons/3/levels/1",
                                 "editable": false
                             },
@@ -1256,7 +1256,7 @@
                                 "editable": false
                             },
                             {
-                                "name": " Debugging with Laurel",
+                                "name": "Debugging with Laurel",
                                 "url": "https://studio.code.org/courses/coursed-2025/units/1/lessons/4/levels/1",
                                 "editable": false
                             },
