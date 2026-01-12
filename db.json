@@ -5,13 +5,14 @@
             "blacklistedPaths": [
                 "/minecraft",
                 "/projects",
-                "/s/hero",
-                "/s/aquatic",
-                "/s/minecraft",
-                "/s/*/lessons/15/*",
-                "/s/*/lessons/18/*",
-                "/s/*/lessons/21/*"
+                "/*/hero",
+                "/*/aquatic",
+                "/*/minecraft",
+                "/*/mc/*"
             ]
+        },
+        {
+            "domain": "springroll-tc.pbskids.org"
         },
         {
             "domain": "edu.eu.org"
@@ -1076,55 +1077,6 @@
             ]
         },
         {
-            "domain": "pbskids.org",
-            "whitelistedPaths": [
-                "/molly",
-                "/molly*",
-                "/games*mollys*",
-                "/games*gathering*",
-                "/games*carving*",
-                "/games*beading*",
-                "/games*gardening*",
-                "/games*dog-sled*",
-                "/games*fishing*",
-                "/games*trading-post*",
-                "/games*animal-adventure*",
-                "/games*snowboarding*",
-                "/games*canoe-quest*",
-                "/peg",
-                "/peg*",
-                "/games*music-maker*",
-                "/games*peg*",
-                "/games*dont-go-bananas*",
-                "/games*mega-mall*",
-                "/games*make-the-cake*",
-                "/games*baby-fox-machine*",
-                "/games*symmetry-painte*",
-                "/games*hungry-pirates*",
-                "/curiousgeorge",
-                "/curiousgeorge*",
-                "/games*flower-garden*",
-                "/games*train-station*",
-                "/games*apple-picking*",
-                "/games*count-with-allie*",
-                "/games*high-five*",
-                "/games*ribbit*",
-                "/games*bug-catcher*",
-                "/games*bubble-pop*",
-                "/games*fair-shares*",
-                "/games*bunny-ride*",
-                "/games*monkey-jump*",
-                "/games*blast-off*",
-                "/games*hat-grab*",
-                "/games*meatball-launcher*",
-                "/games*museum-of-tens*",
-                "/games*hide-and-seek*",
-                "/catinthehat/games*",
-                "/space-scouts-home-base/*",
-                "/cith-bridge-builder/*"
-            ]
-        },
-        {
             "domain": "numuki.com",
             "whitelistedPaths": [
                 "/games/robot-riders-learn-to-code*"
@@ -1670,38 +1622,28 @@
                 ]
             },
             {
-                "name": "Play & Learn",
+                "name": "Reading games",
                 "isFolder": true,
                 "editable": false,
                 "children": [
                     {
-                        "name": "Molly",
-                        "url": "https://pbskids.org/molly",
+                        "name": "Super Why",
+                        "url": "https://springroll-tc.pbskids.org/super-why-saves-the-day/24becdfa8e8ab5104a8692c373a0249bfe420524/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
                         "editable": false
                     },
                     {
-                        "name": "Sarah and Duck",
-                        "url": "https://www.sarahandduck.com",
+                        "name": "Molly fish camp",
+                        "url": "https://springroll-tc.pbskids.org/fishing/c2e3f6313d2fdfa67de93e78252d413a06ab70fa/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
                         "editable": false
                     },
                     {
-                        "name": "Peg and Cat",
-                        "url": "https://pbskids.org/peg",
+                        "name": "Adventure stories",
+                        "url": "https://springroll-tc.pbskids.org/adventure-stories/971465af6dad448696148a562f0fe6dbe6997dd3/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
                         "editable": false
                     },
                     {
-                        "name": "Curious Georgle",
-                        "url": "https://pbskids.org/curiousgeorge",
-                        "editable": false
-                    },
-                    {
-                        "name": "RJG-Space scouts",
-                        "url": "https://springroll-tc.pbskids.org/space-scouts-home-base/3afb9dc78b7e295dc7f47497f1d167a6b5bea849/release/index.html",
-                        "editable": false
-                    },
-                    {
-                        "name": "Bridge builder",
-                        "url": "https://springroll-tc.pbskids.org/cith-bridge-builder/d57ff27195ad67af889bb053068fea992783ce33/release/index.html",
+                        "name": "Goldilocks",
+                        "url": "https://springroll-tc.pbskids.org/goldilocks/062d7c3a09acf64b888c6f7d9c79b9e75a6b36a9/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
                         "editable": false
                     }
                 ]
