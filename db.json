@@ -1665,6 +1665,16 @@
                         "name": "story-book-builder",
                         "url": "https://springroll-tc.pbskids.org/storybook-builder/66972f6d31fb828391215cbbb1259a1420e4547f/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
                         "editable": false
+                    },
+                    {
+                        "name": "princess-prestos-spectacular-spelling-play",
+                        "url": "https://springroll-tc.pbskids.org/princess-prestos-spectacular-spelling-play/4b48871a27e49d4dc95f962448a978d6dc4ae082/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+                        "editable": false
+                    },
+                    {
+                        "name": "wonder-reds-rhyme-racer",
+                        "url": "https://springroll-tc.pbskids.org/wonder-reds-rhyme-racer/c9890808ab8b5168d93ef339830af2aef46f4657/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+                        "editable": false
                     }
                 ]
             },
