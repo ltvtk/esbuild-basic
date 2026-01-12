@@ -1642,8 +1642,28 @@
                         "editable": false
                     },
                     {
-                        "name": "Goldilocks",
-                        "url": "https://springroll-tc.pbskids.org/goldilocks/062d7c3a09acf64b888c6f7d9c79b9e75a6b36a9/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+                        "name": "Molly snowboarding",
+                        "url": "https://springroll-tc.pbskids.org/snowboarding/54c2d51d63725dd19316f252ab11c15d482576f2/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+                        "editable": false
+                    },
+                    {
+                        "name": "Xavier story creator",
+                        "url": "https://springroll-tc.pbskids.org/a2f678f0-d000-11e9-8675-fd8c801e5fde/c5706a871d986ec14306a8b12b94fd18bad2cdab/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+                        "editable": false
+                    },
+                    {
+                        "name": "Story emporium",
+                        "url": "https://springroll-tc.pbskids.org/b393d3c9-0db6-40ee-bd3f-ffea6363c882/6f3c7e570c9dc8b567b32ae535c02bd3fad3380a/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+                        "editable": false
+                    },
+                    {
+                        "name": "Pinkcredible-story-maker",
+                        "url": "https://springroll-tc.pbskids.org/storymaker/7e04a6224177bb0c96a4c8cbf7b5007328b5c099/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+                        "editable": false
+                    },
+                    {
+                        "name": "story-book-builder",
+                        "url": "https://springroll-tc.pbskids.org/storybook-builder/66972f6d31fb828391215cbbb1259a1420e4547f/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
                         "editable": false
                     }
                 ]
