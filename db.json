@@ -1073,6 +1073,7 @@
                 "/watch?*PL4LtXF3mNzp4OzP2AfFdVNiLVSVy6DNGx*",
                 "/watch?*PLSEA1ZLX1qyRaT7rpRupFJP_R-B1NCIOM*",
                 "/watch?*PLJOUQWZHQRPv5dH9qAOrtsqMKXsRLjWoY*",
+                "/watch?*PLnBTl2VtIwRmpm-RRSVWhhaHf4UQg01Dz",
                 "/*docs.google.com*"
             ]
         },
@@ -1935,6 +1936,217 @@
     }
 ]
             },
+                         {
+                "name": "Pinkalicious",
+                "isFolder": true,
+                "editable": false,
+                "children": [
+    {
+        "name": "Pinkamusical Garden",
+        "url": "https://springroll-tc.pbskids.org/pinkalicious-music-garden/56016be93dc0ce321f04d7849e164c67659253a2/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+        "editable": false
+    },
+    {
+        "name": "Play Colorrific Art Show",
+        "url": "https://springroll-tc.pbskids.org/pinkalicious-drawing/b38752f76a3084cc3b84c926acf9c028f8570490/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+        "editable": false
+    },
+    {
+        "name": "Pinkalicious Fairy House",
+        "url": "https://springroll-tc.pbskids.org/pink-fairy-house/f2c6ced6929d6ba09d7f017cb18fcaef04e4f21c/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+        "editable": false
+    },
+    {
+        "name": "Play Pinkamagine Fashion",
+        "url": "https://springroll-tc.pbskids.org/fashion-game/f8d251898bde5eca8ed6ceae2c10b3b8961867ae/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+        "editable": false
+    },
+    {
+        "name": "Pinkalicious Family Game",
+        "url": "https://springroll-tc.pbskids.org/family-game/6552ecd3e42ebb25670914fd9c7cb1ed8e6812a3/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+        "editable": false
+    },
+    {
+        "name": "Pinkalicious Beach Game",
+        "url": "https://springroll-tc.pbskids.org/pinkalicious-beach/8a3404e63392c182bf0ef784a264a0f491092976/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+        "editable": false
+    },
+    {
+        "name": "Pinkatastic Stickers",
+        "url": "https://springroll-tc.pbskids.org/pinkalicious-stickers/8da3a52348317290d8ee871e0e7735e68c22319a/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+        "editable": false
+    },
+    {
+        "name": "Pinkcredible Story Maker",
+        "url": "https://springroll-tc.pbskids.org/storymaker/7e04a6224177bb0c96a4c8cbf7b5007328b5c099/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+        "editable": false
+    },
+    {
+        "name": "Pinkalicious Dance Game",
+        "url": "https://springroll-tc.pbskids.org/pinkalicious-dance/a73496ec14f428125169c88adbb5261f8bb575fd/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+        "editable": false
+    },
+    {
+        "name": "Pinka Perfect Band",
+        "url": "https://springroll-tc.pbskids.org/pinkalicious-music-game/d795d7d8219e5c23f1184c1b306b905cc872bfff/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+        "editable": false
+    }
+]
+            },
+            {
+                "name": "Peg and Cat",
+                "isFolder": true,
+                "editable": false,
+                "children": [
+    {
+        "name": "Super Peg",
+        "url": "https://springroll-tc.pbskids.org/super-peg/f332e8ad0d2f8991c245cbfc418c24403c43a27e/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+        "editable": false
+    },
+    {
+        "name": "Dont Go Bananas",
+        "url": "https://springroll-tc.pbskids.org/dont-go-bananas/d60fa0d896a1fab707ccc45817c8d6085a130468/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+        "editable": false
+    },
+    {
+        "name": "Hair Salon",
+        "url": "https://springroll-tc.pbskids.org/hair-salon/0930cdde3d39ad527415bb9d81383db2fd38c767/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+        "editable": false
+    },
+    {
+        "name": "Peg Parade",
+        "url": "https://springroll-tc.pbskids.org/marching-band/8e72bbbdf31e35277dd74a125d84dad3ee09c014/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+        "editable": false
+    },
+    {
+        "name": "Chicken Coop",
+        "url": "https://springroll-tc.pbskids.org/chicken-coop/faa01a7dd945500233044f5244ca3447352ade49/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+        "editable": false
+    },
+    {
+        "name": "321 Snack",
+        "url": "https://springroll-tc.pbskids.org/321-snack/36cd3226ff19d9ff5afd9059ceb0b3ebf66e136f/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+        "editable": false
+    },
+    {
+        "name": "Rock Art",
+        "url": "https://springroll-tc.pbskids.org/rock-art/e203993c990d77cdf8b651c17d8fa64c0991cf75/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+        "editable": false
+    },
+    {
+        "name": "Pegs Pizza Place",
+        "url": "https://springroll-tc.pbskids.org/pegs-pizza-place/d62376d556c0b37c9a534f73dbfbfaad7e39331b/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+        "editable": false
+    },
+    {
+        "name": "Make The Cake",
+        "url": "https://springroll-tc.pbskids.org/make-the-cake/2da4341030c41989dc3603c3b5b2fc2b0968bf9d/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+        "editable": false
+    },
+    {
+        "name": "Hungry Pirates",
+        "url": "https://springroll-tc.pbskids.org/hungry-pirates/bdfa60ae3d4e31510846ab9fc9f4adcce907cba6/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+        "editable": false
+    },
+    {
+        "name": "Highlight Zone",
+        "url": "https://springroll-tc.pbskids.org/highlight-zone/0a57541058e3865beb6c96128f25234a44391c89/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+        "editable": false
+    },
+    {
+        "name": "Giant Hide Seek",
+        "url": "https://springroll-tc.pbskids.org/giant-hide-seek/e6d4fc7dc1e9f4c903185a5e2e3b20424ef1cb33/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+        "editable": false
+    },
+    {
+        "name": "Costume Box",
+        "url": "https://springroll-tc.pbskids.org/costume-box/ae2be77245afa3964e52c5dda7b381f1a0b6654a/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+        "editable": false
+    },
+    {
+        "name": "Chicken Dance",
+        "url": "https://springroll-tc.pbskids.org/chicken-dance/9c205d13fe7fb64aff294034531bb6c15c6c601a/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+        "editable": false
+    },
+    {
+        "name": "Chicken Blastoff",
+        "url": "https://springroll-tc.pbskids.org/chicken-blastoff/456d63b0a6664346d3197622ce03e05a72f8f739/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+        "editable": false
+    },
+    {
+        "name": "Baby Fox Machine",
+        "url": "https://springroll-tc.pbskids.org/baby-fox/1b652ed329a4173367a5efd4d400f2d019ea6844/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+        "editable": false
+    },
+    {
+        "name": "Mega Mall",
+        "url": "https://springroll-tc.pbskids.org/mega-mall/28a18e571432fcc193dd21e2be9045cbc690fce0/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+        "editable": false
+    },
+    {
+        "name": "Bubble Bath",
+        "url": "https://springroll-tc.pbskids.org/bubble-bath/9f92f7bd8b6b1dc3871edf134f188374e0ffd009/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+        "editable": false
+    },
+    {
+        "name": "Scrub A Dub",
+        "url": "https://springroll-tc.pbskids.org/scrub-a-dub/0ad77516b14011769bbcd17bc80449f3cfbe0c1d/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+        "editable": false
+    },
+    {
+        "name": "Happy Camel",
+        "url": "https://springroll-tc.pbskids.org/happy-camel/9b65d73f523ce040d3445d275d6403be64c9aedd/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+        "editable": false
+    }
+]
+            },
+             {
+                "name": "Sid the Science Kid",
+                "isFolder": true,
+                "editable": false,
+                "children": [
+    {
+        "name": "Weather Surprise",
+        "url": "https://springroll-tc.pbskids.org/weather-surprise/e7f27d323126519dec5d1d7fed9fbbb44e027cf7/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+        "editable": false
+    },
+    {
+        "name": "Crystals Rule",
+        "url": "https://springroll-tc.pbskids.org/crystals-rule/4386c808620a94988bd4b4b405bf0a85b74bb78e/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+        "editable": false
+    },
+    {
+        "name": "Snow Search",
+        "url": "https://springroll-tc.pbskids.org/snow-search/3066a71f4e71413c819afd21f78b89dd0dec09a4/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+        "editable": false
+    },
+    {
+        "name": "Snowflake Match",
+        "url": "https://springroll-tc.pbskids.org/snowflake-match/291e39b35e18da878092925c39c87655066ec185/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+        "editable": false
+    },
+    {
+        "name": "Vegetable Harvest",
+        "url": "https://springroll-tc.pbskids.org/vegetable-harvest/cbb5e5f07574e7682fa8870f80e439653a46e833/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+        "editable": false
+    },
+    {
+        "name": "Vegetable Planting",
+        "url": "https://springroll-tc.pbskids.org/vegetable-planting/4ea1f0df0b1afd27cf4c2b642c14dacf57971728/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+        "editable": false
+    },
+    {
+        "name": "Pan Balance",
+        "url": "https://springroll-tc.pbskids.org/pan-balance/41a1b43cd2aaf5386281ab65e442bf2fef4bd2f3/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+        "editable": false
+    },
+    {
+        "name": "Sorting Box",
+        "url": "https://springroll-tc.pbskids.org/sorting-box/a166cfc0f9639b705239e0df39faa4d35b1967ea/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+        "editable": false
+    }
+]
+            },
             {
                 "name": "Math",
                 "isFolder": true,
@@ -2574,6 +2786,11 @@
                 "editable": false,
                 "children": [
                     {
+                        "name": "Curious George",
+                        "url": "https://www.youtube.com/watch?v=KJgUjBnLwIM&list=PLnBTl2VtIwRmpm-RRSVWhhaHf4UQg01Dz&index=1",
+                        "editable": false
+                    },
+                    {
                         "name": "Daniel Tiger's Neighborhood",
                         "url": "https://www.youtube.com/watch?v=mz0QNiHDdF8&list=PLrTlfwZnk4QNi7G5gf5Tvk4EpoqwHm7gR&index=1",
                         "editable": false
@@ -2584,13 +2801,13 @@
                         "editable": false
                     },
                     {
-                        "name": "The Cat in the Hat Knows a Lot About That!",
-                        "url": "https://www.youtube.com/watch?v=ux_4yNMnSo0&list=PLMrvyQzqrd1dZGBqBL3cd0-yjNaZ4PyAW&index=1",
+                        "name": "Pinkalicious & Peterrific",
+                        "url": "https://www.youtube.com/watch?v=GR3_Uuap0Uk&list=PLa8HWWMcQEGQSBZzckwagCZMOZJhC2di9&index=1",
                         "editable": false
                     },
                     {
-                        "name": "Pinkalicious & Peterrific",
-                        "url": "https://www.youtube.com/watch?v=GR3_Uuap0Uk&list=PLa8HWWMcQEGQSBZzckwagCZMOZJhC2di9&index=1",
+                        "name": "The Cat in the Hat Knows a Lot About That!",
+                        "url": "https://www.youtube.com/watch?v=ux_4yNMnSo0&list=PLMrvyQzqrd1dZGBqBL3cd0-yjNaZ4PyAW&index=1",
                         "editable": false
                     },
                     {
