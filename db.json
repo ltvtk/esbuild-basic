@@ -1074,6 +1074,7 @@
                 "/watch?*PLSEA1ZLX1qyRaT7rpRupFJP_R-B1NCIOM*",
                 "/watch?*PLJOUQWZHQRPv5dH9qAOrtsqMKXsRLjWoY*",
                 "/watch?*PLnBTl2VtIwRmpm-RRSVWhhaHf4UQg01Dz*",
+                "/watch?*PLP4H73sp9PL-Z0GkskcNOAyG0Z40bXuOR*",
                 "/*docs.google.com*"
             ]
         },
@@ -2788,6 +2789,11 @@
                     {
                         "name": "Curious George",
                         "url": "https://www.youtube.com/watch?v=KJgUjBnLwIM&list=PLnBTl2VtIwRmpm-RRSVWhhaHf4UQg01Dz&index=1",
+                        "editable": false
+                    },
+                    {
+                        "name": "wild kratts",
+                        "url":"https://www.youtube.com/watch?v=T3pnFgEiozE&list=PLP4H73sp9PL-Z0GkskcNOAyG0Z40bXuOR&index=1",
                         "editable": false
                     },
                     {
