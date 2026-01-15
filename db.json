@@ -21,7 +21,7 @@
             ]
         },
         {
-            "domain": "Funbrain.com",
+            "domain": "funbrain.com",
             "blacklistedPaths": [
                 "/games",
                 "/games/*"
