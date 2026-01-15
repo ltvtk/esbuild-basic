@@ -1087,6 +1087,9 @@
                 "/watch?*PLP4H73sp9PL-Z0GkskcNOAyG0Z40bXuOR*",
                 "/watch?*PLY2vSQEVraKBRm12qORAXtImpDSq_wQ7w*",
                 "/watch?*PL0l9COpoK2BzCKhz5o_Xe9QPC--3Tu2Ed*",
+                "/watch?*PLmJ33rwb1zZZj2EwyHxV_EntBTLZSTlTQ*",
+                "/watch?*PLw2cuKNQvZ2eSmeWhxqog5z57wq_sQjl2*",
+                "/watch?*PLQlnTldJs0ZRRDbgCsZRzvKhpQhUus3hg*",
                 "/*docs.google.com*"
             ]
         },
@@ -2804,7 +2807,22 @@
                         "editable": false
                     },
                     {
-                        "name": "wild kratts",
+                        "name": "Dr. Binocs",
+                        "url":"https://www.youtube.com/watch?v=9nwpApnqJeY&list=PLmJ33rwb1zZZj2EwyHxV_EntBTLZSTlTQ",
+                        "editable": false
+                    },
+                    {
+                        "name": "SciShow Kids",
+                        "url":"https://www.youtube.com/watch?v=r2xP7heE0wk&list=PLw2cuKNQvZ2eSmeWhxqog5z57wq_sQjl2",
+                        "editable": false
+                    },
+                    {
+                        "name": "Weird But True Nat Geo Kids",
+                        "url":"https://www.youtube.com/watch?v=42QyI_w6bEg&list=PLQlnTldJs0ZRRDbgCsZRzvKhpQhUus3hg&index=2",
+                        "editable": false
+                    },
+                    {
+                        "name": "Wild kratts",
                         "url":"https://www.youtube.com/watch?v=T3pnFgEiozE&list=PLP4H73sp9PL-Z0GkskcNOAyG0Z40bXuOR&index=1",
                         "editable": false
                     },
