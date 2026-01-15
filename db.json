@@ -12,6 +12,22 @@
             ]
         },
         {
+            "domain": "kids.nationalgeographic.com",
+            "blacklistedPaths": [
+                "/games/action-adventure",
+                "/games/action-adventure/*",
+                "/games/action-and-adventure",
+                "/games/action-and-adventure/*"
+            ]
+        },
+        {
+            "domain": "Funbrain.com",
+            "blacklistedPaths": [
+                "/games",
+                "/games/*"
+            ]
+        },
+        {
             "domain": "springroll-tc.pbskids.org"
         },
         {
@@ -493,9 +509,6 @@
         },
         {
             "domain": "nasa.gov"
-        },
-        {
-            "domain": "nationalgeographic.com"
         },
         {
             "domain": "colorado.edu"
@@ -1035,9 +1048,6 @@
             "domain": "pbslearningmedia.org"
         },
         {
-            "domain": "Funbrain.com"
-        },
-        {
             "domain": "mathsisfun.com"
         }
     ],
@@ -1075,6 +1085,8 @@
                 "/watch?*PLJOUQWZHQRPv5dH9qAOrtsqMKXsRLjWoY*",
                 "/watch?*PLnBTl2VtIwRmpm-RRSVWhhaHf4UQg01Dz*",
                 "/watch?*PLP4H73sp9PL-Z0GkskcNOAyG0Z40bXuOR*",
+                "/watch?*PLY2vSQEVraKBRm12qORAXtImpDSq_wQ7w*",
+                "/watch?*PL0l9COpoK2BzCKhz5o_Xe9QPC--3Tu2Ed*",
                 "/*docs.google.com*"
             ]
         },
@@ -2797,6 +2809,16 @@
                         "editable": false
                     },
                     {
+                        "name": "Science Max",
+                        "url":"https://www.youtube.com/watch?v=ItxWM37R3AQ&list=PLY2vSQEVraKBRm12qORAXtImpDSq_wQ7w",
+                        "editable": false
+                    },
+                    {
+                        "name": "Crash course kids",
+                        "url":"https://www.youtube.com/watch?v=QTPY4j65O10&list=PL0l9COpoK2BzCKhz5o_Xe9QPC--3Tu2Ed&index=1",
+                        "editable": false
+                    },
+                    {
                         "name": "Daniel Tiger's Neighborhood",
                         "url": "https://www.youtube.com/watch?v=mz0QNiHDdF8&list=PLrTlfwZnk4QNi7G5gf5Tvk4EpoqwHm7gR&index=1",
                         "editable": false
@@ -2885,6 +2907,21 @@
                 "isFolder": true,
                 "editable": false,
                 "children": [
+                     {
+                        "name": "National Geographic kids",
+                        "url": "https://kids.nationalgeographic.com/videos",
+                        "editable": false
+                    },
+                    {
+                        "name": "Ted Ed",
+                        "url": "https://ed.ted.com/lessons?sort=featured-position&student_level%5B%5D=1",
+                        "editable": false
+                    },
+                    {
+                        "name": "Fun Brain",
+                        "url": "https://www.funbrain.com/videos",
+                        "editable": false
+                    },
                     {
                         "name": "Tra từ điển",
                         "url": "https://tratu.coviet.vn",
