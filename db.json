@@ -2467,6 +2467,11 @@
                 "isFolder": true,
                 "editable": false,
                 "children": [
+                    {
+        "name": "Wheather Explorers",
+        "url":"https://springroll-tc.pbskids.org/a4580e56-0cc0-479d-afb8-6294302d1b21/584df30923996c70efb5f2c6f34a071bc383f725/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+        "editable": false
+    },
     {
         "name": "Play Nature Explorers",
         "url": "https://springroll-tc.pbskids.org/23d33585-279e-47ec-8165-27a1ea93ed59/e53394bde65f3f757c84bc216ad6cd4ea4325a89/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
