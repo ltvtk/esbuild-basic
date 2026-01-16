@@ -1090,6 +1090,11 @@
                 "/watch?*PLmJ33rwb1zZZj2EwyHxV_EntBTLZSTlTQ*",
                 "/watch?*PLw2cuKNQvZ2eSmeWhxqog5z57wq_sQjl2*",
                 "/watch?*PLQlnTldJs0ZRRDbgCsZRzvKhpQhUus3hg*",
+                "/watch?*PLx0R0acGEDjLjD1v0huLSyDufw7IDACLs*",
+                "/watch?*PLl9DlDJwZMWcrvneafmyxgCDPYQSZ_ZAm*",
+                "/watch?*PLsrHA2p9h-BjSZNWDzwKqrDKfALV6oYxU*",
+                "/watch?*PLVSPj7btIwKJFyR1xvJGiYmtwvlRWLaxV*",
+                "/watch?*PLJOUQWZHQRPvZL9w0lRyrSwhoKEk8aZnW*",
                 "/*docs.google.com*"
             ]
         },
@@ -1952,7 +1957,7 @@
     }
 ]
             },
-                         {
+            {
                 "name": "Pinkalicious",
                 "isFolder": true,
                 "editable": false,
@@ -2005,6 +2010,68 @@
     {
         "name": "Pinka Perfect Band",
         "url": "https://springroll-tc.pbskids.org/pinkalicious-music-game/d795d7d8219e5c23f1184c1b306b905cc872bfff/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+        "editable": false
+    }
+]
+            },
+             {
+                "name": "Elinor Wonders Why",
+                "isFolder": true,
+                "editable": false,
+                "children": [
+    {
+        "name": "Elinor Hide Seek",
+        "url": "https://springroll-tc.pbskids.org/elinor-hide-and-seek/8b79bb83310426c81459fb2739f1c9f65fb368f8/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+        "editable": false
+    },
+    {
+        "name": "Lets Be Healthy",
+        "url": "https://springroll-tc.pbskids.org/3fdabe0b-3dbd-4930-9102-dbd41f1f46c6/2b00ac5c829338f0a144878c72a1ef07562547f1/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+        "editable": false
+    },
+    {
+        "name": "Nature Art With Elinor",
+        "url": "https://springroll-tc.pbskids.org/fcdd29b7-dce4-4ccb-a4d3-2ddcf7d68a70/47ef2f133387f830cb47f0554a8e79ff587a723b/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+        "editable": false
+    },
+    {
+        "name": "Elinor Soups Up",
+        "url": "https://springroll-tc.pbskids.org/soups-up/824d3cff7da4a404ad41dda1ef05d047cde24d9d/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+        "editable": false
+    },
+    {
+        "name": "Play Elinor Curious Campout",
+        "url": "https://springroll-tc.pbskids.org/elinor-campout/b15b21cfdc6ad99a82efc27d113384404f5b147e/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+        "editable": false
+    },
+    {
+        "name": "Elinor Pondlife",
+        "url": "https://springroll-tc.pbskids.org/pondlife/dbe5de95efcc1b7175b52d5acc769ba844162ef3/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+        "editable": false
+    },
+    {
+        "name": "Elinors Nature Adventure",
+        "url": "https://springroll-tc.pbskids.org/elinor-app/491eab6da5c33cd72a62bd9c91e4fd60969cf3f4/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+        "editable": false
+    },
+    {
+        "name": "Elinor Backyard Life",
+        "url": "https://springroll-tc.pbskids.org/eww-bug-life/75491bda5d370689d4fdaedccbf5d4ad068352ed/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+        "editable": false
+    },
+    {
+        "name": "Elinor Nature Sights Sounds",
+        "url": "https://springroll-tc.pbskids.org/eww-elinor-soundscape/f89566403f0ce99cf69669b6737d8aead814ea2d/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+        "editable": false
+    },
+    {
+        "name": "Elinor Aris Wonderful Ideas",
+        "url": "https://springroll-tc.pbskids.org/eww-aris-wonderful-ideas/362061cf7c1c5fcf11803209cee6162f1e36495b/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
+        "editable": false
+    },
+    {
+        "name": "Elinor Watch The Birdy",
+        "url": "https://springroll-tc.pbskids.org/eww-elinors-bird-game/1d39cb43fe6c5d31fec4d305859b5d77a1a8a36e/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
         "editable": false
     }
 ]
@@ -2804,6 +2871,31 @@
                     {
                         "name": "Curious George",
                         "url": "https://www.youtube.com/watch?v=KJgUjBnLwIM&list=PLnBTl2VtIwRmpm-RRSVWhhaHf4UQg01Dz&index=1",
+                        "editable": false
+                    },
+                    {
+                        "name": "Elinor Wonders Why",
+                        "url":"https://www.youtube.com/watch?v=fuB_AEnN-PE&list=PLJOUQWZHQRPvZL9w0lRyrSwhoKEk8aZnW",
+                        "editable": false
+                    },
+                    {
+                        "name": "Clifford the Big Red Dog",
+                        "url":"https://www.youtube.com/watch?v=d1WBtfHn98w&list=PLx0R0acGEDjLjD1v0huLSyDufw7IDACLs",
+                        "editable": false
+                    },
+                    {
+                        "name": "The Magic School Bus",
+                        "url":"https://www.youtube.com/watch?v=K6OtzxyH2h4&list=PLl9DlDJwZMWcrvneafmyxgCDPYQSZ_ZAm",
+                        "editable": false
+                    },
+                    {
+                        "name": "Can You Imagine That? ",
+                        "url":"https://www.youtube.com/watch?v=3lahcbEX2k0&list=PLsrHA2p9h-BjSZNWDzwKqrDKfALV6oYxU",
+                        "editable": false
+                    },
+                    {
+                        "name": "Numberblocks",
+                        "url":"https://www.youtube.com/watch?v=jVeYnCehEFE&list=PLVSPj7btIwKJFyR1xvJGiYmtwvlRWLaxV",
                         "editable": false
                     },
                     {
