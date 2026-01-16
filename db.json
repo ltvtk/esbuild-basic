@@ -163,12 +163,6 @@
             "domain": "toancap2.net"
         },
         {
-            "domain": "perplexity.ai"
-        },
-        {
-            "domain": "grok.com"
-        },
-        {
             "domain": "edclub.com"
         },
         {
@@ -188,9 +182,6 @@
         },
         {
             "domain": "edupiasecondary.vn"
-        },
-        {
-            "domain": "deepseek.com"
         },
         {
             "domain": "englishpracticetest.net"
@@ -253,18 +244,6 @@
             "domain": "linkedin.com"
         },
         {
-            "domain": "chesskid.com"
-        },
-        {
-            "domain": "chess.com"
-        },
-        {
-            "domain": "claude.ai"
-        },
-        {
-            "domain": "chatgpt.com"
-        },
-        {
             "domain": "quora.com"
         },
         {
@@ -302,9 +281,6 @@
         },
         {
             "domain": "edu.google.com"
-        },
-        {
-            "domain": "gemini.google.com"
         },
         {
             "domain": "drive.google.com"
@@ -1053,55 +1029,10 @@
     ],
     "blacklist": [
         {
-            "domain": "youtube.com",
-            "whitelistedPaths": [
-                "/watch?*PLlJvqLZ3J6oj5zmVSmV6bFHDvAgRc9PdU*",
-                "/watch?*PLlJvqLZ3J6oj0_9h4mdw_lu8EeyDZshtY*",
-                "/watch?*PLa8HWWMcQEGRhqI2vfh30TPvRO1m4FLWS*",
-                "/watch?*PLLhOnau-tupSS-eFNBOwqgfQHpOV3ASqN*",
-                "/watch?*PLP4H73sp9PL9CbQD8m2Erc7FbZbPHMJZA*",
-                "/watch?*PLdkj6XH8GYPS6ArBvqavheM_7d705YD-s*",
-                "/watch?*PLpfxVARjkP-_f-E9IU6IHmy5ECj0HqiLB*",
-                "/watch?*PLrsH46EwyUzTVIeueQYFG6SFr9tZVJgEH*",
-                "/watch?*PLamcOkhpSCR2iBCxOico0oiYeMWnEkB_Y*",
-                "/watch?*PLS9qLR8VoFA56NWSswK2daQSovI9QCpQE*",
-                "/watch?*PLrTlfwZnk4QNi7G5gf5Tvk4EpoqwHm7gR*",
-                "/watch?*PLQKw_soo5o7LvvSzpBAULEb6-7UVd3iX4*",
-                "/watch?*PLLhOnau-tupSfk-0UCN_iDHEuDzQEgpAg*",
-                "/watch?*PLMrvyQzqrd1fZrUnlcbLHUI6vl-N9f29W*",
-                "/watch?*PLMrvyQzqrd1dZGBqBL3cd0-yjNaZ4PyAW*",
-                "/watch?*PLP4H73sp9PL-Z0GkskcNOAyG0Z40bXuOR*",
-                "/watch?*PLLhOnau-tupQ2k1dq1VVUpURqxqY5BhKM*",
-                "/watch?*PLa8HWWMcQEGQSBZzckwagCZMOZJhC2di9*",
-                "/watch?*PLWP-BeymnCEgk8Hkn0maWq0mI-cHdjnCI*",
-                "/watch?*PLV_39XpFpSPQjeR50vbCW7sfjgppBfZQK*",
-                "/watch?*PLMrvyQzqrd1c4Bmb9kHjoJmTc5kPNtWRv*",
-                "/watch?*PLUQergn5dlD-a_d1ItZHqs5FIA6KxnQr1*",
-                "/watch?*PLBjm8YVOgHK3BgEvworO4HH37Q-PCETw5*",
-                "/watch?*PLLhOnau-tupTFvctEmhIHa3ftTArupPPi*",
-                "/watch?*PLVdi11Co3pjrjrg89b1f2TchrQR48s7gL*",
-                "/watch?*PL4LtXF3mNzp4OzP2AfFdVNiLVSVy6DNGx*",
-                "/watch?*PLSEA1ZLX1qyRaT7rpRupFJP_R-B1NCIOM*",
-                "/watch?*PLJOUQWZHQRPv5dH9qAOrtsqMKXsRLjWoY*",
-                "/watch?*PLnBTl2VtIwRmpm-RRSVWhhaHf4UQg01Dz*",
-                "/watch?*PLP4H73sp9PL-Z0GkskcNOAyG0Z40bXuOR*",
-                "/watch?*PLY2vSQEVraKBRm12qORAXtImpDSq_wQ7w*",
-                "/watch?*PL0l9COpoK2BzCKhz5o_Xe9QPC--3Tu2Ed*",
-                "/watch?*PLmJ33rwb1zZZj2EwyHxV_EntBTLZSTlTQ*",
-                "/watch?*PLw2cuKNQvZ2eSmeWhxqog5z57wq_sQjl2*",
-                "/watch?*PLQlnTldJs0ZRRDbgCsZRzvKhpQhUus3hg*",
-                "/watch?*PLx0R0acGEDjLjD1v0huLSyDufw7IDACLs*",
-                "/watch?*PLl9DlDJwZMWcrvneafmyxgCDPYQSZ_ZAm*",
-                "/watch?*PLsrHA2p9h-BjSZNWDzwKqrDKfALV6oYxU*",
-                "/watch?*PLVSPj7btIwKJFyR1xvJGiYmtwvlRWLaxV*",
-                "/watch?*PLJOUQWZHQRPvZL9w0lRyrSwhoKEk8aZnW*",
-                "/*docs.google.com*"
-            ]
-        },
-        {
             "domain": "numuki.com",
             "whitelistedPaths": [
-                "/games/robot-riders-learn-to-code*"
+                "/games/robot-riders-learn-to-code*",
+                "/games/robot-riders-learn-to-code/*"
             ]
         },
         {
@@ -1499,11 +1430,6 @@
                         "editable": false
                     },
                     {
-                        "name": "Phần mềm di động cho trẻ em",
-                        "url": "https://www.youtube.com/watch?v=xUOxR6ekg1c&list=PLlJvqLZ3J6oj0_9h4mdw_lu8EeyDZshtY&index=1",
-                        "editable": false
-                    },
-                    {
                         "name": "Python turtle docs",
                         "url": "https://docs.python.org/3/library/turtle.html",
                         "editable": true
@@ -1537,28 +1463,6 @@
                         "name": "Usaco guide",
                         "url": "https://usaco.guide/",
                         "editable": true
-                    }
-                ]
-            },
-            {
-                "name": "Wedo 2 video",
-                "isFolder": true,
-                "editable": false,
-                "children": [
-                    {
-                        "name": "1",
-                        "url": "https://www.youtube.com/watch?v=3V8GpFjc7zc&list=PLVdi11Co3pjrjrg89b1f2TchrQR48s7gL&index=1",
-                        "editable": false
-                    },
-                    {
-                        "name": "2",
-                        "url": "https://www.youtube.com/watch?v=eyJ08WmVMjM&list=PL4LtXF3mNzp4OzP2AfFdVNiLVSVy6DNGx&index=1",
-                        "editable": false
-                    },
-                    {
-                        "name": "3",
-                        "url": "https://www.youtube.com/watch?v=GehetS80X6c&list=PLSEA1ZLX1qyRaT7rpRupFJP_R-B1NCIOM&index=1",
-                        "editable": false
                     }
                 ]
             }
@@ -2869,121 +2773,9 @@
         ],
         "English": [
             {
-                "name": "Videos",
-                "isFolder": true,
-                "editable": false,
-                "children": [
-                    {
-                        "name": "Curious George",
-                        "url": "https://www.youtube.com/watch?v=KJgUjBnLwIM&list=PLnBTl2VtIwRmpm-RRSVWhhaHf4UQg01Dz&index=1",
-                        "editable": false
-                    },
-                    {
-                        "name": "Elinor Wonders Why",
-                        "url":"https://www.youtube.com/watch?v=fuB_AEnN-PE&list=PLJOUQWZHQRPvZL9w0lRyrSwhoKEk8aZnW",
-                        "editable": false
-                    },
-                    {
-                        "name": "Clifford the Big Red Dog",
-                        "url":"https://www.youtube.com/watch?v=d1WBtfHn98w&list=PLx0R0acGEDjLjD1v0huLSyDufw7IDACLs",
-                        "editable": false
-                    },
-                    {
-                        "name": "The Magic School Bus",
-                        "url":"https://www.youtube.com/watch?v=K6OtzxyH2h4&list=PLl9DlDJwZMWcrvneafmyxgCDPYQSZ_ZAm",
-                        "editable": false
-                    },
-                    {
-                        "name": "Can You Imagine That? ",
-                        "url":"https://www.youtube.com/watch?v=3lahcbEX2k0&list=PLsrHA2p9h-BjSZNWDzwKqrDKfALV6oYxU",
-                        "editable": false
-                    },
-                    {
-                        "name": "Numberblocks",
-                        "url":"https://www.youtube.com/watch?v=jVeYnCehEFE&list=PLVSPj7btIwKJFyR1xvJGiYmtwvlRWLaxV",
-                        "editable": false
-                    },
-                    {
-                        "name": "Dr. Binocs",
-                        "url":"https://www.youtube.com/watch?v=9nwpApnqJeY&list=PLmJ33rwb1zZZj2EwyHxV_EntBTLZSTlTQ",
-                        "editable": false
-                    },
-                    {
-                        "name": "SciShow Kids",
-                        "url":"https://www.youtube.com/watch?v=r2xP7heE0wk&list=PLw2cuKNQvZ2eSmeWhxqog5z57wq_sQjl2",
-                        "editable": false
-                    },
-                    {
-                        "name": "Weird But True Nat Geo Kids",
-                        "url":"https://www.youtube.com/watch?v=42QyI_w6bEg&list=PLQlnTldJs0ZRRDbgCsZRzvKhpQhUus3hg&index=2",
-                        "editable": false
-                    },
-                    {
-                        "name": "Wild kratts",
-                        "url":"https://www.youtube.com/watch?v=T3pnFgEiozE&list=PLP4H73sp9PL-Z0GkskcNOAyG0Z40bXuOR&index=1",
-                        "editable": false
-                    },
-                    {
-                        "name": "Science Max",
-                        "url":"https://www.youtube.com/watch?v=ItxWM37R3AQ&list=PLY2vSQEVraKBRm12qORAXtImpDSq_wQ7w",
-                        "editable": false
-                    },
-                    {
-                        "name": "Crash course kids",
-                        "url":"https://www.youtube.com/watch?v=QTPY4j65O10&list=PL0l9COpoK2BzCKhz5o_Xe9QPC--3Tu2Ed&index=1",
-                        "editable": false
-                    },
-                    {
-                        "name": "Daniel Tiger's Neighborhood",
-                        "url": "https://www.youtube.com/watch?v=mz0QNiHDdF8&list=PLrTlfwZnk4QNi7G5gf5Tvk4EpoqwHm7gR&index=1",
-                        "editable": false
-                    },
-                    {
-                        "name": "Let's Go Luna!",
-                        "url": "https://www.youtube.com/watch?v=T1I5kaw0s3g&list=PLMrvyQzqrd1fZrUnlcbLHUI6vl-N9f29W&index=1",
-                        "editable": false
-                    },
-                    {
-                        "name": "Pinkalicious & Peterrific",
-                        "url": "https://www.youtube.com/watch?v=GR3_Uuap0Uk&list=PLa8HWWMcQEGQSBZzckwagCZMOZJhC2di9&index=1",
-                        "editable": false
-                    },
-                    {
-                        "name": "The Cat in the Hat Knows a Lot About That!",
-                        "url": "https://www.youtube.com/watch?v=ux_4yNMnSo0&list=PLMrvyQzqrd1dZGBqBL3cd0-yjNaZ4PyAW&index=1",
-                        "editable": false
-                    },
-                    {
-                        "name": "Molly of Denali",
-                        "url": "https://www.youtube.com/watch?v=XWDHBrkYsgA&list=PLa8HWWMcQEGRhqI2vfh30TPvRO1m4FLWS",
-                        "editable": false
-                    },
-                    {
-                        "name": "Xavier Riddle and the Secret Museum",
-                        "url": "https://www.youtube.com/watch?v=h23mIlAP2Fw&list=PLMrvyQzqrd1c4Bmb9kHjoJmTc5kPNtWRv&index=1",
-                        "editable": false
-                    },
-                    {
-                        "name": "Odd Squad",
-                        "url": "https://www.youtube.com/watch?v=12V58tzOsQg&list=PLUQergn5dlD-a_d1ItZHqs5FIA6KxnQr1&index=1",
-                        "editable": false
-                    },
-                    {
-                        "name": "WordGirl",
-                        "url": "https://www.youtube.com/watch?v=olW02w0OyKM&list=PLBjm8YVOgHK3BgEvworO4HH37Q-PCETw5&index=1",
-                        "editable": false
-                    },
-                    {
-                        "name": "Storyline online",
-                        "url": "https://storylineonline.net",
-                        "editable": false
-                    },
-                    {
-                        "name": "Super simple song",
-                        "url": "https://www.youtube.com/watch?v=0DqkEfKXT5Y&list=PLdkj6XH8GYPS6ArBvqavheM_7d705YD-s&index=1",
-                        "editable": false
-                    }
-                ]
+                "name": "LTV-youtube videos",
+                "url": "https://ltvtk.github.io/youtube/",
+                "editable": false
             },
             {
                 "name": "English for kids",
@@ -3077,16 +2869,6 @@
                 "editable": true
             },
             {
-                "name": "Chess.com",
-                "url": "https://www.chess.com",
-                "editable": true
-            },
-            {
-                "name": "Chess kid",
-                "url": "https://www.chesskid.com",
-                "editable": true
-            },
-            {
                 "name": "TempMail",
                 "url": "https://temp-mail.org/en/",
                 "editable": true
@@ -3099,26 +2881,6 @@
             {
                 "name": "Google docs",
                 "url": "https://docs.google.com",
-                "editable": true
-            },
-            {
-                "name": "DeepSeek AI",
-                "url": "chat.deepseek.com",
-                "editable": true
-            },
-            {
-                "name": "ChatGPT",
-                "url": "https://chatgpt.com/",
-                "editable": true
-            },
-            {
-                "name": "Grok AI",
-                "url": "https://grok.com",
-                "editable": true
-            },
-            {
-                "name": "Genmini AI",
-                "url": "https://gemini.google.com",
                 "editable": true
             },
             {
