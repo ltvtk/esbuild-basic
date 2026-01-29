@@ -1603,11 +1603,6 @@
         "editable": false
     },
     {
-        "name": "Snowboarding",
-        "url": "https://springroll-tc.pbskids.org/snowboarding/54c2d51d63725dd19316f252ab11c15d482576f2/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
-        "editable": false
-    },
-    {
         "name": "Pinkcredible Story Maker",
         "url": "https://springroll-tc.pbskids.org/storymaker/7e04a6224177bb0c96a4c8cbf7b5007328b5c099/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
         "editable": false
@@ -1628,11 +1623,6 @@
         "editable": false
     },
     {
-        "name": "Fishing",
-        "url": "https://springroll-tc.pbskids.org/fishing/c2e3f6313d2fdfa67de93e78252d413a06ab70fa/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
-        "editable": false
-    },
-    {
         "name": "Play A Dog's Life",
         "url": "https://springroll-tc.pbskids.org/a-dogs-life/2e7f3883231f0efdbceb655c3cdb4dc540ccddc8/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
         "editable": false
@@ -1640,16 +1630,6 @@
     {
         "name": "Play All Around Birdwell",
         "url": "https://springroll-tc.pbskids.org/all-around-birdwell/51d8de0c6eac4b82bf905fa0549ad35da316de4f/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
-        "editable": false
-    },
-    {
-        "name": "Cinderella",
-        "url": "https://springroll-tc.pbskids.org/cinderella/e3498a0746c74d9cc43616a6e8bf4e7ffcb9d6d7/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
-        "editable": false
-    },
-    {
-        "name": "Goldilocks",
-        "url": "https://springroll-tc.pbskids.org/goldilocks/062d7c3a09acf64b888c6f7d9c79b9e75a6b36a9/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
         "editable": false
     },
     {
@@ -1670,51 +1650,6 @@
     {
         "name": "Sesame Street Letter Dance Party",
         "url": "https://springroll-tc.pbskids.org/a-to-z-dance-party/62bf83402fd868c78a70abc559d24b63861435ad/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
-        "editable": false
-    },
-    {
-        "name": "Abbys Sandbox Search",
-        "url": "https://springroll-tc.pbskids.org/abbys-sandbox-search/16b1fcdb0f4041925daa43be6d9f5f9682b11bb6/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
-        "editable": false
-    },
-    {
-        "name": "Something Special For Dad",
-        "url": "https://springroll-tc.pbskids.org/something-special-for-dad/b4c2b173f227d692d6927219a25f43a412d70c78/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
-        "editable": false
-    },
-    {
-        "name": "Big Brother Daniel",
-        "url": "https://springroll-tc.pbskids.org/big-brother-daniel/956aef3de35c9db39673e41e680282d834f6cd67/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
-        "editable": false
-    },
-    {
-        "name": "Katerina Gets Mad",
-        "url": "https://springroll-tc.pbskids.org/katerina-gets-mad/84f14389ef0decd27d0e9267e640487a0d831a9e/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
-        "editable": false
-    },
-     {
-        "name": "Alma On The Case",
-        "url": "https://springroll-tc.pbskids.org/0315bc8e-1349-4ab0-905c-e7305e52bad0/f65e661f66d0c311f155033c997aa6099ae0ff22/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
-        "editable": false
-    },
-    {
-        "name": "Daniels Babysitter",
-        "url": "https://springroll-tc.pbskids.org/daniels-babysitter/05399a75d16263dcb15edf38c91db70f4f4b0882/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
-        "editable": false
-    },
-    {
-        "name": "Daniel Shares His Tigertastic Car",
-        "url": "https://springroll-tc.pbskids.org/daniel-shares-his-tigertastic-car/53176e1689ac954223d9d23539b2000b8439bddf/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
-        "editable": false
-    },
-    {
-        "name": "Daniel Goes To The Doctor",
-        "url": "https://springroll-tc.pbskids.org/daniel-goes-to-the-doctor/6012068bf9aa75c85ca8a77eec339e8447d638e5/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
-        "editable": false
-    },
-    {
-        "name": "Daniel And His Friends",
-        "url": "https://springroll-tc.pbskids.org/daniel-and-his-friends/7ffe0a68e7849092f6216004128442b311444b4c/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
         "editable": false
     }
 ]
@@ -2152,11 +2087,6 @@
                 "editable": false,
                 "children": [
     {
-        "name": "Play Alma Dominoes Game",
-        "url": "https://springroll-tc.pbskids.org/ad61936a-e6fa-407c-87fb-6224fb4c69c7/873cf6aed279d3aaec3a01f5f36e06243ea9fd79/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
-        "editable": false
-    },
-    {
         "name": "Play Rosie's Slime Store",
         "url": "https://springroll-tc.pbskids.org/rosies-rules-rosies-shop/4ae55eef548de886147cb28086dee36656938062/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
         "editable": false
@@ -2249,11 +2179,6 @@
     {
         "name": "Play Buzz and Delete Save the Day",
         "url": "https://springroll-tc.pbskids.org/buzz-and-delete-save-the-day/b43fcb42e078940dc72cc8014a4d4b05cbef560f/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
-        "editable": false
-    },
-    {
-        "name": "Leaf Leader",
-        "url": "https://springroll-tc.pbskids.org/leaf-leader/91d18b08bbb8eab88f6e4ea3839b6a990c3134d3/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
         "editable": false
     },
     {
@@ -2354,11 +2279,6 @@
         "editable": false
     },
     {
-        "name": "Play World Rescue",
-        "url": "https://springroll-tc.pbskids.org/5f551952-7df3-49f0-a3b0-625793261845/fe4f032e7b6c6a0359900a07c79935810f35a51a/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
-        "editable": false
-    },
-    {
         "name": "Play Cyber Sound Quest",
         "url": "https://springroll-tc.pbskids.org/fdd52df7-bc70-43db-afaf-c7d642f0d2e1/23c42d365478ea52089131aede0f7b3f60bffe7e/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
         "editable": false
@@ -2366,11 +2286,6 @@
     {
         "name": "Elinors Nature Adventure",
         "url": "https://springroll-tc.pbskids.org/elinor-app/491eab6da5c33cd72a62bd9c91e4fd60969cf3f4/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
-        "editable": false
-    },
-    {
-        "name": "Nature Walk",
-        "url": "https://springroll-tc.pbskids.org/daniel-tigers-neighborhood-nature-walk/d9a80de72e3d1c9a4926c079c3636c9930fa3ed0/release/index.html?playOptions=%7B%22language%22%3A%22en%22%7D",
         "editable": false
     },
     {
