@@ -21,13 +21,6 @@
             ]
         },
         {
-            "domain": "funbrain.com",
-            "blacklistedPaths": [
-                "/games",
-                "/games/*"
-            ]
-        },
-        {
             "domain": "microsoftonline.com"
         },
         {
@@ -2684,11 +2677,6 @@
                     {
                         "name": "Ted Ed",
                         "url": "https://ed.ted.com/lessons?sort=featured-position&student_level%5B%5D=1",
-                        "editable": false
-                    },
-                    {
-                        "name": "Fun Brain",
-                        "url": "https://www.funbrain.com/videos",
                         "editable": false
                     },
                     {
