@@ -1435,6 +1435,11 @@
                         "editable": false
                     },
                     {
+                        "name": "Computer Science for Kids",
+                        "url": "https://ltvtk.github.io/cskids/",
+                        "editable": false
+                    },
+                    {
                         "name": "Python turtle docs",
                         "url": "https://docs.python.org/3/library/turtle.html",
                         "editable": true
