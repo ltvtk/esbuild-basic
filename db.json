@@ -1440,18 +1440,8 @@
                         "editable": false
                     },
                     {
-                        "name": "Python turtle docs",
-                        "url": "https://docs.python.org/3/library/turtle.html",
-                        "editable": true
-                    },
-                    {
-                        "name": "Pygame Zero tutorial",
-                        "url": "https://aposteriori.trinket.io/game-development-with-pygame-zero#/gem-catcher/first-program",
-                        "editable": true
-                    },
-                    {
-                        "name": "Simple game tutorial",
-                        "url": "https://berbasoft.com/simplegametutorials/pygamezero/",
+                        "name": "Flowchart-blockly-python tutorial",
+                        "url": "https://ltvtk.github.io/turtledu/",
                         "editable": true
                     },
                     {
